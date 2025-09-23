@@ -1,6 +1,6 @@
 baseURL = "https://wenrui-jiang.github.io/"
 title = "Jiang Wenrui's Website"
-theme = "wenruijiang"
+theme = "github.com/lxndrblz/anatole"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
