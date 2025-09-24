@@ -1,95 +1,56 @@
-baseURL = "https://wenrui-jiang.github.io/"
-title = "Jiang Wenrui's Website"
+baseURL = "https://wenrui-jiang.github.io"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Wenrui Jiang"
+
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
 theme = "github.com/lxndrblz/anatole"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
 
-languageCode = "en"
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
-[params]
-title = "I'm Jiang Wenrui"
-author = "Jiang Wenrui"
-description = "Call me Leo"
-profilePicture = "images/live.jpg"
+# Localized dates requires Hugo version 0.87.0
+localizedDates = false
 
 [markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe=true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
 
-[languages]
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
 
-[languages.en]
-languageName = "English"
-languageCode = "en"
-contentDir = "content/english"
-title = "Jiang Wenrui's Website"
-weight = 1
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
 
-[[languages.en.menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[languages.en.menu.main]]
-name = "Posts"
-url = "/post/"
-weight = 2
-
-[[languages.en.menu.main]]
-name = "Portfolio"
-url = "/portfolio/"
-weight = 3
-
-[[languages.en.menu.main]]
-name = "About"
-url = "/about/"
-weight = 4
-
-[[languages.en.menu.main]]
-name = "Accomplishments"
-url = "/awards/"
-weight = 5
-
-[[languages.en.menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 6
-
-[languages.zh]
-languageName = "中文"
-languageCode = "zh"
-contentDir = "content/Chinese"
-title = "蒋文睿的网站"
-weight = 2
-
-[[languages.zh.menu.main]]
-name = "主页"
-url = "/zh/"
-weight = 1
-
-[[languages.zh.menu.main]]
-name = "文章"
-url = "/zh/post/"
-weight = 2
-
-[[languages.zh.menu.main]]
-name = "项目"
-url = "/zh/portfolio/"
-weight = 3
-
-[[languages.zh.menu.main]]
-name = "关于"
-url = "/zh/about/"
-weight = 4
-
-[[languages.zh.menu.main]]
-name = "荣誉"
-url = "/zh/awards/"
-weight = 5
-
-[[languages.zh.menu.main]]
-name = "联系"
-url = "/zh/contact/"
-weight = 6
+[services]
+# Enable Disqus.Disqus.Shortname
+  [services.disqus]
+    #shortname = 'your-disqus-shortname'
+# Google Analytics
+  [services.googleAnalytics]
+    #ID = 'G-MEASUREMENT_ID'
