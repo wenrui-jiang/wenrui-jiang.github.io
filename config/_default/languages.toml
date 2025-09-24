@@ -9,3 +9,7 @@ title = "蒋文睿的网站"
 weight = 2
 LanguageName = "中文"
 contentDir = "content/Chinese"
+[zh.params]
+title = "我是蒋文睿"
+author = "蒋文睿"
+description = "北京交通大学硕士研究生"
