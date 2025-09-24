@@ -3,6 +3,21 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Wenrui Jiang"
 
+[languages]
+[languages.en]
+languageName = "English"
+languageCode = "en"
+contentDir = "content/english"
+title = "Jiang Wenrui's Website"
+weight = 1
+
+[languages.zh]
+languageName = "中文"
+languageCode = "zh"
+contentDir = "content/Chinese"
+title = "蒋文睿的网站"
+weight = 2
+
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
