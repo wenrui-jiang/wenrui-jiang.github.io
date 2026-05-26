@@ -1,58 +1,45 @@
 portfolioitems:
-  # portfolio category
-  - title: Coding Projects
-    description: 'All my coding projects'
+  - title: Engineering Projects
+    description: Selected engineering and internship projects.
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        linktext: 'Visit project website'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+      - name: A/B Testing Platform
+        image: '/images/logo/eyeofcloud.png'
+        description: Backend development for an A/B testing platform, including experiment scheduling, task state management, result collection, report generation, and email delivery.
         tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2020'
-        end: '2021'
+          - Java
+          - Spring Cloud
+          - MyBatis
+          - MySQL
+          - RabbitMQ
+        status: 'Completed'
+        start: '2022.12'
+        end: '2023.03'
         authors:
-          - lxndrblz
-          - alexanderdavide
-      - name: Project 2
+          - Jiang Wenrui
+      - name: Railway Maintenance Ticketing System
         image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        status: 'On Hold'
+        description: Backend modules for a digital railway inspection and maintenance ticketing system, including authentication, ticket upload, data persistence, and ECharts-based dashboards.
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        link: https://gohugo.io/
-        status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        tags:
-          - Tag 1
-          - Tag 2
-  # portfolio category
-  - title: Research
-    description: 'All my research projects'
+          - Java
+          - Spring Boot
+          - Spring Security
+          - MyBatis-Plus
+          - ECharts
+        status: 'Internship project'
+        start: '2025.04'
+        end: '2025.07'
+        authors:
+          - Jiang Wenrui
+  - title: Research In Progress
+    description: Research directions and exploratory work that are not yet formal publications.
     portfolioitem:
-      - name: Project 1
+      - name: News-driven Stock Forecasting
         image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
+        description: Exploratory research on causal grouping methods for news-driven stock forecasting. This work is still in progress and is listed as a research direction rather than a published result.
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
+          - Machine Learning
+          - Causal Modeling
+          - Financial Data
+        status: 'In progress'
+        authors:
+          - Jiang Wenrui

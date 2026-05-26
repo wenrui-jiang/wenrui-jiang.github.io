@@ -1,39 +1,36 @@
 +++
-title = "Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern)"
+title = "Beijing Heyicloud Technology Co., Ltd - Java Developer Intern"
 date = "2022-12-01"
 draft = false
 +++
 
-![company-logo](/images/logos/eyeofcloud.png) <!-- Put your logo under images/logos -->
+![company-logo](/images/logo/eyeofcloud.png)
 
 ### Duration
+
 Dec 2022 - Mar 2023
 
 ### Project
+
 A/B Testing Platform Development
 
 ### Overview
-A/B testing is a method for comparing two or more versions of a webpage or app to determine which performs better, often used in website iterations, personalized content delivery, and user behavior analysis.
+
+A/B testing compares two or more versions of a webpage or app to determine which performs better. The project covered experiment configuration, scheduled execution, result collection, and feedback report generation.
 
 ### Tech Stack
-SpringCloud · MyBatis · MySQL · RabbitMQ · XXL-JOB
+
+Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
 
 ### Responsibilities
 
-- **Backend API Development**:
-  - Developed APIs to schedule and trigger A/B experiments via `xxl-job`, based on user-defined timing settings from the frontend.
-  - Enabled dynamic control (pause, update, restart) of ongoing experiments through the job scheduling system.
+- **Backend API development**: implemented APIs for scheduling A/B experiments through `xxl-job` based on timing settings configured by users.
+- **Task state management**: supported pausing, updating, and restarting running experiment tasks.
+- **Experiment result processing**: collected experiment results and used them as input for a multi-armed bandit strategy to adjust traffic allocation.
+- **Report and notification integration**: integrated webpage-to-PDF report generation and email delivery for experiment feedback.
 
-- **Experiment Result Processing**:
-  - Collected experiment results and fed them into a multi-armed bandit algorithm to calculate optimal traffic allocation, then updated website traffic routing rules accordingly.
+### Takeaways
 
-- **Frontend & Integration**:
-  - Integrated PDF export functionality for experiment reports via a webpage-to-PDF API.
-  - Developed email-sending functionality to deliver PDF feedback reports to clients.
-
----
-
-### Achievements
-- Enabled automated A/B testing lifecycle management;
-- Implemented intelligent traffic distribution for improved performance;
-- Enhanced user experience with automated experiment reporting.
+- Practiced backend development for experiment lifecycle management.
+- Worked on the full flow from experiment setup to reporting.
+- Deepened engineering experience with Spring Cloud, MyBatis, RabbitMQ, and scheduled job systems.

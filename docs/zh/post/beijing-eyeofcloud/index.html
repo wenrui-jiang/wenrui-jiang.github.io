@@ -116,7 +116,9 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://wenrui-jiang.github.io/images/site-feature-image.png">
   <meta name="twitter:title" content="北京合力云通科技有限公司 - Java 开发工程师（实习）">
-  <meta name="twitter:description" content="任职时间 2022.12 - 2023.03">
+  <meta name="twitter:description" content="任职时间 2022.12 - 2023.03
+项目名称 A/B 测试平台开发
+项目简介 A/B 测试是一种通过比较网页或应用多个版本来评估效果的方法，常用于页面迭代、个性化内容展示和用户行为分析。该项目围绕实验配置、任务调度、结果收集和反馈报告生成展开。">
 
 
 
@@ -124,7 +126,9 @@
   <meta property="og:url" content="https://wenrui-jiang.github.io/zh/post/beijing-eyeofcloud/">
   <meta property="og:site_name" content="蒋文睿的网站">
   <meta property="og:title" content="北京合力云通科技有限公司 - Java 开发工程师（实习）">
-  <meta property="og:description" content="任职时间 2022.12 - 2023.03">
+  <meta property="og:description" content="任职时间 2022.12 - 2023.03
+项目名称 A/B 测试平台开发
+项目简介 A/B 测试是一种通过比较网页或应用多个版本来评估效果的方法，常用于页面迭代、个性化内容展示和用户行为分析。该项目围绕实验配置、任务调度、结果收集和反馈报告生成展开。">
   <meta property="og:locale" content="zh">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
@@ -148,7 +152,7 @@
         "alternativeHeadline": "",
         "description": "
       
-        \u003cp\u003e\u003cimg src=\u0022\/images\/logos\/eyeofcloud.png\u0022 alt=\u0022company-logo\u0022\u003e \u003c!-- 在 images\/logos 下放置公司 logo --\u003e\u003c\/p\u003e\n\u003ch3 id=\u0022任职时间\u0022\u003e任职时间\u003c\/h3\u003e\n\u003cp\u003e2022.12 - 2023.03\u003c\/p\u003e
+        \u003cp\u003e\u003cimg src=\u0022\/images\/logo\/eyeofcloud.png\u0022 alt=\u0022company-logo\u0022\u003e\u003c\/p\u003e\n\u003ch3 id=\u0022任职时间\u0022\u003e任职时间\u003c\/h3\u003e\n\u003cp\u003e2022.12 - 2023.03\u003c\/p\u003e\n\u003ch3 id=\u0022项目名称\u0022\u003e项目名称\u003c\/h3\u003e\n\u003cp\u003eA\/B 测试平台开发\u003c\/p\u003e\n\u003ch3 id=\u0022项目简介\u0022\u003e项目简介\u003c\/h3\u003e\n\u003cp\u003eA\/B 测试是一种通过比较网页或应用多个版本来评估效果的方法，常用于页面迭代、个性化内容展示和用户行为分析。该项目围绕实验配置、任务调度、结果收集和反馈报告生成展开。\u003c\/p\u003e
 
 
       
@@ -203,7 +207,7 @@
 
     ,
         "url" : "https:\/\/wenrui-jiang.github.io\/zh\/post\/beijing-eyeofcloud\/",
-        "wordCount" : "44",
+        "wordCount" : "35",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -555,44 +559,27 @@
             <span class="post__meta-text">One-minute read</span>
           </li>
         </ul>
-      <p><img src="/images/logos/eyeofcloud.png" alt="company-logo"> <!-- 在 images/logos 下放置公司 logo --></p>
+      <p><img src="/images/logo/eyeofcloud.png" alt="company-logo"></p>
 <h3 id="任职时间">任职时间</h3>
 <p>2022.12 - 2023.03</p>
 <h3 id="项目名称">项目名称</h3>
-<p>A/B 测试系统开发</p>
+<p>A/B 测试平台开发</p>
 <h3 id="项目简介">项目简介</h3>
-<p>A/B 测试是一种测试方法，通过向用户呈现多个版本的网页或应用，分析并选择最优版本。广泛用于网页更新、个性化推荐及用户行为可视化分析等场景。</p>
-<h3 id="技术架构">技术架构</h3>
-<p>SpringCloud · MyBatis · MySQL · RabbitMQ · XXL-JOB</p>
+<p>A/B 测试是一种通过比较网页或应用多个版本来评估效果的方法，常用于页面迭代、个性化内容展示和用户行为分析。该项目围绕实验配置、任务调度、结果收集和反馈报告生成展开。</p>
+<h3 id="技术栈">技术栈</h3>
+<p>Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB</p>
 <h3 id="工作内容">工作内容</h3>
 <ul>
-<li>
-<p><strong>后端接口开发</strong>：</p>
-<ul>
-<li>实现定时启动 A/B 测试实验：基于用户在前端配置的时间参数，调用 <code>xxl-job</code> 微服务，启动 AB 实验。</li>
-<li>支持对正在运行中的 <code>xxl-job</code> 任务进行暂停、参数修改和重启。</li>
+<li><strong>后端接口开发</strong>：根据用户在前端配置的时间参数，调用 <code>xxl-job</code> 微服务定时启动 A/B 测试实验。</li>
+<li><strong>任务状态管理</strong>：支持对运行中的实验任务进行暂停、参数修改和重启。</li>
+<li><strong>实验结果处理</strong>：收集实验结果，并将数据输入多臂老虎机算法，计算新版本页面的流量分配策略。</li>
+<li><strong>报告与通知</strong>：调用网页转 PDF 接口生成实验反馈报告，并通过邮件接口发送给客户。</li>
 </ul>
-</li>
-<li>
-<p><strong>实验结果处理</strong>：</p>
+<h3 id="项目收获">项目收获</h3>
 <ul>
-<li>收集实验结果，输入至多臂老虎机算法，得出新版页面的流量分配策略并自动更新推送配置。</li>
-</ul>
-</li>
-<li>
-<p><strong>前端开发与集成</strong>：</p>
-<ul>
-<li>调用网页转 PDF 接口，将实验反馈内容导出并展示至前端。</li>
-<li>接入邮件发送接口，自动向客户发送反馈报告 PDF。</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="项目成果">项目成果</h3>
-<ul>
-<li>实现实验生命周期自动化，提升运营效率；</li>
-<li>支持算法动态优化，提升推荐转化率；</li>
-<li>提高客户满意度，实现实验自动通知与反馈。</li>
+<li>熟悉了实验平台的后端业务流程和任务调度方式。</li>
+<li>参与了从实验创建、执行、结果处理到报告反馈的完整链路。</li>
+<li>加深了对 Spring Cloud、MyBatis、RabbitMQ 和定时任务系统的工程实践理解。</li>
 </ul>
 </div>
     <div class="post__footer">

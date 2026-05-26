@@ -11,7 +11,7 @@
   <title>
     
       
-        Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern) |
+        Beijing Heyicloud Technology Co., Ltd - Java Developer Intern |
       Jiang Wenrui
 
   </title>
@@ -115,16 +115,18 @@
   
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://wenrui-jiang.github.io/images/site-feature-image.png">
-  <meta name="twitter:title" content="Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern)">
-  <meta name="twitter:description" content="Duration Dec 2022 - Mar 2023">
+  <meta name="twitter:title" content="Beijing Heyicloud Technology Co., Ltd - Java Developer Intern">
+  <meta name="twitter:description" content="Duration Dec 2022 - Mar 2023
+Project A/B Testing Platform Development">
 
 
 
   
   <meta property="og:url" content="https://wenrui-jiang.github.io/post/beijing-eyeofcloud/">
   <meta property="og:site_name" content="Jiang Wenrui&#39;s Website">
-  <meta property="og:title" content="Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern)">
-  <meta property="og:description" content="Duration Dec 2022 - Mar 2023">
+  <meta property="og:title" content="Beijing Heyicloud Technology Co., Ltd - Java Developer Intern">
+  <meta property="og:description" content="Duration Dec 2022 - Mar 2023
+Project A/B Testing Platform Development">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
@@ -143,12 +145,12 @@
         "@context": "http://schema.org",
         "@type": "BlogPosting",
         "articleSection": "post",
-        "name": "Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern)",
-        "headline": "Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern)",
+        "name": "Beijing Heyicloud Technology Co., Ltd - Java Developer Intern",
+        "headline": "Beijing Heyicloud Technology Co., Ltd - Java Developer Intern",
         "alternativeHeadline": "",
         "description": "
       
-        \u003cp\u003e\u003cimg src=\u0022\/images\/logos\/eyeofcloud.png\u0022 alt=\u0022company-logo\u0022\u003e \u003c!-- Put your logo under images\/logos --\u003e\u003c\/p\u003e\n\u003ch3 id=\u0022duration\u0022\u003eDuration\u003c\/h3\u003e\n\u003cp\u003eDec 2022 - Mar 2023\u003c\/p\u003e
+        \u003cp\u003e\u003cimg src=\u0022\/images\/logo\/eyeofcloud.png\u0022 alt=\u0022company-logo\u0022\u003e\u003c\/p\u003e\n\u003ch3 id=\u0022duration\u0022\u003eDuration\u003c\/h3\u003e\n\u003cp\u003eDec 2022 - Mar 2023\u003c\/p\u003e\n\u003ch3 id=\u0022project\u0022\u003eProject\u003c\/h3\u003e\n\u003cp\u003eA\/B Testing Platform Development\u003c\/p\u003e
 
 
       
@@ -203,7 +205,7 @@
 
     ,
         "url" : "https:\/\/wenrui-jiang.github.io\/post\/beijing-eyeofcloud\/",
-        "wordCount" : "163",
+        "wordCount" : "144",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -535,7 +537,7 @@
     
     <div class="post__content">
       
-        <h1>Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern)</h1>
+        <h1>Beijing Heyicloud Technology Co., Ltd - Java Developer Intern</h1>
       
       
         <ul class="post__meta">
@@ -555,44 +557,27 @@
             <span class="post__meta-text">One-minute read</span>
           </li>
         </ul>
-      <p><img src="/images/logos/eyeofcloud.png" alt="company-logo"> <!-- Put your logo under images/logos --></p>
+      <p><img src="/images/logo/eyeofcloud.png" alt="company-logo"></p>
 <h3 id="duration">Duration</h3>
 <p>Dec 2022 - Mar 2023</p>
 <h3 id="project">Project</h3>
 <p>A/B Testing Platform Development</p>
 <h3 id="overview">Overview</h3>
-<p>A/B testing is a method for comparing two or more versions of a webpage or app to determine which performs better, often used in website iterations, personalized content delivery, and user behavior analysis.</p>
+<p>A/B testing compares two or more versions of a webpage or app to determine which performs better. The project covered experiment configuration, scheduled execution, result collection, and feedback report generation.</p>
 <h3 id="tech-stack">Tech Stack</h3>
-<p>SpringCloud · MyBatis · MySQL · RabbitMQ · XXL-JOB</p>
+<p>Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB</p>
 <h3 id="responsibilities">Responsibilities</h3>
 <ul>
-<li>
-<p><strong>Backend API Development</strong>:</p>
-<ul>
-<li>Developed APIs to schedule and trigger A/B experiments via <code>xxl-job</code>, based on user-defined timing settings from the frontend.</li>
-<li>Enabled dynamic control (pause, update, restart) of ongoing experiments through the job scheduling system.</li>
+<li><strong>Backend API development</strong>: implemented APIs for scheduling A/B experiments through <code>xxl-job</code> based on timing settings configured by users.</li>
+<li><strong>Task state management</strong>: supported pausing, updating, and restarting running experiment tasks.</li>
+<li><strong>Experiment result processing</strong>: collected experiment results and used them as input for a multi-armed bandit strategy to adjust traffic allocation.</li>
+<li><strong>Report and notification integration</strong>: integrated webpage-to-PDF report generation and email delivery for experiment feedback.</li>
 </ul>
-</li>
-<li>
-<p><strong>Experiment Result Processing</strong>:</p>
+<h3 id="takeaways">Takeaways</h3>
 <ul>
-<li>Collected experiment results and fed them into a multi-armed bandit algorithm to calculate optimal traffic allocation, then updated website traffic routing rules accordingly.</li>
-</ul>
-</li>
-<li>
-<p><strong>Frontend &amp; Integration</strong>:</p>
-<ul>
-<li>Integrated PDF export functionality for experiment reports via a webpage-to-PDF API.</li>
-<li>Developed email-sending functionality to deliver PDF feedback reports to clients.</li>
-</ul>
-</li>
-</ul>
-<hr>
-<h3 id="achievements">Achievements</h3>
-<ul>
-<li>Enabled automated A/B testing lifecycle management;</li>
-<li>Implemented intelligent traffic distribution for improved performance;</li>
-<li>Enhanced user experience with automated experiment reporting.</li>
+<li>Practiced backend development for experiment lifecycle management.</li>
+<li>Worked on the full flow from experiment setup to reporting.</li>
+<li>Deepened engineering experience with Spring Cloud, MyBatis, RabbitMQ, and scheduled job systems.</li>
 </ul>
 </div>
     <div class="post__footer">
