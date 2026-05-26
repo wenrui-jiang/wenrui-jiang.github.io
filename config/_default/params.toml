@@ -76,6 +76,16 @@ title = "instagram"
 url = "https://www.instagram.com/vegetablebird086/"
 
 [[socialIcons]]
+icon = "fa-brands fa-whatsapp"
+title = "WhatsApp"
+url = "https://wa.me/4915259695197"
+
+[[socialIcons]]
+icon = "fa-brands fa-telegram"
+title = "Telegram"
+url = "https://t.me/+4915259695197"
+
+[[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
 url = "mailto:jiang.wenrui@bjtu.edu.cn"
