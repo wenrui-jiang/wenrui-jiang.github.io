@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jiang Wenrui</title>
-    <link>https://wenruijiang.github.io/tags/</link>
-    <description>Recent content in Tags on Jiang Wenrui</description>
+    <title>Tags on Jiang Wenrui&#39;s Website</title>
+    <link>https://wenrui-jiang.github.io/tags/</link>
+    <description>Recent content in Tags on Jiang Wenrui&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenruijiang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wenrui-jiang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>https://wenruijiang.github.io/tags/index/</link>
-      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <link>https://wenrui-jiang.github.io/tags/index/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/tags/index/</guid>
+      <guid>https://wenrui-jiang.github.io/tags/index/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Demo</title>
-      <link>https://wenruijiang.github.io/tags/demo/</link>
+      <link>https://wenrui-jiang.github.io/tags/demo/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/tags/demo/</guid>
+      <guid>https://wenrui-jiang.github.io/tags/demo/</guid>
       
         <description></description>
       
@@ -31,32 +31,10 @@
     
     <item>
       <title>Shortcode</title>
-      <link>https://wenruijiang.github.io/tags/shortcode/</link>
+      <link>https://wenrui-jiang.github.io/tags/shortcode/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/tags/shortcode/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Redirect</title>
-      <link>https://wenruijiang.github.io/tags/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/tags/redirect/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>RedirectUrl</title>
-      <link>https://wenruijiang.github.io/tags/redirecturl/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/tags/redirecturl/</guid>
+      <guid>https://wenrui-jiang.github.io/tags/shortcode/</guid>
       
         <description></description>
       
@@ -64,10 +42,10 @@
     
     <item>
       <title>Css</title>
-      <link>https://wenruijiang.github.io/tags/css/</link>
+      <link>https://wenrui-jiang.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/tags/css/</guid>
+      <guid>https://wenrui-jiang.github.io/tags/css/</guid>
       
         <description></description>
       
@@ -75,10 +53,10 @@
     
     <item>
       <title>Html</title>
-      <link>https://wenruijiang.github.io/tags/html/</link>
+      <link>https://wenrui-jiang.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/tags/html/</guid>
+      <guid>https://wenrui-jiang.github.io/tags/html/</guid>
       
         <description></description>
       
@@ -86,32 +64,10 @@
     
     <item>
       <title>Markdown</title>
-      <link>https://wenruijiang.github.io/tags/markdown/</link>
+      <link>https://wenrui-jiang.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/tags/markdown/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>https://wenruijiang.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/tags/privacy/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shortcodes</title>
-      <link>https://wenruijiang.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/tags/shortcodes/</guid>
+      <guid>https://wenrui-jiang.github.io/tags/markdown/</guid>
       
         <description></description>
       
@@ -119,21 +75,10 @@
     
     <item>
       <title>Text</title>
-      <link>https://wenruijiang.github.io/tags/text/</link>
+      <link>https://wenrui-jiang.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/tags/text/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji</title>
-      <link>https://wenruijiang.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/tags/emoji/</guid>
+      <guid>https://wenrui-jiang.github.io/tags/text/</guid>
       
         <description></description>
       
@@ -141,10 +86,10 @@
     
     <item>
       <title>Thumbnail</title>
-      <link>https://wenruijiang.github.io/tags/thumbnail/</link>
+      <link>https://wenrui-jiang.github.io/tags/thumbnail/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/tags/thumbnail/</guid>
+      <guid>https://wenrui-jiang.github.io/tags/thumbnail/</guid>
       
         <description></description>
       

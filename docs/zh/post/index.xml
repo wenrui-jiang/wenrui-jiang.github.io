@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文章 on 蒋文睿的网站</title>
+    <link>https://wenrui-jiang.github.io/zh/post/</link>
+    <description>Recent content in 文章 on 蒋文睿的网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wenrui-jiang.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>北京合力云通科技有限公司 - Java 开发工程师（实习）</title>
+      <link>https://wenrui-jiang.github.io/zh/post/beijing-eyeofcloud/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/zh/post/beijing-eyeofcloud/</guid>
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://wenrui-jiang.github.io/images/logos/eyeofcloud.png&#34; alt=&#34;company-logo&#34;&gt; &lt;!-- 在 images/logos 下放置公司 logo --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;任职时间&#34;&gt;任职时间&lt;/h3&gt;
+&lt;p&gt;2022.12 - 2023.03&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The Notice Shortcode</title>
+      <link>https://wenrui-jiang.github.io/zh/post/notice-shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/zh/post/notice-shortcode/</guid>
+      
+        <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://wenrui-jiang.github.io/zh/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/zh/post/markdown-syntax/</guid>
+      
+        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://wenrui-jiang.github.io/zh/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/zh/post/placeholder-text/</guid>
+      
+        <description>Lorem Ipsum Dolor Si Amet</description>
+      
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://wenrui-jiang.github.io/zh/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/zh/post/math-typesetting/</guid>
+      
+        <description>A brief guide to setup KaTeX</description>
+      
+    </item>
+    
+    <item>
+      <title>Guide to Thumbnails in Hugo</title>
+      <link>https://wenrui-jiang.github.io/zh/post/image-test/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/zh/post/image-test/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+  </channel>
+</rss>

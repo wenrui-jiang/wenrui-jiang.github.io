@@ -2,162 +2,379 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wenruijiang.github.io/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <loc>https://wenrui-jiang.github.io/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wenruijiang.github.io/zh/"
+                href="https://wenrui-jiang.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenruijiang.github.io/"
+                href="https://wenrui-jiang.github.io/"
                 />
   </url><url>
-    <loc>https://wenruijiang.github.io/post/series-part-1/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/tags/index/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/post/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/series/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <loc>https://wenrui-jiang.github.io/archives/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wenruijiang.github.io/zh/series/"
+                href="https://wenrui-jiang.github.io/zh/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenruijiang.github.io/series/"
+                href="https://wenrui-jiang.github.io/archives/"
                 />
   </url><url>
-    <loc>https://wenruijiang.github.io/series/series-setup/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/tags/</loc>
-    <lastmod>2025-05-17T00:00:00+00:00</lastmod>
+    <loc>https://wenrui-jiang.github.io/about/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wenruijiang.github.io/zh/tags/"
+                href="https://wenrui-jiang.github.io/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenruijiang.github.io/tags/"
+                href="https://wenrui-jiang.github.io/about/"
                 />
   </url><url>
-    <loc>https://wenruijiang.github.io/awards/</loc>
+    <loc>https://wenrui-jiang.github.io/contact/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/contact/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/post/beijing-eyeofcloud/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/post/beijing-eyeofcloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/post/beijing-eyeofcloud/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/tags/index/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/index/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/post/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/post/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/tags/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/certifications/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/tags/demo/</loc>
-    <lastmod>2022-03-18T21:47:41+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/tags/shortcode/</loc>
-    <lastmod>2022-03-18T21:47:41+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/post/notice-shortcode/</loc>
-    <lastmod>2022-03-18T21:47:41+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/post/redirect/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/tags/redirect/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/tags/redirecturl/</loc>
-    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/post/figure-shortcode/</loc>
-    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/post/series-part-2/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wenruijiang.github.io/zh/categories/"
+                href="https://wenrui-jiang.github.io/zh/awards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenruijiang.github.io/categories/"
+                href="https://wenrui-jiang.github.io/awards/"
                 />
   </url><url>
-    <loc>https://wenruijiang.github.io/tags/css/</loc>
+    <loc>https://wenrui-jiang.github.io/certifications/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/certifications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/certifications/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/tags/demo/</loc>
+    <lastmod>2022-03-18T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/demo/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/tags/shortcode/</loc>
+    <lastmod>2022-03-18T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/shortcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/shortcode/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/post/notice-shortcode/</loc>
+    <lastmod>2022-03-18T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/post/notice-shortcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/post/notice-shortcode/"
+                />
+  </url><url>
+    <loc>https://wenrui-jiang.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/categories/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/tags/html/</loc>
+    <loc>https://wenrui-jiang.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/css/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/tags/markdown/</loc>
+    <loc>https://wenrui-jiang.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/html/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/post/markdown-syntax/</loc>
+    <loc>https://wenrui-jiang.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/markdown/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/categories/syntax/</loc>
+    <loc>https://wenrui-jiang.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/post/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/post/markdown-syntax/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/categories/themes/</loc>
+    <loc>https://wenrui-jiang.github.io/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/series/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/series/themes-guide/</loc>
+    <loc>https://wenrui-jiang.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/categories/syntax/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://wenrui-jiang.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/categories/themes/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://wenrui-jiang.github.io/series/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/series/themes-guide/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/post/placeholder-text/</loc>
+    <loc>https://wenrui-jiang.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/post/placeholder-text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/post/placeholder-text/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/tags/text/</loc>
+    <loc>https://wenrui-jiang.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/text/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/contact/</loc>
+    <loc>https://wenrui-jiang.github.io/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/post/math-typesetting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/post/math-typesetting/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenruijiang.github.io/post/image-test/</loc>
+    <loc>https://wenrui-jiang.github.io/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/post/image-test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/post/image-test/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/tags/thumbnail/</loc>
+    <loc>https://wenrui-jiang.github.io/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/tags/thumbnail/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/tags/thumbnail/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://wenrui-jiang.github.io/imprint/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/imprint/"
+                />
   </url><url>
-    <loc>https://wenruijiang.github.io/imprint/</loc>
-  </url><url>
-    <loc>https://wenruijiang.github.io/portfolio/</loc>
+    <loc>https://wenrui-jiang.github.io/portfolio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://wenrui-jiang.github.io/zh/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wenrui-jiang.github.io/portfolio/"
+                />
   </url>
 </urlset>

@@ -1,5 +1,5 @@
 ---
-title: 'Portfolio'
+title: '作品集'
 draft: false
-description: 'Welcome to my Portfolio!'
+description: '欢迎浏览我的作品集'
 ---

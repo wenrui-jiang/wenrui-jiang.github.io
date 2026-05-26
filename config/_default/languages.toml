@@ -1,11 +1,13 @@
 [en]
-title = "Jiang Wenrui"
+title = "Jiang Wenrui's Website"
+languageCode = "en"
 weight = 1
-LanguageName = "EN"
+languageName = "English"
 contentDir = "content/english"
 
 [zh]
-title = "蒋文睿"
+title = "蒋文睿的网站"
+languageCode = "zh"
 weight = 2
-LanguageName = "中文"
-contentDir = "content/chinese"
+languageName = "中文"
+contentDir = "content/Chinese"

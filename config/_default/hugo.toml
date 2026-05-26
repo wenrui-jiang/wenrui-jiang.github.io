@@ -1,12 +1,13 @@
-baseURL = "https://wenrui-jiang.github.io"
+baseURL = "https://wenrui-jiang.github.io/"
 languageCode = "en"
-DefaultContentLanguage = "en"
-title = "Website of Wenrui Jiang"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+title = "Jiang Wenrui's Website"
 
 # theme as hugo module
-#theme = "github.com/lxndrblz/anatole"
+theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
-theme = "wenruijiang"
+#theme = "wenruijiang"
 
 
 summarylength = 10

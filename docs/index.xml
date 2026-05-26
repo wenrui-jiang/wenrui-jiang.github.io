@@ -1,194 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiang Wenrui</title>
-    <link>https://wenruijiang.github.io/</link>
-    <description>Recent content on Jiang Wenrui</description>
+    <title>Jiang Wenrui&#39;s Website</title>
+    <link>https://wenrui-jiang.github.io/</link>
+    <description>Recent content on Jiang Wenrui&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenruijiang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Beijing Beijiufang railway tech co.ltd.</title>
-      <link>https://wenruijiang.github.io/post/series-part-1/</link>
-      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/post/series-part-1/</guid>
-      
-        <description>A brief guide to how to setup series part 1</description>
-      
-    </item>
-    
-    <item>
-      <title>Awards</title>
-      <link>https://wenruijiang.github.io/awards/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/awards/</guid>
-      
-        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
-      
-    </item>
-    
-    <item>
-      <title>Certifications</title>
-      <link>https://wenruijiang.github.io/certifications/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/certifications/</guid>
-      
-        <description>Hugo Certifications</description>
-      
-    </item>
-    
-    <item>
-      <title>The Notice Shortcode</title>
-      <link>https://wenruijiang.github.io/post/notice-shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/post/notice-shortcode/</guid>
-      
-        <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Redirect</title>
-      <link>https://wenruijiang.github.io/post/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/post/redirect/</guid>
-      
-        <description>Usage of redirectUrl</description>
-      
-    </item>
-    
-    <item>
-      <title>The Figure Shortcode</title>
-      <link>https://wenruijiang.github.io/post/figure-shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/post/figure-shortcode/</guid>
-      
-        <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Beijing Jiaotong University ---- Master of Science in Computer Science</title>
-      <link>https://wenruijiang.github.io/post/series-part-2/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/post/series-part-2/</guid>
-      
-        <description>A brief guide to how to setup series part 2</description>
-      
-    </item>
-    
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenrui-jiang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://wenruijiang.github.io/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <link>https://wenrui-jiang.github.io/archives/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/archives/</guid>
+      <guid>https://wenrui-jiang.github.io/archives/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://wenruijiang.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>https://wenrui-jiang.github.io/about/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/post/markdown-syntax/</guid>
+      <guid>https://wenrui-jiang.github.io/about/</guid>
       
-        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://wenruijiang.github.io/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/post/rich-content/</guid>
-      
-        <description>A brief description of Hugo Shortcodes</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://wenruijiang.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/post/placeholder-text/</guid>
-      
-        <description>Lorem Ipsum Dolor Si Amet</description>
+        <description>Jiang Wenrui&#39;s personal introduction</description>
       
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://wenruijiang.github.io/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <link>https://wenrui-jiang.github.io/contact/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/contact/</guid>
+      <guid>https://wenrui-jiang.github.io/contact/</guid>
       
         <description>Contact Page</description>
       
     </item>
     
     <item>
+      <title>Beijing Heyicloud Technology Co., Ltd - Java Developer (Intern)</title>
+      <link>https://wenrui-jiang.github.io/post/beijing-eyeofcloud/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/post/beijing-eyeofcloud/</guid>
+      
+        <description>&lt;p&gt;&lt;img src=&#34;https://wenrui-jiang.github.io/images/logos/eyeofcloud.png&#34; alt=&#34;company-logo&#34;&gt; &lt;!-- Put your logo under images/logos --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;duration&#34;&gt;Duration&lt;/h3&gt;
+&lt;p&gt;Dec 2022 - Mar 2023&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards &amp; Honors</title>
+      <link>https://wenrui-jiang.github.io/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/awards/</guid>
+      
+        <description>Academic awards, research honors, and teaching experience during university</description>
+      
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://wenrui-jiang.github.io/certifications/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/certifications/</guid>
+      
+        <description>English Language Certifications by Jiang Wenrui</description>
+      
+    </item>
+    
+    <item>
+      <title>The Notice Shortcode</title>
+      <link>https://wenrui-jiang.github.io/post/notice-shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/post/notice-shortcode/</guid>
+      
+        <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://wenrui-jiang.github.io/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/post/markdown-syntax/</guid>
+      
+        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://wenrui-jiang.github.io/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/post/placeholder-text/</guid>
+      
+        <description>Lorem Ipsum Dolor Si Amet</description>
+      
+    </item>
+    
+    <item>
       <title>Math Typesetting</title>
-      <link>https://wenruijiang.github.io/post/math-typesetting/</link>
+      <link>https://wenrui-jiang.github.io/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/post/math-typesetting/</guid>
+      <guid>https://wenrui-jiang.github.io/post/math-typesetting/</guid>
       
         <description>A brief guide to setup KaTeX</description>
       
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://wenruijiang.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/post/emoji-support/</guid>
-      
-        <description>Guide to emoji usage in Hugo</description>
-      
-    </item>
-    
-    <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://wenruijiang.github.io/post/image-test/</link>
+      <link>https://wenrui-jiang.github.io/post/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/post/image-test/</guid>
+      <guid>https://wenrui-jiang.github.io/post/image-test/</guid>
       
         <description>Guide to Thumbnails in Hugo</description>
       
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://wenruijiang.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenruijiang.github.io/about/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
-      
-    </item>
-    
-    <item>
       <title></title>
-      <link>https://wenruijiang.github.io/imprint/</link>
+      <link>https://wenrui-jiang.github.io/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wenruijiang.github.io/imprint/</guid>
+      <guid>https://wenrui-jiang.github.io/imprint/</guid>
       
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
