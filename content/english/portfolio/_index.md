@@ -1,5 +1,5 @@
 ---
-title: 'Portfolio'
+title: 'Articles'
 draft: false
-description: 'Welcome to my Portfolio!'
+description: 'Research and article entries.'
 ---

@@ -1,45 +1,25 @@
 portfolioitems:
-  - title: Engineering Projects
-    description: Selected engineering and internship projects.
+  - title: Research Articles
+    description: Manuscripts and research directions currently being prepared or under review.
     portfolioitem:
-      - name: A/B Testing Platform
-        image: '/images/logo/eyeofcloud.png'
-        description: Backend development for an A/B testing platform, including experiment scheduling, task state management, result collection, report generation, and email delivery.
+      - name: Multi-Agent Financial Trading with Dynamic Causal Perception and Structured Memory
+        image: '/images/portfolio/code.jpg'
+        description: 'A manuscript on multi-agent financial trading with dynamic causal perception and structured memory. Status: CIKM 2026 under review.'
         tags:
-          - Java
-          - Spring Cloud
-          - MyBatis
-          - MySQL
-          - RabbitMQ
-        status: 'Completed'
-        start: '2022.12'
-        end: '2023.03'
+          - Multi-Agent Systems
+          - Financial Trading
+          - Causal Perception
+          - Structured Memory
+        status: 'CIKM 2026 under review'
         authors:
           - Jiang Wenrui
-      - name: Railway Maintenance Ticketing System
+      - name: Causal Grouping Network for News-driven Stock Forecasting
         image: '/images/portfolio/code.jpg'
-        description: Backend modules for a digital railway inspection and maintenance ticketing system, including authentication, ticket upload, data persistence, and ECharts-based dashboards.
+        description: 'A manuscript on causal grouping methods for news-driven stock forecasting. Status: KDD under review.'
         tags:
-          - Java
-          - Spring Boot
-          - Spring Security
-          - MyBatis-Plus
-          - ECharts
-        status: 'Internship project'
-        start: '2025.04'
-        end: '2025.07'
-        authors:
-          - Jiang Wenrui
-  - title: Research In Progress
-    description: Research directions and exploratory work that are not yet formal publications.
-    portfolioitem:
-      - name: News-driven Stock Forecasting
-        image: '/images/portfolio/code.jpg'
-        description: Exploratory research on causal grouping methods for news-driven stock forecasting. This work is still in progress and is listed as a research direction rather than a published result.
-        tags:
-          - Machine Learning
+          - Stock Forecasting
           - Causal Modeling
-          - Financial Data
-        status: 'In progress'
+          - News-driven Prediction
+        status: 'KDD under review'
         authors:
           - Jiang Wenrui

@@ -5,15 +5,15 @@ weight = 100
 url = "/zh/"
 
 [[main]]
-name = "文章"
+name = "经历"
 weight = 200
-identifier = "posts"
+identifier = "experience"
 url = "/zh/post/"
 
 [[main]]
-name = "作品集"
+name = "文章"
 weight = 300
-identifier = "portfolio"
+identifier = "articles"
 url = "/zh/portfolio/"
 
 [[main]]

@@ -1,0 +1,29 @@
+[[main]]
+name = "الرئيسية"
+identifier = "home"
+weight = 100
+url = "/ar/"
+
+[[main]]
+name = "الخبرات"
+identifier = "experience"
+weight = 200
+url = "/ar/post/"
+
+[[main]]
+name = "المقالات"
+identifier = "articles"
+weight = 300
+url = "/ar/portfolio/"
+
+[[main]]
+name = "نبذة"
+identifier = "about"
+weight = 400
+url = "/ar/about/"
+
+[[main]]
+name = "اتصال"
+identifier = "contact"
+weight = 600
+url = "/ar/contact/"

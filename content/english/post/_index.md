@@ -1,5 +1,7 @@
 +++
-title = "Posts"
+title = "Experience"
 author = "Jiang Wenrui"
-tags = ["index"]
+tags = ["experience"]
 +++
+
+Work, internship, and project experience.

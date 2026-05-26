@@ -36,7 +36,7 @@
       
       <guid>https://wenrui-jiang.github.io/zh/about/</guid>
       
-        <description>蒋文睿的个人简介</description>
+        <description>关于蒋文睿</description>
       
     </item>
     
@@ -52,19 +52,30 @@
     </item>
     
     <item>
+      <title>北京北九方轨道交通科技有限公司 - 后端项目实习生</title>
+      <link>https://wenrui-jiang.github.io/zh/post/beijiufang/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/zh/post/beijiufang/</guid>
+      
+        <description>&lt;h3 id=&#34;北京北九方轨道交通科技有限公司&#34;&gt;北京北九方轨道交通科技有限公司&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2025.04 - 2025.07&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;后端项目实习生&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;项目&#34;&gt;项目&lt;/h3&gt;
+&lt;p&gt;铁路车辆检修数字化提票与知识库系统。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>北京合力云通科技有限公司 - Java 开发工程师（实习）</title>
       <link>https://wenrui-jiang.github.io/zh/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://wenrui-jiang.github.io/zh/post/beijing-eyeofcloud/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://wenrui-jiang.github.io/images/logo/eyeofcloud.png&#34; alt=&#34;company-logo&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;任职时间&#34;&gt;任职时间&lt;/h3&gt;
-&lt;p&gt;2022.12 - 2023.03&lt;/p&gt;
-&lt;h3 id=&#34;项目名称&#34;&gt;项目名称&lt;/h3&gt;
-&lt;p&gt;A/B 测试平台开发&lt;/p&gt;
-&lt;h3 id=&#34;项目简介&#34;&gt;项目简介&lt;/h3&gt;
-&lt;p&gt;A/B 测试是一种通过比较网页或应用多个版本来评估效果的方法，常用于页面迭代、个性化内容展示和用户行为分析。该项目围绕实验配置、任务调度、结果收集和反馈报告生成展开。&lt;/p&gt;</description>
+        <description>&lt;h3 id=&#34;北京合力云通科技有限公司&#34;&gt;&lt;img src=&#34;https://wenrui-jiang.github.io/images/logo/eyeofcloud.png&#34; alt=&#34;合力云通 logo&#34; style=&#34;height: 1.2em; width: auto; vertical-align: text-bottom;&#34;&gt; 北京合力云通科技有限公司&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2022.12 - 2023.03&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Java 开发工程师实习生&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     

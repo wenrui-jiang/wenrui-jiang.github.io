@@ -1,0 +1,29 @@
+[[main]]
+name = "Initium"
+identifier = "home"
+weight = 100
+url = "/la/"
+
+[[main]]
+name = "Experientia"
+identifier = "experience"
+weight = 200
+url = "/la/post/"
+
+[[main]]
+name = "Articuli"
+identifier = "articles"
+weight = 300
+url = "/la/portfolio/"
+
+[[main]]
+name = "De me"
+identifier = "about"
+weight = 400
+url = "/la/about/"
+
+[[main]]
+name = "Contactus"
+identifier = "contact"
+weight = 600
+url = "/la/contact/"

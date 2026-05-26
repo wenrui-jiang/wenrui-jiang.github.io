@@ -11,3 +11,38 @@ languageCode = "zh"
 weight = 2
 languageName = "中文"
 contentDir = "content/Chinese"
+
+[es]
+title = "Sitio web de Jiang Wenrui"
+languageCode = "es"
+weight = 3
+languageName = "Español"
+contentDir = "content/spanish"
+
+[fr]
+title = "Site web de Jiang Wenrui"
+languageCode = "fr"
+weight = 4
+languageName = "Français"
+contentDir = "content/french"
+
+[de]
+title = "Jiang Wenruis Website"
+languageCode = "de"
+weight = 5
+languageName = "Deutsch"
+contentDir = "content/german"
+
+[ar]
+title = "موقع جيانغ ونروي"
+languageCode = "ar"
+weight = 6
+languageName = "العربية"
+contentDir = "content/arabic"
+
+[la]
+title = "Pagina Jiang Wenrui"
+languageCode = "la"
+weight = 7
+languageName = "Latina"
+contentDir = "content/latin"

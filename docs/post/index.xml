@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jiang Wenrui&#39;s Website</title>
+    <title>Experience on Jiang Wenrui&#39;s Website</title>
     <link>https://wenrui-jiang.github.io/post/</link>
-    <description>Recent content in Posts on Jiang Wenrui&#39;s Website</description>
+    <description>Recent content in Experience on Jiang Wenrui&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wenrui-jiang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenrui-jiang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beijing Beijiufang Railway Traffic Technology Co., Ltd - Backend Project Intern</title>
+      <link>https://wenrui-jiang.github.io/post/beijiufang/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenrui-jiang.github.io/post/beijiufang/</guid>
+      
+        <description>&lt;h3 id=&#34;beijing-beijiufang-railway-traffic-technology-co-ltd&#34;&gt;Beijing Beijiufang Railway Traffic Technology Co., Ltd.&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Apr 2025 - Jul 2025&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Backend Project Intern&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Beijing Heyicloud Technology Co., Ltd - Java Developer Intern</title>
       <link>https://wenrui-jiang.github.io/post/beijing-eyeofcloud/</link>
@@ -14,11 +27,9 @@
       
       <guid>https://wenrui-jiang.github.io/post/beijing-eyeofcloud/</guid>
       
-        <description>&lt;p&gt;&lt;img src=&#34;https://wenrui-jiang.github.io/images/logo/eyeofcloud.png&#34; alt=&#34;company-logo&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;duration&#34;&gt;Duration&lt;/h3&gt;
-&lt;p&gt;Dec 2022 - Mar 2023&lt;/p&gt;
-&lt;h3 id=&#34;project&#34;&gt;Project&lt;/h3&gt;
-&lt;p&gt;A/B Testing Platform Development&lt;/p&gt;</description>
+        <description>&lt;h3 id=&#34;beijing-heyicloud-technology-co-ltd&#34;&gt;&lt;img src=&#34;https://wenrui-jiang.github.io/images/logo/eyeofcloud.png&#34; alt=&#34;Heyicloud logo&#34; style=&#34;height: 1.2em; width: auto; vertical-align: text-bottom;&#34;&gt; Beijing Heyicloud Technology Co., Ltd.&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Dec 2022 - Mar 2023&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Java Developer Intern&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     

@@ -1,5 +1,5 @@
 ---
-title: '作品集'
+title: '文章'
 draft: false
-description: '欢迎浏览我的作品集'
+description: '研究和文章条目'
 ---

@@ -1,0 +1,29 @@
+[[main]]
+name = "Accueil"
+identifier = "home"
+weight = 100
+url = "/fr/"
+
+[[main]]
+name = "Expérience"
+identifier = "experience"
+weight = 200
+url = "/fr/post/"
+
+[[main]]
+name = "Articles"
+identifier = "articles"
+weight = 300
+url = "/fr/portfolio/"
+
+[[main]]
+name = "À propos"
+identifier = "about"
+weight = 400
+url = "/fr/about/"
+
+[[main]]
+name = "Contact"
+identifier = "contact"
+weight = 600
+url = "/fr/contact/"

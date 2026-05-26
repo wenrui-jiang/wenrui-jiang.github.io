@@ -4,11 +4,10 @@ date = "2022-12-01"
 draft = false
 +++
 
-![company-logo](/images/logo/eyeofcloud.png)
+### <img src="/images/logo/eyeofcloud.png" alt="Heyicloud logo" style="height: 1.2em; width: auto; vertical-align: text-bottom;"> Beijing Heyicloud Technology Co., Ltd.
 
-### Duration
-
-Dec 2022 - Mar 2023
+<i class="fa-solid fa-calendar-days"></i> **Dec 2022 - Mar 2023**  
+<i class="fa-solid fa-briefcase"></i> **Java Developer Intern**
 
 ### Project
 
@@ -24,13 +23,7 @@ Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
 
 ### Responsibilities
 
-- **Backend API development**: implemented APIs for scheduling A/B experiments through `xxl-job` based on timing settings configured by users.
-- **Task state management**: supported pausing, updating, and restarting running experiment tasks.
-- **Experiment result processing**: collected experiment results and used them as input for a multi-armed bandit strategy to adjust traffic allocation.
-- **Report and notification integration**: integrated webpage-to-PDF report generation and email delivery for experiment feedback.
-
-### Takeaways
-
-- Practiced backend development for experiment lifecycle management.
-- Worked on the full flow from experiment setup to reporting.
-- Deepened engineering experience with Spring Cloud, MyBatis, RabbitMQ, and scheduled job systems.
+- Implemented backend APIs for scheduling A/B experiments through `xxl-job` based on user-defined timing settings.
+- Supported pausing, updating, and restarting running experiment tasks.
+- Collected experiment results and used them as input for a multi-armed bandit strategy to adjust traffic allocation.
+- Integrated webpage-to-PDF report generation and email delivery for experiment feedback.

@@ -4,92 +4,15 @@ theme = "github.com/lxndrblz/anatole"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-
 languageCode = "en"
 
 [params]
 title = "I'm Jiang Wenrui"
 author = "Jiang Wenrui"
-description = "Call me Leo"
+description = "Computer science master's student at Beijing Jiaotong University"
 profilePicture = "images/live.jpg"
 
 [markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
-
-[languages]
-
-[languages.en]
-languageName = "English"
-languageCode = "en"
-contentDir = "content/english"
-title = "Jiang Wenrui's Website"
-weight = 1
-
-[[languages.en.menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[languages.en.menu.main]]
-name = "Posts"
-url = "/post/"
-weight = 2
-
-[[languages.en.menu.main]]
-name = "Portfolio"
-url = "/portfolio/"
-weight = 3
-
-[[languages.en.menu.main]]
-name = "About"
-url = "/about/"
-weight = 4
-
-[[languages.en.menu.main]]
-name = "Accomplishments"
-url = "/awards/"
-weight = 5
-
-[[languages.en.menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 6
-
-[languages.zh]
-languageName = "中文"
-languageCode = "zh"
-contentDir = "content/Chinese"
-title = "蒋文睿的网站"
-weight = 2
-
-[[languages.zh.menu.main]]
-name = "主页"
-url = "/zh/"
-weight = 1
-
-[[languages.zh.menu.main]]
-name = "文章"
-url = "/zh/post/"
-weight = 2
-
-[[languages.zh.menu.main]]
-name = "项目"
-url = "/zh/portfolio/"
-weight = 3
-
-[[languages.zh.menu.main]]
-name = "关于"
-url = "/zh/about/"
-weight = 4
-
-[[languages.zh.menu.main]]
-name = "荣誉"
-url = "/zh/awards/"
-weight = 5
-
-[[languages.zh.menu.main]]
-name = "联系"
-url = "/zh/contact/"
-weight = 6
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
