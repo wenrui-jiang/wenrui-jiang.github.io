@@ -1,203 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jiang Wenrui</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Jiang Wenrui</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      
-        <description>Jiang Wenrui&#39;s personal introduction</description>
-      
-    </item>
-    
-    <item>
-      <title>Beijing Beijiufang railway tech co.ltd.</title>
-      <link>http://localhost:1313/post/series-part-1/</link>
-      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/series-part-1/</guid>
-      
-        <description>A brief guide to how to setup series part 1</description>
-      
-    </item>
-    
-    <item>
-      <title>Awards</title>
-      <link>http://localhost:1313/awards/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/awards/</guid>
-      
-        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
-      
-    </item>
-    
-    <item>
-      <title>Certifications</title>
-      <link>http://localhost:1313/certifications/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/certifications/</guid>
-      
-        <description>Hugo Certifications</description>
-      
-    </item>
-    
-    <item>
-      <title>The Notice Shortcode</title>
-      <link>http://localhost:1313/post/notice-shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/notice-shortcode/</guid>
-      
-        <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/post/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/redirect/</guid>
-      
-        <description>Usage of redirectUrl</description>
-      
-    </item>
-    
-    <item>
-      <title>The Figure Shortcode</title>
-      <link>http://localhost:1313/post/figure-shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/figure-shortcode/</guid>
-      
-        <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Beijing Jiaotong University ---- Master of Science in Computer Science</title>
-      <link>http://localhost:1313/post/series-part-2/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/series-part-2/</guid>
-      
-        <description>A brief guide to how to setup series part 2</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/archives/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
-      
-        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/rich-content/</guid>
-      
-        <description>A brief description of Hugo Shortcodes</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
-      
-        <description>Lorem Ipsum Dolor Si Amet</description>
-      
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/contact/</guid>
-      
-        <description>Contact Page</description>
-      
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/math-typesetting/</guid>
-      
-        <description>A brief guide to setup KaTeX</description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/emoji-support/</guid>
-      
-        <description>Guide to emoji usage in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title>Guide to Thumbnails in Hugo</title>
-      <link>http://localhost:1313/post/image-test/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/image-test/</guid>
-      
-        <description>Guide to Thumbnails in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/imprint/</guid>
-      
-        <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
-&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
-&lt;h2 id=&#34;jiang-wenrui&#34;&gt;Jiang Wenrui&lt;/h2&gt;
-&lt;p&gt;No.110 West, Yifu Building, Beijing Jiaotong University&lt;br&gt;
-No.3 Shangyuancun, Haidian District, Beijing&lt;br&gt;
-Beijing 100044, China&lt;/p&gt;</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jiang Wenrui's Website</title><link>/</link><description>Recent content on Jiang Wenrui's Website</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/archives/</link><pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate><guid>/archives/</guid><description/></item><item><title>About</title><link>/about/</link><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><guid>/about/</guid><description>This page is being redesigned to avoid repeating the homepage. The homepage now carries my short profile, skills, photo, and current focus.
+I plan to use this page for a more selective personal narrative: what problems I care about, how my academic and engineering interests connect, and what kind of collaborations or roles I am looking for.</description></item><item><title>Contact</title><link>/contact/</link><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><guid>/contact/</guid><description>Feel free to get in touch via email or social platforms. The contact form at the bottom of this page is also available; leave your name, email address, and message, and I can reply to you by email after receiving it.
+The form is powered by Formspree. Submitted messages are forwarded to the email address configured in the Formspree dashboard for this website.
+Address
+No.110 West, Yifu Building, Beijing Jiaotong University</description></item><item><title>Beijing Beijiufang Railway Traffic Technology Co., Ltd - Backend Project Intern</title><link>/post/beijiufang/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>/post/beijiufang/</guid><description>Beijing Beijiufang Railway Traffic Technology Co., Ltd. Apr 2025 - Jul 2025
+Backend Project Intern
+Project Digital ticketing and knowledge-base system for railway vehicle inspection and maintenance.
+Tech Stack Spring Cloud, Spring Boot, Spring Security, JWT, MyBatis, MyBatis-Plus, MySQL, ECharts
+Responsibilities Developed authentication and authorization modules with Spring Security and JWT. Implemented ticket entry, search, upload, and data persistence modules. Connected backend data with visual dashboards for maintenance progress and issue summaries.</description></item><item><title>Beijing Heyicloud Technology Co., Ltd - Java Developer Intern</title><link>/post/beijing-eyeofcloud/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>/post/beijing-eyeofcloud/</guid><description>Beijing Heyicloud Technology Co., Ltd. Dec 2022 - Mar 2023
+Java Developer Intern
+Project A/B Testing Platform Development
+Overview A/B testing compares two or more versions of a webpage or app to determine which performs better. The project covered experiment configuration, scheduled execution, result collection, and feedback report generation.
+Tech Stack Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
+Responsibilities Implemented backend APIs for scheduling A/B experiments through xxl-job based on user-defined timing settings.</description></item><item><title>Awards &amp; Honors</title><link>/awards/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>/awards/</guid><description>Academic Honors First-Class Graduate Admission Scholarship
+Awarded for academic excellence and graduate program recommendation
+Third-Class Academic Excellence Scholarship
+Multiple times recipient for high academic performance
+Outstanding Youth League Member &amp;amp; Cadre
+Recognized for active contribution to student community and leadership
+Competitions &amp;amp; Research MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention
+International recognition in mathematical modeling competition Teaching Experience Teaching Assistant – Discrete Mathematics &amp;amp; Computer Networks</description></item><item><title>Certifications</title><link>/certifications/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>/certifications/</guid><description>Certifications CET-4 (College English Test Band 4): Score 542 CET-6 (College English Test Band 6): Score 539</description></item><item><title/><link>/imprint/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/imprint/</guid><description>Legal Disclosure Information in accordance with the applicable law
+Jiang Wenrui No.110 West, Yifu Building, Beijing Jiaotong University
+No.3 Shangyuancun, Haidian District, Beijing
+Beijing 100044, China</description></item></channel></rss>

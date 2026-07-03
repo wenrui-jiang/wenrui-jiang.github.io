@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on موقع جيانغ ونروي</title>
-    <link>https://wenrui-jiang.github.io/ar/series/</link>
+    <link>https://jiangwenrui.com/ar/series/</link>
     <description>Recent content in Series on موقع جيانغ ونروي</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ar</language><atom:link href="https://wenrui-jiang.github.io/ar/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>ar</language><atom:link href="https://jiangwenrui.com/ar/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

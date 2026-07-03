@@ -17,10 +17,10 @@ identifier = "articles"
 url = "/zh/portfolio/"
 
 [[main]]
-name = "关于"
+name = "项目"
 weight = 400
-identifier = "about"
-url = "/zh/about/"
+identifier = "project"
+url = "/zh/project/"
 
 [[main]]
 name = "成果"

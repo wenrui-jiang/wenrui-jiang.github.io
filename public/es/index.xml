@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sitio web de Jiang Wenrui</title><link>/es/</link><description>Recent content on Sitio web de Jiang Wenrui</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Contacto</title><link>/es/contact/</link><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><guid>/es/contact/</guid><description>Puedes contactarme por correo, redes sociales o el formulario al final de esta página. Si dejas tu nombre, correo y mensaje, podré responder por email.
+Email
+jiang.wenrui@outlook.com
+Mensajería
+WhatsApp: +49 15259695197 Telegram: +49 15259695197</description></item><item><title>Sobre mí</title><link>/es/about/</link><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><guid>/es/about/</guid><description>Esta página se está rediseñando para no repetir la información de la página principal.
+La usaré para una narrativa personal más selectiva: los problemas que me interesan, cómo conecto la investigación con la ingeniería y qué tipo de colaboración o puesto busco.</description></item><item><title>Beijing Beijiufang Railway Traffic Technology Co., Ltd - Prácticas backend</title><link>/es/post/beijiufang/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>/es/post/beijiufang/</guid><description>Beijing Beijiufang Railway Traffic Technology Co., Ltd. Abr 2025 - Jul 2025
+Prácticas backend
+Participé en un sistema digital de tickets y base de conocimiento para inspección y mantenimiento ferroviario, trabajando en autenticación, carga de tickets, persistencia de datos y paneles con ECharts.
+Stack: Spring Cloud, Spring Boot, Spring Security, JWT, MyBatis-Plus, MySQL, ECharts</description></item><item><title>Beijing Heyicloud Technology Co., Ltd - Prácticas como desarrollador Java</title><link>/es/post/beijing-eyeofcloud/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>/es/post/beijing-eyeofcloud/</guid><description>Beijing Heyicloud Technology Co., Ltd. Dic 2022 - Mar 2023
+Prácticas como desarrollador Java
+Desarrollé APIs backend para una plataforma de pruebas A/B, incluyendo planificación de experimentos, gestión de tareas, recopilación de resultados, generación de informes PDF y envío por correo.
+Stack: Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB</description></item></channel></rss>

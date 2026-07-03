@@ -17,10 +17,10 @@ weight = 300
 url = "/ar/portfolio/"
 
 [[main]]
-name = "نبذة"
-identifier = "about"
+name = "المشاريع"
+identifier = "project"
 weight = 400
-url = "/ar/about/"
+url = "/ar/project/"
 
 [[main]]
 name = "اتصال"

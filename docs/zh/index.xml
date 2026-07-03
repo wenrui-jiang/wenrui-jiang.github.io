@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>蒋文睿的网站</title>
-    <link>https://wenrui-jiang.github.io/zh/</link>
+    <link>https://jiangwenrui.com/zh/</link>
     <description>Recent content on 蒋文睿的网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wenrui-jiang.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://wenrui-jiang.github.io/zh/archives/</link>
+      <link>https://jiangwenrui.com/zh/archives/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wenrui-jiang.github.io/zh/archives/</guid>
+      <guid>https://jiangwenrui.com/zh/archives/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>法律声明</title>
-      <link>https://wenrui-jiang.github.io/zh/imprint/</link>
+      <link>https://jiangwenrui.com/zh/imprint/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wenrui-jiang.github.io/zh/imprint/</guid>
+      <guid>https://jiangwenrui.com/zh/imprint/</guid>
       
         <description>网站法律声明</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>关于</title>
-      <link>https://wenrui-jiang.github.io/zh/about/</link>
+      <link>https://jiangwenrui.com/zh/about/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wenrui-jiang.github.io/zh/about/</guid>
+      <guid>https://jiangwenrui.com/zh/about/</guid>
       
         <description>关于蒋文睿</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>联系方式</title>
-      <link>https://wenrui-jiang.github.io/zh/contact/</link>
+      <link>https://jiangwenrui.com/zh/contact/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wenrui-jiang.github.io/zh/contact/</guid>
+      <guid>https://jiangwenrui.com/zh/contact/</guid>
       
         <description>联系方式页面</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>北京北九方轨道交通科技有限公司 - 后端项目实习生</title>
-      <link>https://wenrui-jiang.github.io/zh/post/beijiufang/</link>
+      <link>https://jiangwenrui.com/zh/post/beijiufang/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://wenrui-jiang.github.io/zh/post/beijiufang/</guid>
+      <guid>https://jiangwenrui.com/zh/post/beijiufang/</guid>
       
         <description>&lt;h3 id=&#34;北京北九方轨道交通科技有限公司&#34;&gt;北京北九方轨道交通科技有限公司&lt;/h3&gt;
 &lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2025.04 - 2025.07&lt;/strong&gt;&lt;br&gt;
@@ -68,12 +68,12 @@
     
     <item>
       <title>北京合力云通科技有限公司 - Java 开发工程师（实习）</title>
-      <link>https://wenrui-jiang.github.io/zh/post/beijing-eyeofcloud/</link>
+      <link>https://jiangwenrui.com/zh/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wenrui-jiang.github.io/zh/post/beijing-eyeofcloud/</guid>
+      <guid>https://jiangwenrui.com/zh/post/beijing-eyeofcloud/</guid>
       
-        <description>&lt;h3 id=&#34;北京合力云通科技有限公司&#34;&gt;&lt;img src=&#34;https://wenrui-jiang.github.io/images/logo/eyeofcloud.png&#34; alt=&#34;合力云通 logo&#34; style=&#34;height: 1.2em; width: auto; vertical-align: text-bottom;&#34;&gt; 北京合力云通科技有限公司&lt;/h3&gt;
+        <description>&lt;h3 id=&#34;北京合力云通科技有限公司&#34;&gt;&lt;img src=&#34;https://jiangwenrui.com/images/logo/eyeofcloud.png&#34; alt=&#34;合力云通 logo&#34; style=&#34;height: 1.2em; width: auto; vertical-align: text-bottom;&#34;&gt; 北京合力云通科技有限公司&lt;/h3&gt;
 &lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2022.12 - 2023.03&lt;/strong&gt;&lt;br&gt;
 &lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Java 开发工程师实习生&lt;/strong&gt;&lt;/p&gt;</description>
       
@@ -81,10 +81,10 @@
     
     <item>
       <title>荣誉与奖项</title>
-      <link>https://wenrui-jiang.github.io/zh/awards/</link>
+      <link>https://jiangwenrui.com/zh/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wenrui-jiang.github.io/zh/awards/</guid>
+      <guid>https://jiangwenrui.com/zh/awards/</guid>
       
         <description>大学期间获得的学术奖励、科研荣誉和教学经历</description>
       
@@ -92,10 +92,10 @@
     
     <item>
       <title>证书</title>
-      <link>https://wenrui-jiang.github.io/zh/certifications/</link>
+      <link>https://jiangwenrui.com/zh/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wenrui-jiang.github.io/zh/certifications/</guid>
+      <guid>https://jiangwenrui.com/zh/certifications/</guid>
       
         <description>蒋文睿的英语能力证书</description>
       

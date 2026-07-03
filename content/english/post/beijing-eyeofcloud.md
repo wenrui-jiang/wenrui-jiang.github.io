@@ -4,26 +4,26 @@ date = "2022-12-01"
 draft = false
 +++
 
-### <img src="/images/logo/eyeofcloud.png" alt="Heyicloud logo" style="height: 1.2em; width: auto; vertical-align: text-bottom;"> Beijing Heyicloud Technology Co., Ltd.
+### Beijing Heyicloud Technology Co., Ltd.
 
 <i class="fa-solid fa-calendar-days"></i> **Dec 2022 - Mar 2023**  
 <i class="fa-solid fa-briefcase"></i> **Java Developer Intern**
 
-### Project
+### Project Overview
 
-A/B Testing Platform Development
+The A/B testing platform runs experiment analysis for multiple webpage/app variants, determines better versions from user behavior and algorithm outcomes, and dynamically adjusts traffic allocation.
 
-### Overview
-
-A/B testing compares two or more versions of a webpage or app to determine which performs better. The project covered experiment configuration, scheduled execution, result collection, and feedback report generation.
-
-### Tech Stack
+### Architecture
 
 Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
 
-### Responsibilities
+### My Work
 
-- Implemented backend APIs for scheduling A/B experiments through `xxl-job` based on user-defined timing settings.
-- Supported pausing, updating, and restarting running experiment tasks.
-- Collected experiment results and used them as input for a multi-armed bandit strategy to adjust traffic allocation.
-- Integrated webpage-to-PDF report generation and email delivery for experiment feedback.
+- Implemented experiment-start APIs and triggered XXL-JOB scheduled tasks based on user-defined experiment timing, then callback execution APIs.
+- Supported pause/update/restart for experiment tasks after parameter updates, ensuring task state and configuration remained synchronized.
+- Built experiment result collection APIs, fed multi-armed bandit inputs, and adjusted traffic allocation for new versions based on algorithm output.
+- Integrated webpage-to-PDF and mail APIs to generate and deliver experiment reports to customers.
+
+### Project Introduction
+
+- Project details: see [Project section](/portfolio/).

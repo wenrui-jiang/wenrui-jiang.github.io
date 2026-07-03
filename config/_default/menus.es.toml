@@ -17,10 +17,10 @@ weight = 300
 url = "/es/portfolio/"
 
 [[main]]
-name = "Sobre mí"
-identifier = "about"
+name = "Proyecto"
+identifier = "project"
 weight = 400
-url = "/es/about/"
+url = "/es/project/"
 
 [[main]]
 name = "Contacto"

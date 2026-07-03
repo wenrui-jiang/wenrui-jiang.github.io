@@ -17,10 +17,10 @@ identifier = "articles"
 url = "/portfolio/"
 
 [[main]]
-name = "About"
+name = "Project"
 weight = 400
-identifier = "about"
-url = "/about/"
+identifier = "project"
+url = "/project/"
 
 [[main]]
 name = "Accomplishments"

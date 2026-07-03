@@ -9,17 +9,12 @@ draft = false
 <i class="fa-solid fa-calendar-days"></i> **2025.04 - 2025.07**  
 <i class="fa-solid fa-briefcase"></i> **后端项目实习生**
 
-### 项目
+### 我的工作
 
-铁路车辆检修数字化提票与知识库系统。
+- 基于 Spring Security + JWT 实现用户登录、身份验证及角色权限控制，设计用户与权限数据表并完成接口对接。
+- 使用 Spring MVC 与 MyBatis 完成提票录入、检索和文档/图片上传接口，对接算法识别结果并完成数据持久化。
 
-### 技术栈
+### 项目介绍
 
-Spring Cloud, Spring Boot, Spring Security, JWT, MyBatis, MyBatis-Plus, MySQL, ECharts
-
-### 工作内容
-
-- 基于 Spring Security 和 JWT 开发用户认证与角色权限控制模块。
-- 实现提票录入、检索、上传和数据持久化相关接口。
-- 将后端数据接入检修进度、车辆病害信息等统计视图。
-- 使用 ECharts 构建可视化报表，为管理人员提供直观数据支持。
+- 项目简介：铁路车辆检修数字化提票与知识库系统。
+- 项目详情：见 [项目栏目](/zh/portfolio/)。

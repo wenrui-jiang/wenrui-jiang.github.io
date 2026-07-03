@@ -9,17 +9,12 @@ draft = false
 <i class="fa-solid fa-calendar-days"></i> **Apr 2025 - Jul 2025**  
 <i class="fa-solid fa-briefcase"></i> **Backend Project Intern**
 
-### Project
+### My Work
 
-Digital ticketing and knowledge-base system for railway vehicle inspection and maintenance.
+- Implemented login, authentication, and role-based authorization with Spring Security + JWT; designed user/permission tables and completed API integration.
+- Built ticket entry, query, and document/image upload APIs with Spring MVC and MyBatis; integrated algorithm recognition outputs and persisted business data.
 
-### Tech Stack
+### Project Introduction
 
-Spring Cloud, Spring Boot, Spring Security, JWT, MyBatis, MyBatis-Plus, MySQL, ECharts
-
-### Responsibilities
-
-- Developed authentication and authorization modules with Spring Security and JWT.
-- Implemented ticket entry, search, upload, and data persistence modules.
-- Connected backend data with visual dashboards for maintenance progress and issue summaries.
-- Used ECharts to build reporting views for operational analysis.
+- Project summary: digital ticketing and knowledge-base system for railway vehicle maintenance workflows.
+- Project details: see [Project section](/portfolio/).

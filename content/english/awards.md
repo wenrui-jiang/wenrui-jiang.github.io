@@ -8,6 +8,9 @@ author = "Jiang Wenrui"
 
 ### Academic Honors
 
+- **First-Class Master's Academic Scholarship (Sep 2024)**  
+  Awarded for outstanding graduate-level academic performance
+
 - **First-Class Graduate Admission Scholarship**  
   Awarded for academic excellence and graduate program recommendation
 
@@ -19,7 +22,7 @@ author = "Jiang Wenrui"
 
 ### Competitions & Research
 
-- **MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention**  
+- **MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention (H Prize)**  
   International recognition in mathematical modeling competition
 
 ### Teaching Experience
