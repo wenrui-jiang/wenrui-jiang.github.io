@@ -18,4 +18,4 @@ author = "Jiang Wenrui"
 - Integrated DeepSeek for intent/slot extraction with backend confirmation guards to prevent unauthorized direct ordering.
 - Implemented tool wrappers and observability for hospital, department, schedule, patient, and order operations.
 
-**Access URL:** [http://jiangwenrui.com:8082/](http://jiangwenrui.com:8082/)
+**Access URL:** [https://medical.jiangwenrui.com/](https://medical.jiangwenrui.com/)

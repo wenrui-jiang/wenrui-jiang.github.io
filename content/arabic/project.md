@@ -16,4 +16,4 @@ author = "Jiang Wenrui"
 - بناء سير عمل وslots للتوصية والبحث والتأكيد.
 - دمج تحليل النية والslots مع حماية تأكيد في الخلفية.
 
-**رابط الوصول:** [http://jiangwenrui.com:8082/](http://jiangwenrui.com:8082/)
+**رابط الوصول:** [https://medical.jiangwenrui.com/](https://medical.jiangwenrui.com/)

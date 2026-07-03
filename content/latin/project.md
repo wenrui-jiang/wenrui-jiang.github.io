@@ -16,4 +16,4 @@ author = "Jiang Wenrui"
 - Structura workflow et slots pro commendatione, investigatione et confirmatione.
 - Integratio extractionis intentionis/slot cum tutela confirmationis backend.
 
-**Nexus accessus:** [http://jiangwenrui.com:8082/](http://jiangwenrui.com:8082/)
+**Nexus accessus:** [https://medical.jiangwenrui.com/](https://medical.jiangwenrui.com/)

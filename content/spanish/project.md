@@ -16,4 +16,4 @@ author = "Jiang Wenrui"
 - Construí flujo conversacional y slots para recomendación, consulta y confirmación.
 - Integré extracción de intención/slots con protección de confirmación en backend.
 
-**URL de acceso:** [http://jiangwenrui.com:8082/](http://jiangwenrui.com:8082/)
+**URL de acceso:** [https://medical.jiangwenrui.com/](https://medical.jiangwenrui.com/)

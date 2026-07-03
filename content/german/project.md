@@ -16,4 +16,4 @@ author = "Jiang Wenrui"
 - Aufbau von Workflow-Status und Slots für Empfehlung, Suche und Bestätigung.
 - Integration von Intent/Slot-Extraktion mit Backend-Bestätigungsschutz.
 
-**Zugriffslink:** [http://jiangwenrui.com:8082/](http://jiangwenrui.com:8082/)
+**Zugriffslink:** [https://medical.jiangwenrui.com/](https://medical.jiangwenrui.com/)

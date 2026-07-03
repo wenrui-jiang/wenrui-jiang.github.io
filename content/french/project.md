@@ -16,4 +16,4 @@ author = "Jiang Wenrui"
 - Structuré le workflow et les slots pour recommandation, recherche et confirmation.
 - Intégré l'extraction intention/slots avec garde de confirmation côté backend.
 
-**URL d'accès :** [http://jiangwenrui.com:8082/](http://jiangwenrui.com:8082/)
+**URL d'accès :** [https://medical.jiangwenrui.com/](https://medical.jiangwenrui.com/)

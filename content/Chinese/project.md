@@ -18,4 +18,4 @@ author = "蒋文睿"
 - 接入 DeepSeek 进行意图识别与槽位抽取，并通过后端确认保护避免模型越权直接下单。
 - 封装医院、科室、排班、就诊人、订单工具调用并记录参数、耗时与失败原因。
 
-**访问链接：**[http://jiangwenrui.com:8082/](http://jiangwenrui.com:8082/)
+**访问链接：**[https://medical.jiangwenrui.com/](https://medical.jiangwenrui.com/)
