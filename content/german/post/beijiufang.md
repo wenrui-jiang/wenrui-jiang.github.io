@@ -9,6 +9,12 @@ draft = false
 <i class="fa-solid fa-calendar-days"></i> **Apr. 2025 - Juli 2025**  
 <i class="fa-solid fa-briefcase"></i> **Backend Project Intern**
 
-Mitarbeit an einem digitalen Ticket- und Wissensbasissystem für Eisenbahnwartung, mit Authentifizierung, Upload-Modulen, Datenpersistenz und ECharts-Dashboards.
+### Meine Arbeit
 
-**Stack**: Spring Cloud, Spring Boot, Spring Security, JWT, MyBatis-Plus, MySQL, ECharts
+- Implementierung von Login, Authentifizierung und rollenbasierter Autorisierung mit Spring Security + JWT; Entwurf von Benutzer-/Rechtetabellen und API-Integration.
+- Entwicklung von APIs für Ticketerfassung, Suche und Dokument-/Bildupload mit Spring MVC und MyBatis; Integration algorithmischer Erkennungsergebnisse und Persistenz der Fachdaten.
+
+### Projektvorstellung
+
+- Zusammenfassung: digitales Ticketing- und Wissensbasissystem für Wartungsabläufe von Schienenfahrzeugen.
+- Details: siehe [Projektbereich](/de/portfolio/).

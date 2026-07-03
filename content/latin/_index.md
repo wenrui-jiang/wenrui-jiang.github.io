@@ -15,4 +15,10 @@ Discipulus magistralis scientiae computatoriae sum apud [Beijing Jiaotong Univer
 - **Infrastructura**: Linux, Git, Nginx, RabbitMQ
 - **Instrumenta**: ECharts, Python, Shell, Hugo
 
-Vide [Experientia](/la/post/), [Articuli](/la/portfolio/) vel [Contactus](/la/contact/).
+## Studium hodiernum
+
+- Systemata backend fida et producta data utilia aedificare
+- Mercaturam nummariam multi-agentem et perceptionem causalem dynamicam explorare
+- Investigationem de praedictione bursae ex nuntiis promovere
+
+Vide [Experientia](/la/post/) pro tirociniis et projectis, [Articuli](/la/portfolio/) pro investigationibus/articulis, vel [Contactus](/la/contact/) ad me contingendum.

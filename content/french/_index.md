@@ -15,4 +15,10 @@ Je suis étudiant en master d'informatique à [Beijing Jiaotong University](http
 - **Infrastructure** : Linux, Git, Nginx, RabbitMQ
 - **Outils** : ECharts, Python, Shell, Hugo
 
-Voir [Expérience](/fr/post/), [Articles](/fr/portfolio/) ou [Contact](/fr/contact/).
+## Priorités actuelles
+
+- Construire des systèmes backend fiables et des produits de données concrets
+- Explorer le trading financier multi-agents et la perception causale dynamique
+- Approfondir la prévision boursière pilotée par l'actualité
+
+Voir [Expérience](/fr/post/) pour les stages et projets, [Articles](/fr/portfolio/) pour les entrées de recherche/article, ou [Contact](/fr/contact/) pour me joindre.

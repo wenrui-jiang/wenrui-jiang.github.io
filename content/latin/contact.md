@@ -6,11 +6,27 @@ description: Pagina contactus
 contact: true
 ---
 
-Me per epistulam electronicam, instrumenta socialia, aut formulam in fine huius paginae contingere potes.
+Per epistulam electronicam aut instrumenta socialia me contingere potes. Formula contactus in ima pagina quoque adest; nomen, inscriptionem electronicam et nuntium relinque, et per email respondere possum.
+
+Haec formula per **Formspree** currit. Nuntii missi ad inscriptionem electronicam in tabula Formspree huius situs configuratam transferuntur.
+
+**Oratio**  
+No.110 West, Yifu Building, Beijing Jiaotong University  
+No.3 Shangyuancun, Haidian District, Beijing  
+Beijing 100044, China
 
 **Email**  
 jiang.wenrui@outlook.com
 
+**Telephonum**  
++86 178-5263-6053
+
 **Nuntii**
 - WhatsApp: [+49 15259695197](https://wa.me/4915259695197)
 - Telegram: [+49 15259695197](https://t.me/+4915259695197)
+
+**Instrumenta socialia**
+- Instagram: [@vegetablebird086](https://www.instagram.com/vegetablebird086/)
+- Facebook: [Wenrui Jiang](https://www.facebook.com/profile.php?id=61564534020126)
+- X: [@rui_wen79885](https://x.com/yourx)
+- LinkedIn: [Jiang Wenrui](https://www.linkedin.com/in/%E6%96%87%E7%9D%BF-%E8%92%8B)

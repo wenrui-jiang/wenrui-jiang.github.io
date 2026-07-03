@@ -15,4 +15,10 @@ Ich bin Masterstudent der Informatik an der [Beijing Jiaotong University](https:
 - **Infrastruktur**: Linux, Git, Nginx, RabbitMQ
 - **Tools**: ECharts, Python, Shell, Hugo
 
-Siehe [Erfahrung](/de/post/), [Artikel](/de/portfolio/) oder [Kontakt](/de/contact/).
+## Aktueller Fokus
+
+- Aufbau verlässlicher Backend-Systeme und praxisnaher Datenprodukte
+- Erforschung von Multi-Agenten-Finanzhandel und dynamischer kausaler Wahrnehmung
+- Vertiefung der nachrichtengetriebenen Aktienprognose
+
+Siehe [Erfahrung](/de/post/) für Praktika und Projekte, [Artikel](/de/portfolio/) für Forschungs-/Artikelbeiträge oder [Kontakt](/de/contact/) für die Kontaktaufnahme.

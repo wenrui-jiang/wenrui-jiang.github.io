@@ -3,7 +3,7 @@ portfolioitems:
     description: Manuscripts and research directions currently being prepared or under review.
     portfolioitem:
       - name: Multi-Agent Financial Trading with Dynamic Causal Perception and Structured Memory
-        image: '/images/portfolio/code.jpg'
+        image: '/images/paper2/Main-Agent%20Structure.svg'
         description: 'A manuscript on multi-agent financial trading with dynamic causal perception and structured memory. Status: CIKM 2026 under review.'
         tags:
           - Multi-Agent Systems
@@ -14,7 +14,7 @@ portfolioitems:
         authors:
           - Jiang Wenrui
       - name: Causal Grouping Network for News-driven Stock Forecasting
-        image: '/images/portfolio/code.jpg'
+        image: '/images/paper1/model%20sturcture.svg'
         description: 'A manuscript on causal grouping methods for news-driven stock forecasting. Status: KDD under review.'
         tags:
           - Stock Forecasting

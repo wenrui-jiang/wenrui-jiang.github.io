@@ -4,11 +4,26 @@ date = "2022-12-01"
 draft = false
 +++
 
-### <img src="/images/logo/eyeofcloud.png" alt="Heyicloud logo" style="height: 1.2em; width: auto; vertical-align: text-bottom;"> Beijing Heyicloud Technology Co., Ltd.
+### Beijing Heyicloud Technology Co., Ltd.
 
 <i class="fa-solid fa-calendar-days"></i> **Dec 2022 - Mar 2023**  
 <i class="fa-solid fa-briefcase"></i> **Java Developer Intern**
 
-عملت على تطوير backend لمنصة اختبارات A/B، بما في ذلك جدولة التجارب، إدارة المهام، جمع النتائج، إنشاء تقارير PDF وإرسالها بالبريد.
+### نظرة عامة على المشروع
 
-**Stack**: Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
+تقوم منصة اختبارات A/B بتحليل التجارب لعدة نسخ من صفحات الويب/التطبيق، وتحدد النسخ الأفضل اعتمادًا على سلوك المستخدم ونتائج الخوارزميات، ثم تعدل توزيع الزيارات بشكل ديناميكي.
+
+### البنية
+
+Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
+
+### عملي
+
+- نفذت واجهات API لبدء التجارب وشغلت مهام XXL-JOB المجدولة وفق توقيتات يحددها المستخدم، ثم استدعاء واجهات تنفيذ التجربة.
+- دعمت إيقاف/تحديث/إعادة تشغيل مهام التجربة بعد تعديل المعلمات، مع ضمان تزامن حالة المهام مع الإعدادات.
+- طورت واجهات جمع النتائج، وزودت مدخلات خوارزمية multi-armed bandit، وعدلت توزيع الزيارات للإصدارات الجديدة وفق مخرجات الخوارزمية.
+- دمجت واجهات تحويل صفحات الويب إلى PDF وإرسال البريد لتوليد تقارير التجارب وإرسالها إلى العملاء.
+
+### مقدمة المشروع
+
+- التفاصيل: راجع [قسم المشاريع](/ar/portfolio/).
