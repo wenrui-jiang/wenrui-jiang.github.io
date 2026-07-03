@@ -2,419 +2,380 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jiangwenrui.com/ar/</loc>
+    <loc>/ar/contact/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/"
+                href="/zh/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/"
+                href="/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/"
+                href="/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/"
+                href="/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/"
+                href="/la/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/"
+                href="/ar/contact/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/contact/</loc>
+    <loc>/ar/project/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/contact/"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/contact/"
+                href="/zh/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/contact/"
+                href="/es/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/contact/"
+                href="/fr/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/contact/"
+                href="/de/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/contact/"
+                href="/la/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/contact/"
+                href="/ar/project/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/about/</loc>
-    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jiangwenrui.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jiangwenrui.com/zh/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jiangwenrui.com/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jiangwenrui.com/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://jiangwenrui.com/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="la"
-                href="https://jiangwenrui.com/la/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://jiangwenrui.com/ar/about/"
-                />
-  </url><url>
-    <loc>https://jiangwenrui.com/ar/post/beijiufang/</loc>
+    <loc>/ar/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/post/beijiufang/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/post/beijiufang/"
+                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/post/beijiufang/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/post/beijiufang/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/post/beijiufang/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/post/beijiufang/"
+                href="/la/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/post/beijiufang/"
+                href="/ar/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/tags/experience/</loc>
+    <loc>/ar/post/beijiufang/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/tags/experience/"
+                href="/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/tags/experience/"
+                href="/zh/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/tags/experience/"
+                href="/es/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/tags/experience/"
+                href="/fr/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/tags/experience/"
+                href="/de/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/tags/experience/"
+                href="/la/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/tags/experience/"
+                href="/ar/post/beijiufang/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/tags/</loc>
+    <loc>/ar/post/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/tags/"
+                href="/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/tags/"
+                href="/zh/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/tags/"
+                href="/es/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/tags/"
+                href="/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/tags/"
+                href="/de/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/tags/"
+                href="/la/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/tags/"
+                href="/ar/post/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/post/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jiangwenrui.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jiangwenrui.com/zh/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jiangwenrui.com/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jiangwenrui.com/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://jiangwenrui.com/de/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="la"
-                href="https://jiangwenrui.com/la/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://jiangwenrui.com/ar/post/"
-                />
-  </url><url>
-    <loc>https://jiangwenrui.com/ar/post/beijing-eyeofcloud/</loc>
+    <loc>/ar/post/beijing-eyeofcloud/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/post/beijing-eyeofcloud/"
+                href="/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/post/beijing-eyeofcloud/"
+                href="/zh/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/post/beijing-eyeofcloud/"
+                href="/es/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/post/beijing-eyeofcloud/"
+                href="/fr/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/post/beijing-eyeofcloud/"
+                href="/de/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/post/beijing-eyeofcloud/"
+                href="/la/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/post/beijing-eyeofcloud/"
+                href="/ar/post/beijing-eyeofcloud/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/categories/</loc>
+    <loc>/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/categories/"
+                href="/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/categories/"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/categories/"
+                href="/la/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/categories/"
+                href="/ar/categories/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/series/</loc>
+    <loc>/ar/tags/experience/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/series/"
+                href="/tags/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/series/"
+                href="/zh/tags/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/series/"
+                href="/es/tags/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/series/"
+                href="/fr/tags/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/series/"
+                href="/de/tags/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/series/"
+                href="/la/tags/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/series/"
+                href="/ar/tags/experience/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/portfolio/</loc>
+    <loc>/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/portfolio/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/portfolio/"
+                href="/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/portfolio/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/portfolio/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/portfolio/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/portfolio/"
+                href="/la/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/portfolio/"
+                href="/ar/tags/"
+                />
+  </url><url>
+    <loc>/ar/portfolio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/portfolio/"
                 />
   </url>
 </urlset>

@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experience on Jiang Wenrui&#39;s Website</title>
-    <link>https://jiangwenrui.com/tags/experience/</link>
-    <description>Recent content in Experience on Jiang Wenrui&#39;s Website</description>
+    <title>experience on Jiang Wenrui&#39;s Website</title>
+    <link>/tags/experience/</link>
+    <description>Recent content in experience on Jiang Wenrui&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>https://jiangwenrui.com/post/</link>
+      <link>/post/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/post/</guid>
-      
-        <description>&lt;p&gt;Work, internship, and project experience.&lt;/p&gt;</description>
-      
+      <guid>/post/</guid>
+      <description>Work, internship, and project experience.</description>
     </item>
     
   </channel>

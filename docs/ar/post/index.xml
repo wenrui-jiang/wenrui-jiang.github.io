@@ -2,35 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>الخبرات on موقع جيانغ ونروي</title>
-    <link>https://jiangwenrui.com/ar/post/</link>
+    <link>/ar/post/</link>
     <description>Recent content in الخبرات on موقع جيانغ ونروي</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/ar/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/ar/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beijing Beijiufang Railway Traffic Technology Co., Ltd - متدرب Backend</title>
-      <link>https://jiangwenrui.com/ar/post/beijiufang/</link>
+      <link>/ar/post/beijiufang/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/ar/post/beijiufang/</guid>
-      
-        <description>&lt;h3 id=&#34;beijing-beijiufang-railway-traffic-technology-co-ltd&#34;&gt;Beijing Beijiufang Railway Traffic Technology Co., Ltd.&lt;/h3&gt;
-&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Apr 2025 - Jul 2025&lt;/strong&gt;&lt;br&gt;
-&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Backend Project Intern&lt;/strong&gt;&lt;/p&gt;</description>
-      
+      <guid>/ar/post/beijiufang/</guid>
+      <description>Beijing Beijiufang Railway Traffic Technology Co., Ltd. Apr 2025 - Jul 2025
+Backend Project Intern
+شاركت في نظام رقمي للتذاكر وقاعدة المعرفة لفحص وصيانة مركبات السكك الحديدية، مع وحدات المصادقة والتحميل وتخزين البيانات ولوحات ECharts.
+Stack: Spring Cloud, Spring Boot, Spring Security, JWT, MyBatis-Plus, MySQL, ECharts</description>
     </item>
     
     <item>
       <title>Beijing Heyicloud Technology Co., Ltd - متدرب Java</title>
-      <link>https://jiangwenrui.com/ar/post/beijing-eyeofcloud/</link>
+      <link>/ar/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/ar/post/beijing-eyeofcloud/</guid>
-      
-        <description>&lt;h3 id=&#34;beijing-heyicloud-technology-co-ltd&#34;&gt;&lt;img src=&#34;https://jiangwenrui.com/images/logo/eyeofcloud.png&#34; alt=&#34;Heyicloud logo&#34; style=&#34;height: 1.2em; width: auto; vertical-align: text-bottom;&#34;&gt; Beijing Heyicloud Technology Co., Ltd.&lt;/h3&gt;
-&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Dec 2022 - Mar 2023&lt;/strong&gt;&lt;br&gt;
-&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Java Developer Intern&lt;/strong&gt;&lt;/p&gt;</description>
-      
+      <guid>/ar/post/beijing-eyeofcloud/</guid>
+      <description>Beijing Heyicloud Technology Co., Ltd. Dec 2022 - Mar 2023
+Java Developer Intern
+عملت على تطوير backend لمنصة اختبارات A/B، بما في ذلك جدولة التجارب، إدارة المهام، جمع النتائج، إنشاء تقارير PDF وإرسالها بالبريد.
+Stack: Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB</description>
     </item>
     
   </channel>

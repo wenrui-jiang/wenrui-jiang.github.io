@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experience on موقع جيانغ ونروي</title>
-    <link>https://jiangwenrui.com/ar/tags/experience/</link>
-    <description>Recent content in Experience on موقع جيانغ ونروي</description>
+    <title>experience on موقع جيانغ ونروي</title>
+    <link>/ar/tags/experience/</link>
+    <description>Recent content in experience on موقع جيانغ ونروي</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ar</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/ar/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <language>ar</language><atom:link href="/ar/tags/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>الخبرات</title>
-      <link>https://jiangwenrui.com/ar/post/</link>
+      <link>/ar/post/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/ar/post/</guid>
-      
-        <description>&lt;p&gt;خبرات العمل والتدريب والمشاريع.&lt;/p&gt;</description>
-      
+      <guid>/ar/post/</guid>
+      <description>خبرات العمل والتدريب والمشاريع.</description>
     </item>
     
   </channel>

@@ -2,106 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiang Wenrui&#39;s Website</title>
-    <link>https://jiangwenrui.com/</link>
+    <link>/</link>
     <description>Recent content on Jiang Wenrui&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jiangwenrui.com/archives/</link>
+      <link>/archives/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/archives/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://jiangwenrui.com/about/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://jiangwenrui.com/about/</guid>
-      
-        <description>About Jiang Wenrui</description>
-      
+      <guid>/archives/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://jiangwenrui.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/contact/</guid>
+      <guid>/contact/</guid>
+      <description>Feel free to get in touch via email or social platforms. The contact form at the bottom of this page is also available; leave your name, email address, and message, and I can reply to you by email after receiving it.
+The form is powered by Formspree. Submitted messages are forwarded to the email address configured in the Formspree dashboard for this website.
+Address
+No.110 West, Yifu Building, Beijing Jiaotong University</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>/project/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-        <description>Contact Page</description>
-      
+      <guid>/project/</guid>
+      <description>Healthcare Appointment Platform - Intelligent Triage Agent Integration  Period: 2026.06 - 2026.07 Role: Backend / Agent Application Developer Architecture: Spring Cloud, Spring Boot, OpenFeign, Redis, MySQL, MongoDB, JWT, DeepSeek API, Workflow State Machine  What I Did  Designed an independent Agent integration plan to decouple triage dialogue/tool orchestration from core booking services. Built workflow states and slots for symptom intake, department recommendation, schedule lookup, booking confirmation, and visit guidance.</description>
     </item>
     
     <item>
       <title>Beijing Beijiufang Railway Traffic Technology Co., Ltd - Backend Project Intern</title>
-      <link>https://jiangwenrui.com/post/beijiufang/</link>
+      <link>/post/beijiufang/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/post/beijiufang/</guid>
-      
-        <description>&lt;h3 id=&#34;beijing-beijiufang-railway-traffic-technology-co-ltd&#34;&gt;Beijing Beijiufang Railway Traffic Technology Co., Ltd.&lt;/h3&gt;
-&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Apr 2025 - Jul 2025&lt;/strong&gt;&lt;br&gt;
-&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Backend Project Intern&lt;/strong&gt;&lt;/p&gt;</description>
-      
+      <guid>/post/beijiufang/</guid>
+      <description>Beijing Beijiufang Railway Traffic Technology Co., Ltd. Apr 2025 - Jul 2025
+Backend Project Intern
+My Work  Implemented login, authentication, and role-based authorization with Spring Security + JWT; designed user/permission tables and completed API integration. Built ticket entry, query, and document/image upload APIs with Spring MVC and MyBatis; integrated algorithm recognition outputs and persisted business data.  Project Introduction  Project summary: digital ticketing and knowledge-base system for railway vehicle maintenance workflows.</description>
     </item>
     
     <item>
       <title>Beijing Heyicloud Technology Co., Ltd - Java Developer Intern</title>
-      <link>https://jiangwenrui.com/post/beijing-eyeofcloud/</link>
+      <link>/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/post/beijing-eyeofcloud/</guid>
-      
-        <description>&lt;h3 id=&#34;beijing-heyicloud-technology-co-ltd&#34;&gt;&lt;img src=&#34;https://jiangwenrui.com/images/logo/eyeofcloud.png&#34; alt=&#34;Heyicloud logo&#34; style=&#34;height: 1.2em; width: auto; vertical-align: text-bottom;&#34;&gt; Beijing Heyicloud Technology Co., Ltd.&lt;/h3&gt;
-&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Dec 2022 - Mar 2023&lt;/strong&gt;&lt;br&gt;
-&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Java Developer Intern&lt;/strong&gt;&lt;/p&gt;</description>
-      
+      <guid>/post/beijing-eyeofcloud/</guid>
+      <description>Beijing Heyicloud Technology Co., Ltd. Dec 2022 - Mar 2023
+Java Developer Intern
+Project Overview The A/B testing platform runs experiment analysis for multiple webpage/app variants, determines better versions from user behavior and algorithm outcomes, and dynamically adjusts traffic allocation.
+Architecture Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
+My Work  Implemented experiment-start APIs and triggered XXL-JOB scheduled tasks based on user-defined experiment timing, then callback execution APIs. Supported pause/update/restart for experiment tasks after parameter updates, ensuring task state and configuration remained synchronized.</description>
     </item>
     
     <item>
       <title>Awards &amp; Honors</title>
-      <link>https://jiangwenrui.com/awards/</link>
+      <link>/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/awards/</guid>
-      
-        <description>Academic awards, research honors, and teaching experience during university</description>
-      
+      <guid>/awards/</guid>
+      <description>Academic Honors   First-Class Master&amp;rsquo;s Academic Scholarship (Sep 2024)
+Awarded for outstanding graduate-level academic performance
+  First-Class Graduate Admission Scholarship
+Awarded for academic excellence and graduate program recommendation
+  Third-Class Academic Excellence Scholarship
+Multiple times recipient for high academic performance
+  Outstanding Youth League Member &amp;amp; Cadre
+Recognized for active contribution to student community and leadership
+  Competitions &amp;amp; Research  MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention (H Prize)</description>
     </item>
     
     <item>
       <title>Certifications</title>
-      <link>https://jiangwenrui.com/certifications/</link>
+      <link>/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/certifications/</guid>
-      
-        <description>English Language Certifications by Jiang Wenrui</description>
-      
+      <guid>/certifications/</guid>
+      <description>Certifications  CET-4 (College English Test Band 4): Score 542 CET-6 (College English Test Band 6): Score 539  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiangwenrui.com/imprint/</link>
+      <link>/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/imprint/</guid>
-      
-        <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
-&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
-&lt;h2 id=&#34;jiang-wenrui&#34;&gt;Jiang Wenrui&lt;/h2&gt;
-&lt;p&gt;No.110 West, Yifu Building, Beijing Jiaotong University&lt;br&gt;
-No.3 Shangyuancun, Haidian District, Beijing&lt;br&gt;
-Beijing 100044, China&lt;/p&gt;</description>
-      
+      <guid>/imprint/</guid>
+      <description>Legal Disclosure Information in accordance with the applicable law
+Jiang Wenrui No.110 West, Yifu Building, Beijing Jiaotong University
+No.3 Shangyuancun, Haidian District, Beijing
+Beijing 100044, China</description>
     </item>
     
   </channel>

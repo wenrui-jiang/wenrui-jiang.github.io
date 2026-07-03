@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Jiang Wenrui&#39;s Website</title>
-    <link>https://jiangwenrui.com/portfolio/</link>
+    <link>/portfolio/</link>
     <description>Recent content in Articles on Jiang Wenrui&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://jiangwenrui.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
