@@ -2,111 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>蒋文睿的网站</title>
-    <link>/zh/</link>
+    <link>https://jiangwenrui.com/zh/</link>
     <description>Recent content on 蒋文睿的网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>/zh/archives/</link>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>法律声明</title>
-      <link>/zh/imprint/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/zh/imprint/</guid>
-      <description>本网站为蒋文睿的个人主页，用于展示个人经历、项目、学习和研究内容。
-如需联系网站所有者，请访问 联系方式 页面。</description>
-    </item>
-    
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>联系方式</title>
-      <link>/zh/contact/</link>
+      <link>https://jiangwenrui.com/zh/contact/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>/zh/contact/</guid>
-      <description>欢迎通过邮箱或社交平台与我联系。本页底部的联系表单也可以使用；请留下你的姓名、邮箱和留言内容，我收到后可以通过邮件回复你。
-这个表单由 Formspree 提供。访客提交后，消息会转发到本网站 Formspree 后台绑定的邮箱。
-地址
-北京市海淀区上园村 3 号
-北京交通大学逸夫楼西 110
-中国北京 100044
-邮箱
-jiang.wenrui@outlook.com
-电话
-+86 178-5263-6053
-即时通讯
- WhatsApp: +49 15259695197 Telegram: +49 15259695197  社交媒体
- Instagram: @vegetablebird086 Facebook: Wenrui Jiang X: @rui_wen79885 LinkedIn: Jiang Wenrui  </description>
+      <guid>https://jiangwenrui.com/zh/contact/</guid>
+      
+        <description>联系方式页面</description>
+      
     </item>
     
     <item>
       <title>项目</title>
-      <link>/zh/project/</link>
+      <link>https://jiangwenrui.com/zh/project/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>/zh/project/</guid>
-      <description>医疗预约平台 - 智能导诊 Agent 接入改造  **时间：**2026.06 - 2026.07 **角色：**后端 / Agent 应用开发 **架构：**Spring Cloud、Spring Boot、OpenFeign、Redis、MySQL、MongoDB、JWT、DeepSeek API、工作流状态机  我做了什么  设计独立 Agent 接入方案，将导诊对话与工具编排和原有预约挂号核心服务解耦。 设计导诊工作流状态机和 slots 槽位，支持症状收集、科室推荐、查号源、挂号确认、订单提交与就诊引导。 接入 DeepSeek 进行意图识别与槽位抽取，并通过后端确认保护避免模型越权直接下单。 封装医院、科室、排班、就诊人、订单工具调用并记录参数、耗时与失败原因。  访问链接：https://medical.jiangwenrui.com/</description>
+      <guid>https://jiangwenrui.com/zh/project/</guid>
+      
+        <description>项目与技术工作</description>
+      
     </item>
     
     <item>
       <title>北京北九方轨道交通科技有限公司 - 后端项目实习生</title>
-      <link>/zh/post/beijiufang/</link>
+      <link>https://jiangwenrui.com/zh/post/beijiufang/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>/zh/post/beijiufang/</guid>
-      <description>北京北九方轨道交通科技有限公司 2025.04 - 2025.07
-后端项目实习生
-我的工作  基于 Spring Security + JWT 实现用户登录、身份验证及角色权限控制，设计用户与权限数据表并完成接口对接。 使用 Spring MVC 与 MyBatis 完成提票录入、检索和文档/图片上传接口，对接算法识别结果并完成数据持久化。  项目介绍  项目简介：铁路车辆检修数字化提票与知识库系统。 项目详情：见 项目栏目。  </description>
+      <guid>https://jiangwenrui.com/zh/post/beijiufang/</guid>
+      
+        <description>&lt;h3 id=&#34;北京北九方轨道交通科技有限公司&#34;&gt;北京北九方轨道交通科技有限公司&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2025.04 - 2025.07&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;后端项目实习生&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;我的工作&#34;&gt;我的工作&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;基于 Spring Security + JWT 实现用户登录、身份验证及角色权限控制，设计用户与权限数据表并完成接口对接。&lt;/li&gt;
+&lt;li&gt;使用 Spring MVC 与 MyBatis 完成提票录入、检索和文档/图片上传接口，对接算法识别结果并完成数据持久化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;项目介绍&#34;&gt;项目介绍&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;项目简介：铁路车辆检修数字化提票与知识库系统。&lt;/li&gt;
+&lt;li&gt;项目详情：见 &lt;a href=&#34;https://jiangwenrui.com/zh/portfolio/&#34;&gt;项目栏目&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
     </item>
     
     <item>
       <title>北京合力云通科技有限公司 - Java 开发工程师（实习）</title>
-      <link>/zh/post/beijing-eyeofcloud/</link>
+      <link>https://jiangwenrui.com/zh/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/zh/post/beijing-eyeofcloud/</guid>
-      <description>北京合力云通科技有限公司 2022.12 - 2023.03
-Java 开发工程师（实习）
-项目简介 A/B 测试平台用于对网页或应用的多个版本进行实验分析，根据用户行为数据和算法结果确定更优版本，并动态调整流量分配比例。
-项目架构 Spring Cloud、MyBatis、MySQL、RabbitMQ、XXL-JOB
-我的工作  编写 A/B 测试实验启动接口，根据用户配置的实验时间调用 XXL-JOB 定时任务，并回调实验执行接口。 支持实验参数修改场景下的任务暂停、更新和重启，保证实验配置变更后任务状态正确同步。 开发实验结果收集接口，将实验数据作为多臂老虎机算法输入，并根据计算结果调整新版本网页流量分配。 对接网页转 PDF 与邮件发送接口，将实验反馈报告生成后发送至客户邮箱。  项目介绍  项目详情：见 项目栏目。  </description>
+      <guid>https://jiangwenrui.com/zh/post/beijing-eyeofcloud/</guid>
+      
+        <description>&lt;h3 id=&#34;北京合力云通科技有限公司&#34;&gt;北京合力云通科技有限公司&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2022.12 - 2023.03&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Java 开发工程师（实习）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;项目简介&#34;&gt;项目简介&lt;/h3&gt;
+&lt;p&gt;A/B 测试平台用于对网页或应用的多个版本进行实验分析，根据用户行为数据和算法结果确定更优版本，并动态调整流量分配比例。&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>荣誉与奖项</title>
-      <link>/zh/awards/</link>
+      <link>https://jiangwenrui.com/zh/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/zh/awards/</guid>
-      <description>学术荣誉   2024 年 9 月硕士学业一等奖学金
-因研究生阶段学业成绩与综合表现优秀获得
-  研究生一等入学奖学金
-因学业表现优秀和推免攻读研究生获得
-  三等学业优秀奖学金
-多次因课程学习和综合表现获得
-  优秀共青团员与优秀团干部
-因积极参与学生工作和集体建设获得
-  竞赛与科研  2022 年美国大学生数学建模竞赛（MCM/ICM）H 奖（Honorable Mention）
-在国际数学建模竞赛中获得认可  教学经历  教学助理：离散数学与计算机网络
-时间：2022 - 2024
-协助课程讲授、作业批改和本科生答疑  </description>
-    </item>
-    
-    <item>
-      <title>证书</title>
-      <link>/zh/certifications/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangwenrui.com/zh/awards/</guid>
       
-      <guid>/zh/certifications/</guid>
-      <description>证书  大学英语四级（CET-4）：542 分 大学英语六级（CET-6）：539 分  </description>
+        <description>大学期间获得的学术奖励、科研荣誉和教学经历</description>
+      
     </item>
     
   </channel>

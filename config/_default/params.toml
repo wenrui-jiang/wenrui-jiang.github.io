@@ -1,5 +1,5 @@
 
-title = "I'm Jiang Wenrui"
+title = "Jiang Wenrui"
 author = "Jiang Wenrui"
 #copyright = "2024-2027"
 description = "Computer science master's student at Beijing Jiaotong University"
@@ -7,7 +7,7 @@ profilePicture = "images/live.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]

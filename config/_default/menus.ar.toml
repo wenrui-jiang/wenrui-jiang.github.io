@@ -23,6 +23,12 @@ weight = 400
 url = "/ar/project/"
 
 [[main]]
+name = "الجوائز"
+identifier = "awards"
+weight = 500
+url = "/ar/awards/"
+
+[[main]]
 name = "اتصال"
 identifier = "contact"
 weight = 600

@@ -20,7 +20,7 @@
   <meta name="author" content="Jiang Wenrui" />
   <meta
     name="description"
-    content="Computer science master&#39;s student at Beijing Jiaotong University"
+    content="Étudiant en master d&#39;informatique à Beijing Jiaotong University"
   />
   
   
@@ -43,6 +43,16 @@
     crossorigin="anonymous"
     type="text/css"
   />
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/css/custom.min.3d579c77710b1bcb0bcaf4e64c51525ce65b854fbca4182bb95a4e60a9bf19a9.css"
+      integrity="sha256-PVecd3ELG8sLyvTmTFFSXOZbhU&#43;8pBgruVpOYKm/Gak="
+      crossorigin="anonymous"
+      media="screen"
+    />
   
   
   <link
@@ -150,7 +160,7 @@ Stagiaire développeur Java">
         "alternativeHeadline": "",
         "description": "
       
-        \u003ch3 id=\u0022beijing-heyicloud-technology-co-ltd\u0022\u003e\u003cimg src=\u0022\/images\/logo\/eyeofcloud.png\u0022 alt=\u0022Heyicloud logo\u0022 style=\u0022height: 1.2em; width: auto; vertical-align: text-bottom;\u0022\u003e Beijing Heyicloud Technology Co., Ltd.\u003c\/h3\u003e\n\u003cp\u003e\u003ci class=\u0022fa-solid fa-calendar-days\u0022\u003e\u003c\/i\u003e \u003cstrong\u003eDéc. 2022 - Mars 2023\u003c\/strong\u003e\u003cbr\u003e\n\u003ci class=\u0022fa-solid fa-briefcase\u0022\u003e\u003c\/i\u003e \u003cstrong\u003eStagiaire développeur Java\u003c\/strong\u003e\u003c\/p\u003e
+        \u003ch3 id=\u0022beijing-heyicloud-technology-co-ltd\u0022\u003eBeijing Heyicloud Technology Co., Ltd.\u003c\/h3\u003e\n\u003cp\u003e\u003ci class=\u0022fa-solid fa-calendar-days\u0022\u003e\u003c\/i\u003e \u003cstrong\u003eDéc. 2022 - Mars 2023\u003c\/strong\u003e\u003cbr\u003e\n\u003ci class=\u0022fa-solid fa-briefcase\u0022\u003e\u003c\/i\u003e \u003cstrong\u003eStagiaire développeur Java\u003c\/strong\u003e\u003c\/p\u003e
 
 
       
@@ -205,7 +215,7 @@ Stagiaire développeur Java">
 
     ,
         "url" : "https:\/\/jiangwenrui.com\/fr\/post\/beijing-eyeofcloud\/",
-        "wordCount" : "47",
+        "wordCount" : "152",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -233,11 +243,11 @@ Stagiaire développeur Java">
       />
       
         <div class="sidebar__introduction-title">
-          <a href="/fr">I&#39;m Jiang Wenrui</a>
+          <a href="/fr">Jiang Wenrui</a>
         </div>
       
       <div class="sidebar__introduction-description">
-        <p>Computer science master's student at Beijing Jiaotong University</p>
+        <p>Étudiant en master d'informatique à Beijing Jiaotong University</p>
       </div>
     </div>
     <ul class="sidebar__list">
@@ -405,10 +415,25 @@ Stagiaire développeur Java">
             
             <a
               
-              href="/fr/about/"
+              href="/fr/project/"
               
               title=""
-              >À propos</a
+              >Projet</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/fr/awards/"
+              
+              title=""
+              >Prix</a
             >
           </li>
         
@@ -546,11 +571,24 @@ Stagiaire développeur Java">
             <span class="post__meta-text">Une minute de lecture</span>
           </li>
         </ul>
-      <h3 id="beijing-heyicloud-technology-co-ltd"><img src="/images/logo/eyeofcloud.png" alt="Heyicloud logo" style="height: 1.2em; width: auto; vertical-align: text-bottom;"> Beijing Heyicloud Technology Co., Ltd.</h3>
+      <h3 id="beijing-heyicloud-technology-co-ltd">Beijing Heyicloud Technology Co., Ltd.</h3>
 <p><i class="fa-solid fa-calendar-days"></i> <strong>Déc. 2022 - Mars 2023</strong><br>
 <i class="fa-solid fa-briefcase"></i> <strong>Stagiaire développeur Java</strong></p>
-<p>Développement backend pour une plateforme de tests A/B : planification des expériences, gestion des tâches, collecte des résultats, génération de rapports PDF et envoi par email.</p>
-<p><strong>Stack</strong> : Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB</p>
+<h3 id="aperçu-du-projet">Aperçu du projet</h3>
+<p>La plateforme de tests A/B exécute des analyses d&rsquo;expériences sur plusieurs variantes web/app, identifie les meilleures versions à partir du comportement utilisateur et des résultats algorithmiques, puis ajuste dynamiquement l&rsquo;allocation de trafic.</p>
+<h3 id="architecture">Architecture</h3>
+<p>Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB</p>
+<h3 id="mon-travail">Mon travail</h3>
+<ul>
+<li>Implémenté les API de démarrage d&rsquo;expérience et déclenché des tâches planifiées XXL-JOB selon les horaires définis par l&rsquo;utilisateur, puis callback vers les API d&rsquo;exécution.</li>
+<li>Pris en charge la pause/mise à jour/redémarrage des tâches après modification des paramètres, en gardant l&rsquo;état des tâches et la configuration synchronisés.</li>
+<li>Développé les API de collecte de résultats, fourni les entrées du bandit multi-bras et ajusté l&rsquo;allocation de trafic des nouvelles versions selon la sortie algorithmique.</li>
+<li>Intégré les API web-vers-PDF et email pour générer et envoyer les rapports d&rsquo;expérience aux clients.</li>
+</ul>
+<h3 id="présentation-du-projet">Présentation du projet</h3>
+<ul>
+<li>Détails : voir la <a href="/fr/portfolio/">section projet</a>.</li>
+</ul>
 </div>
     <div class="post__footer">
       

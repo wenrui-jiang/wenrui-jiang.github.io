@@ -2,55 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pagina Jiang Wenrui</title>
-    <link>/la/</link>
+    <link>https://jiangwenrui.com/la/</link>
     <description>Recent content on Pagina Jiang Wenrui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>la</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/la/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/la/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contactus</title>
-      <link>/la/contact/</link>
+      <link>https://jiangwenrui.com/la/contact/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>/la/contact/</guid>
-      <description>Me per epistulam electronicam, instrumenta socialia, aut formulam in fine huius paginae contingere potes.
-Email
-jiang.wenrui@outlook.com
-Nuntii
- WhatsApp: +49 15259695197 Telegram: +49 15259695197  </description>
+      <guid>https://jiangwenrui.com/la/contact/</guid>
+      
+        <description>Pagina contactus</description>
+      
     </item>
     
     <item>
       <title>Proiecta</title>
-      <link>/la/project/</link>
+      <link>https://jiangwenrui.com/la/project/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>/la/project/</guid>
-      <description>Integratio Agentis intelligentis in platforma reservationum medicarum  Tempus: 2026.06 - 2026.07 Munus: Evolutor Backend / Applicationis Agent  Quid egi  Consilium integrationis Agentis a servitiis principalibus separatae. Structura workflow et slots pro commendatione, investigatione et confirmatione. Integratio extractionis intentionis/slot cum tutela confirmationis backend.  Nexus accessus: https://medical.jiangwenrui.com/</description>
+      <guid>https://jiangwenrui.com/la/project/</guid>
+      
+        <description>Proiecta et opus technicum</description>
+      
     </item>
     
     <item>
       <title>Beijing Beijiufang Railway Traffic Technology Co., Ltd - Tiro Backend</title>
-      <link>/la/post/beijiufang/</link>
+      <link>https://jiangwenrui.com/la/post/beijiufang/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>/la/post/beijiufang/</guid>
-      <description>Beijing Beijiufang Railway Traffic Technology Co., Ltd. Apr 2025 - Jul 2025
-Tiro Backend
-Particeps fui systematis digitalis pro inspectione et sustentatione vehiculorum ferriviariorum, cum authentificatione, oneratione documentorum, data persistentia et tabulis ECharts.
-Stack: Spring Cloud, Spring Boot, Spring Security, JWT, MyBatis-Plus, MySQL, ECharts</description>
+      <guid>https://jiangwenrui.com/la/post/beijiufang/</guid>
+      
+        <description>&lt;h3 id=&#34;beijing-beijiufang-railway-traffic-technology-co-ltd&#34;&gt;Beijing Beijiufang Railway Traffic Technology Co., Ltd.&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Apr 2025 - Jul 2025&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Tiro Backend&lt;/strong&gt;&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>Beijing Heyicloud Technology Co., Ltd - Tiro Java</title>
-      <link>/la/post/beijing-eyeofcloud/</link>
+      <link>https://jiangwenrui.com/la/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/la/post/beijing-eyeofcloud/</guid>
-      <description>Beijing Heyicloud Technology Co., Ltd. Dec 2022 - Mar 2023
-Tiro Java
-Backend pro suggestu A/B testing elaboravi: experimentorum ordinatio, status operum, collectio eventuum, relatio PDF et missio per email.
-Stack: Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB</description>
+      <guid>https://jiangwenrui.com/la/post/beijing-eyeofcloud/</guid>
+      
+        <description>&lt;h3 id=&#34;beijing-heyicloud-technology-co-ltd&#34;&gt;Beijing Heyicloud Technology Co., Ltd.&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Dec 2022 - Mar 2023&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Tiro Java&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Praemia et Honores</title>
+      <link>https://jiangwenrui.com/la/awards/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiangwenrui.com/la/awards/</guid>
+      
+        <description>Praemia academica, honores investigationis et experientia docendi in universitate</description>
+      
     </item>
     
   </channel>

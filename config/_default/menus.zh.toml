@@ -23,6 +23,12 @@ identifier = "project"
 url = "/zh/project/"
 
 [[main]]
+name = "荣誉"
+weight = 500
+identifier = "awards"
+url = "/zh/awards/"
+
+[[main]]
 name = "联系"
 weight = 600
 identifier = "contact"

@@ -2,33 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expérience on Site web de Jiang Wenrui</title>
-    <link>/fr/post/</link>
+    <link>https://jiangwenrui.com/fr/post/</link>
     <description>Recent content in Expérience on Site web de Jiang Wenrui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/fr/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/fr/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beijing Beijiufang Railway Traffic Technology Co., Ltd - Stagiaire backend</title>
-      <link>/fr/post/beijiufang/</link>
+      <link>https://jiangwenrui.com/fr/post/beijiufang/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>/fr/post/beijiufang/</guid>
-      <description>Beijing Beijiufang Railway Traffic Technology Co., Ltd. Avr. 2025 - Juil. 2025
-Stagiaire backend
-Participation à un système numérique de tickets et de base de connaissances pour la maintenance ferroviaire, avec authentification, téléversement, persistance de données et tableaux de bord ECharts.
-Stack : Spring Cloud, Spring Boot, Spring Security, JWT, MyBatis-Plus, MySQL, ECharts</description>
+      <guid>https://jiangwenrui.com/fr/post/beijiufang/</guid>
+      
+        <description>&lt;h3 id=&#34;beijing-beijiufang-railway-traffic-technology-co-ltd&#34;&gt;Beijing Beijiufang Railway Traffic Technology Co., Ltd.&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Avr. 2025 - Juil. 2025&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Stagiaire backend&lt;/strong&gt;&lt;/p&gt;</description>
+      
     </item>
     
     <item>
       <title>Beijing Heyicloud Technology Co., Ltd - Stagiaire développeur Java</title>
-      <link>/fr/post/beijing-eyeofcloud/</link>
+      <link>https://jiangwenrui.com/fr/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/fr/post/beijing-eyeofcloud/</guid>
-      <description>Beijing Heyicloud Technology Co., Ltd. Déc. 2022 - Mars 2023
-Stagiaire développeur Java
-Développement backend pour une plateforme de tests A/B : planification des expériences, gestion des tâches, collecte des résultats, génération de rapports PDF et envoi par email.
-Stack : Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB</description>
+      <guid>https://jiangwenrui.com/fr/post/beijing-eyeofcloud/</guid>
+      
+        <description>&lt;h3 id=&#34;beijing-heyicloud-technology-co-ltd&#34;&gt;Beijing Heyicloud Technology Co., Ltd.&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;Déc. 2022 - Mars 2023&lt;/strong&gt;&lt;br&gt;
+&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Stagiaire développeur Java&lt;/strong&gt;&lt;/p&gt;</description>
+      
     </item>
     
   </channel>

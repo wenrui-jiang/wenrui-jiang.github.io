@@ -5,12 +5,24 @@ weight = 1
 languageName = "English"
 contentDir = "content/english"
 
+[en.params]
+title = "Jiang Wenrui"
+author = "Jiang Wenrui"
+description = "Computer science master's student at Beijing Jiaotong University"
+profilePicture = "images/live.jpg"
+
 [zh]
 title = "蒋文睿的网站"
 languageCode = "zh"
 weight = 2
 languageName = "中文"
 contentDir = "content/Chinese"
+
+[zh.params]
+title = "蒋文睿"
+author = "蒋文睿"
+description = "北京交通大学计算机科学硕士研究生"
+profilePicture = "images/live.jpg"
 
 [es]
 title = "Sitio web de Jiang Wenrui"
@@ -19,12 +31,24 @@ weight = 3
 languageName = "Español"
 contentDir = "content/spanish"
 
+[es.params]
+title = "Jiang Wenrui"
+author = "Jiang Wenrui"
+description = "Estudiante de máster en informática en Beijing Jiaotong University"
+profilePicture = "images/live.jpg"
+
 [fr]
 title = "Site web de Jiang Wenrui"
 languageCode = "fr"
 weight = 4
 languageName = "Français"
 contentDir = "content/french"
+
+[fr.params]
+title = "Jiang Wenrui"
+author = "Jiang Wenrui"
+description = "Étudiant en master d'informatique à Beijing Jiaotong University"
+profilePicture = "images/live.jpg"
 
 [de]
 title = "Jiang Wenruis Website"
@@ -33,6 +57,12 @@ weight = 5
 languageName = "Deutsch"
 contentDir = "content/german"
 
+[de.params]
+title = "Jiang Wenrui"
+author = "Jiang Wenrui"
+description = "Masterstudent der Informatik an der Beijing Jiaotong University"
+profilePicture = "images/live.jpg"
+
 [ar]
 title = "موقع جيانغ ونروي"
 languageCode = "ar"
@@ -40,9 +70,21 @@ weight = 6
 languageName = "العربية"
 contentDir = "content/arabic"
 
+[ar.params]
+title = "Jiang Wenrui"
+author = "Jiang Wenrui"
+description = "طالب ماجستير في علوم الحاسوب في Beijing Jiaotong University"
+profilePicture = "images/live.jpg"
+
 [la]
 title = "Pagina Jiang Wenrui"
 languageCode = "la"
 weight = 7
 languageName = "Latina"
 contentDir = "content/latin"
+
+[la.params]
+title = "Jiang Wenrui"
+author = "Jiang Wenrui"
+description = "Discipulus magistralis scientiae computatoriae apud Beijing Jiaotong University"
+profilePicture = "images/live.jpg"

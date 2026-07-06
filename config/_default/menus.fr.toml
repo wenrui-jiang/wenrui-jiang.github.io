@@ -23,6 +23,12 @@ weight = 400
 url = "/fr/project/"
 
 [[main]]
+name = "Prix"
+identifier = "awards"
+weight = 500
+url = "/fr/awards/"
+
+[[main]]
 name = "Contact"
 identifier = "contact"
 weight = 600

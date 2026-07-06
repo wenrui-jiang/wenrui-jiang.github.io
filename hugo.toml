@@ -7,7 +7,7 @@ defaultContentLanguageInSubdir = false
 languageCode = "en"
 
 [params]
-title = "I'm Jiang Wenrui"
+title = "Jiang Wenrui"
 author = "Jiang Wenrui"
 description = "Computer science master's student at Beijing Jiaotong University"
 profilePicture = "images/live.jpg"
