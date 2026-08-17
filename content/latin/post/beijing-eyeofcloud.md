@@ -1,29 +1,25 @@
 +++
-title = "Beijing Heyicloud Technology Co., Ltd - Tiro Java"
+title = "Beijing Heyicloud Technology Co., Ltd. - Stagiaire développeur Java"
 date = "2022-12-01"
 draft = false
 +++
 
 ### Beijing Heyicloud Technology Co., Ltd.
 
-<i class="fa-solid fa-calendar-days"></i> **Dec 2022 - Mar 2023**  
-<i class="fa-solid fa-briefcase"></i> **Tiro Java**
+<i class="fa-solid fa-calendar-days"></i> **2022.12 - 2023.03**  
+<i class="fa-solid fa-briefcase"></i> **Stagiaire développeur Java**
 
-### Conspectus projecti
+### Descriptio proiecti
 
-Suggestus A/B testing analysin experimentorum pro pluribus versionibus web/app facit, ex moribus usorum et eventibus algorithmorum versiones meliores decernit, atque distributionem traffici dynamice accommodat.
+La plateforme A/B analyse plusieurs versions de pages ou applications et ajuste dynamiquement le trafic selon les données utilisateur et les algorithmes.
 
-### Architectura
+### Technologiae
 
 Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
 
-### Opus meum
+### Quid feci
 
-- API ad initium experimentorum implementavi et officia XXL-JOB secundum tempus a usore definitum excitavi, deinde API executionis callback.
-- Pausam, renovationem et re-initium officiorum post mutationes parametrorum sustinui, ut status officii et configuratio synchrona manerent.
-- API collectionis eventuum construxi, data ad multi-armed bandit praebui et distributionem traffici novarum versionum secundum exitum algorithmi adaptavi.
-- API web-ad-PDF et email integravi ad relationes experimentorum generandas et clientibus mittendas.
-
-### Introductio projecti
-
-- Singula: vide [sectionem projectorum](/la/portfolio/).
+- Cycle de vie et planification des expériences avec états brouillon, attente, exécution, pause et terminé; planification par XXL-JOB et APIs idempotentes.
+- Répartition stable des utilisateurs par hash expérience-utilisateur et snapshots de configuration.
+- Consommation asynchrone d'événements exposition/clic/conversion via RabbitMQ; agrégation UV, CTR et CVR.
+- Connexion aux stratégies Epsilon-Greedy et UCB1 avec garde-fous: échantillon minimal, amplitude maximale et rollback.

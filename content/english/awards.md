@@ -1,32 +1,26 @@
 +++
-title = "Awards & Honors"
-description = "Academic awards, research honors, and teaching experience during university"
+title = "Honors and Capabilities"
+description = "Education, research, English proficiency, and awards"
 date = "2022-04-10"
-aliases = ["awards"]
 author = "Jiang Wenrui"
 +++
 
-### Academic Honors
+### Education
 
-- **First-Class Master's Academic Scholarship (Sep 2024)**  
-  Awarded for outstanding graduate-level academic performance
+- Beijing Jiaotong University, B.Eng. in Computer Science and Technology, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor, academic third-class scholarship.
+- Beijing Jiaotong University, M.Sc. student in Computer Science and Technology, 2024.09 - 2027.06, first-class postgraduate scholarship.
 
-- **First-Class Graduate Admission Scholarship**  
-  Awarded for academic excellence and graduate program recommendation
+### Research
 
-- **Third-Class Academic Excellence Scholarship**  
-  Multiple times recipient for high academic performance
+- Causal Grouping Network for News-driven Stock Forecasting, first author, under KDD review.
 
-- **Outstanding Youth League Member & Cadre**  
-  Recognized for active contribution to student community and leadership
+### English Proficiency
 
-### Competitions & Research
+- CET-4: 542.
+- CET-6: 539.
 
-- **MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention (H Prize)**  
-  International recognition in mathematical modeling competition
+### Self-Assessment
 
-### Teaching Experience
-
-- **Teaching Assistant - Discrete Mathematics & Computer Networks**  
-  Duration: 2022 - 2024  
-  Assisted with lectures, homework grading, and student Q&A for undergraduate courses
+- Responsible, execution-oriented, and attentive to communication and teamwork.
+- Enjoys learning new technologies and tools, with strong self-motivation and learning ability.
+- Able to make steady progress on complex tasks under pressure.

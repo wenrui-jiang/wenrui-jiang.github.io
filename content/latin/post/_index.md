@@ -4,4 +4,4 @@ author = "Jiang Wenrui"
 tags = ["experience"]
 +++
 
-Opera, tirocinium et experientia projectorum.
+Tirocinia, opera backend, et progressio applicationum Agent.

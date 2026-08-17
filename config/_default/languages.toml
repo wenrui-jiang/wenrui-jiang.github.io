@@ -8,7 +8,7 @@ contentDir = "content/english"
 [en.params]
 title = "Jiang Wenrui"
 author = "Jiang Wenrui"
-description = "Computer science master's student at Beijing Jiaotong University"
+description = "Agent application and Java backend developer"
 profilePicture = "images/live.jpg"
 
 [zh]
@@ -21,7 +21,7 @@ contentDir = "content/Chinese"
 [zh.params]
 title = "蒋文睿"
 author = "蒋文睿"
-description = "北京交通大学计算机科学硕士研究生"
+description = "Agent 应用与 Java 后端开发方向"
 profilePicture = "images/live.jpg"
 
 [es]
@@ -34,7 +34,7 @@ contentDir = "content/spanish"
 [es.params]
 title = "Jiang Wenrui"
 author = "Jiang Wenrui"
-description = "Estudiante de máster en informática en Beijing Jiaotong University"
+description = "Desarrollador de aplicaciones Agent y backend Java"
 profilePicture = "images/live.jpg"
 
 [fr]
@@ -47,7 +47,7 @@ contentDir = "content/french"
 [fr.params]
 title = "Jiang Wenrui"
 author = "Jiang Wenrui"
-description = "Étudiant en master d'informatique à Beijing Jiaotong University"
+description = "Développeur d'applications Agent et backend Java"
 profilePicture = "images/live.jpg"
 
 [de]
@@ -60,7 +60,7 @@ contentDir = "content/german"
 [de.params]
 title = "Jiang Wenrui"
 author = "Jiang Wenrui"
-description = "Masterstudent der Informatik an der Beijing Jiaotong University"
+description = "Entwickler für Agent-Anwendungen und Java Backend"
 profilePicture = "images/live.jpg"
 
 [ar]
@@ -73,7 +73,7 @@ contentDir = "content/arabic"
 [ar.params]
 title = "Jiang Wenrui"
 author = "Jiang Wenrui"
-description = "طالب ماجستير في علوم الحاسوب في Beijing Jiaotong University"
+description = "مطور تطبيقات Agent و Java Backend"
 profilePicture = "images/live.jpg"
 
 [la]
@@ -86,5 +86,5 @@ contentDir = "content/latin"
 [la.params]
 title = "Jiang Wenrui"
 author = "Jiang Wenrui"
-description = "Discipulus magistralis scientiae computatoriae apud Beijing Jiaotong University"
+description = "Evolutor applicationum Agent et backend Java"
 profilePicture = "images/live.jpg"

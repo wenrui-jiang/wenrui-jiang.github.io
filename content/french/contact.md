@@ -6,27 +6,26 @@ description: Page de contact
 contact: true
 ---
 
-Vous pouvez me contacter par email ou via les plateformes sociales. Le formulaire en bas de page est aussi disponible ; laissez votre nom, votre email et votre message, et je pourrai vous répondre par email.
+Vous pouvez me contacter par e-mail ou via les réseaux sociaux. Le formulaire en bas de page est également disponible.
 
-Le formulaire est propulsé par **Formspree**. Les messages soumis sont transférés vers l'adresse email configurée dans le tableau de bord Formspree de ce site.
+<p class="resume-download">
+  <a class="resume-download-button" href="/files/resume/Jiang-Wenrui-Resume.pdf" download>Télécharger le CV à jour</a>
+</p>
+
+Le formulaire utilise **Formspree** ; les messages sont transmis à l'adresse configurée pour ce site.
 
 **Adresse**  
 No.110 West, Yifu Building, Beijing Jiaotong University  
 No.3 Shangyuancun, Haidian District, Beijing  
 Beijing 100044, China
 
-**Email**  
+**E-mail**  
 jiang.wenrui@outlook.com
 
-**Téléphone**  
+**Mobile / WeChat**  
 +86 178-5263-6053
 
-**Messagerie**
-- WhatsApp: [+49 15259695197](https://wa.me/4915259695197)
-- Telegram: [+49 15259695197](https://t.me/+4915259695197)
-
 **Réseaux sociaux**
-- Instagram: [@vegetablebird086](https://www.instagram.com/vegetablebird086/)
-- Facebook: [Wenrui Jiang](https://www.facebook.com/profile.php?id=61564534020126)
-- X: [@rui_wen79885](https://x.com/yourx)
 - LinkedIn: [Jiang Wenrui](https://www.linkedin.com/in/%E6%96%87%E7%9D%BF-%E8%92%8B)
+- GitHub: [wenrui-jiang](https://github.com/wenrui-jiang)
+- Instagram: [@vegetablebird086](https://www.instagram.com/vegetablebird086/)

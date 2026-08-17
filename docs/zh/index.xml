@@ -39,16 +39,8 @@
         <description>&lt;h3 id=&#34;北京北九方轨道交通科技有限公司&#34;&gt;北京北九方轨道交通科技有限公司&lt;/h3&gt;
 &lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2025.04 - 2025.07&lt;/strong&gt;&lt;br&gt;
 &lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;后端项目实习生&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;我的工作&#34;&gt;我的工作&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;基于 Spring Security + JWT 实现用户登录、身份验证及角色权限控制，设计用户与权限数据表并完成接口对接。&lt;/li&gt;
-&lt;li&gt;使用 Spring MVC 与 MyBatis 完成提票录入、检索和文档/图片上传接口，对接算法识别结果并完成数据持久化。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;项目介绍&#34;&gt;项目介绍&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;项目简介：铁路车辆检修数字化提票与知识库系统。&lt;/li&gt;
-&lt;li&gt;项目详情：见 &lt;a href=&#34;https://jiangwenrui.com/zh/portfolio/&#34;&gt;项目栏目&lt;/a&gt;。&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;h3 id=&#34;项目简介&#34;&gt;项目简介&lt;/h3&gt;
+&lt;p&gt;面向大型重载铁路专线车辆段的机车检修场景，对传统人工提票流程进行数字化改造，覆盖提票录入与检索、检修文档及图片上传、算法识别结果回写、业务数据汇总与统一调度检修，支撑行车修理全生命周期数字化转型。&lt;/p&gt;</description>
       
     </item>
     
@@ -68,13 +60,13 @@
     </item>
     
     <item>
-      <title>荣誉与奖项</title>
+      <title>荣誉与能力</title>
       <link>https://jiangwenrui.com/zh/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://jiangwenrui.com/zh/awards/</guid>
       
-        <description>大学期间获得的学术奖励、科研荣誉和教学经历</description>
+        <description>教育背景、科研成果、英语能力与奖项</description>
       
     </item>
     

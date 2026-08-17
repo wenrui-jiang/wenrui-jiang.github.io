@@ -4,4 +4,4 @@ author = "Jiang Wenrui"
 tags = ["experience"]
 +++
 
-Experiencia laboral, prácticas y proyectos.
+Prácticas, proyectos backend y desarrollo de aplicaciones Agent.

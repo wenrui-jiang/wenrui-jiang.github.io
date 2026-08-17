@@ -1,14 +1,18 @@
 ---
 author: Jiang Wenrui
-title: اتصال
+title: التواصل
 date: 2025-05-19
-description: صفحة الاتصال
+description: صفحة التواصل
 contact: true
 ---
 
-يمكنك التواصل معي عبر البريد الإلكتروني أو المنصات الاجتماعية. يتوفر أيضًا نموذج التواصل أسفل هذه الصفحة؛ اترك اسمك وبريدك الإلكتروني ورسالتك، ويمكنني الرد عليك عبر البريد الإلكتروني بعد استلامها.
+Vous pouvez me contacter par e-mail ou via les réseaux sociaux. Le formulaire en bas de page est également disponible.
 
-هذا النموذج يعمل عبر **Formspree**. يتم تحويل الرسائل المرسلة إلى البريد الإلكتروني المربوط في لوحة Formspree الخاصة بهذا الموقع.
+<p class="resume-download">
+  <a class="resume-download-button" href="/files/resume/Jiang-Wenrui-Resume.pdf" download>تنزيل السيرة الذاتية الأحدث</a>
+</p>
+
+Le formulaire utilise **Formspree** ; les messages sont transmis à l'adresse configurée pour ce site.
 
 **العنوان**  
 No.110 West, Yifu Building, Beijing Jiaotong University  
@@ -18,15 +22,10 @@ Beijing 100044, China
 **البريد الإلكتروني**  
 jiang.wenrui@outlook.com
 
-**الهاتف**  
+**الهاتف / WeChat**  
 +86 178-5263-6053
 
-**المراسلة**
-- WhatsApp: [+49 15259695197](https://wa.me/4915259695197)
-- Telegram: [+49 15259695197](https://t.me/+4915259695197)
-
-**وسائل التواصل الاجتماعي**
-- Instagram: [@vegetablebird086](https://www.instagram.com/vegetablebird086/)
-- Facebook: [Wenrui Jiang](https://www.facebook.com/profile.php?id=61564534020126)
-- X: [@rui_wen79885](https://x.com/yourx)
+**الشبكات الاجتماعية**
 - LinkedIn: [Jiang Wenrui](https://www.linkedin.com/in/%E6%96%87%E7%9D%BF-%E8%92%8B)
+- GitHub: [wenrui-jiang](https://github.com/wenrui-jiang)
+- Instagram: [@vegetablebird086](https://www.instagram.com/vegetablebird086/)

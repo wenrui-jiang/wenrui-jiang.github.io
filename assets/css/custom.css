@@ -26,3 +26,34 @@
   color: #0b4ab3;
   text-decoration-color: currentColor;
 }
+
+.resume-download {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.resume-download-button {
+  align-items: center;
+  background: #1d5fd0;
+  border: 1px solid #1d5fd0;
+  border-radius: 6px;
+  color: #fff !important;
+  display: inline-flex;
+  font-weight: 600;
+  line-height: 1.2;
+  padding: 0.7rem 1rem;
+  text-decoration: none;
+  transition: background-color 0.16s ease, border-color 0.16s ease, transform 0.16s ease;
+}
+
+.resume-download-button:visited {
+  color: #fff !important;
+}
+
+.resume-download-button:hover,
+.resume-download-button:focus {
+  background: #0b4ab3;
+  border-color: #0b4ab3;
+  color: #fff !important;
+  text-decoration: none;
+  transform: translateY(-1px);
+}

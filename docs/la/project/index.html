@@ -48,8 +48,8 @@
     
     <link
       rel="stylesheet"
-      href="/css/custom.min.3d579c77710b1bcb0bcaf4e64c51525ce65b854fbca4182bb95a4e60a9bf19a9.css"
-      integrity="sha256-PVecd3ELG8sLyvTmTFFSXOZbhU&#43;8pBgruVpOYKm/Gak="
+      href="/css/custom.min.6caf5fa72b4875974ddc0645d197ae693ea2ee5cf2bde90d6b57cd47bd30fc87.css"
+      integrity="sha256-bK9fpytIdZdN3AZF0ZeuaT6i7lzyvekNa1fNR70w/Ic="
       crossorigin="anonymous"
       media="screen"
     />
@@ -208,7 +208,7 @@
 
     ,
         "url" : "https:\/\/jiangwenrui.com\/la\/project\/",
-        "wordCount" : "98",
+        "wordCount" : "217",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -240,7 +240,7 @@
         </div>
       
       <div class="sidebar__introduction-description">
-        <p>Discipulus magistralis scientiae computatoriae apud Beijing Jiaotong University</p>
+        <p>Evolutor applicationum Agent et backend Java</p>
       </div>
     </div>
     <ul class="sidebar__list">
@@ -548,20 +548,24 @@
       
         <h1>Proiecta</h1>
       
-      <h2 id="integratio-agentis-intelligentis-in-platforma-reservationum-medicarum">Integratio Agentis intelligentis in platforma reservationum medicarum</h2>
+      <h2 id="integratio-agentis-triagii-in-platforma-informationis-medicae">Integratio Agentis triagii in platforma informationis medicae</h2>
 <ul>
 <li><strong>Tempus:</strong> 2026.06 - 2026.07</li>
-<li><strong>Munus:</strong> Evolutor Backend / Applicationis Agent</li>
-<li><strong>Architectura:</strong> Spring Cloud, Spring Boot, OpenFeign, Redis, MySQL, MongoDB, JWT, DeepSeek API, machina status workflow</li>
+<li><strong>Munus:</strong> Backend / Applicatio Agent</li>
+<li><strong>Technologiae:</strong> Java, Spring Boot, Spring Cloud, OpenFeign, DeepSeek API, Function Calling / Tool Calling, Agent Workflow, Session State, Human-in-the-loop, Redis, MySQL, MongoDB, JWT, Nginx, Docker</li>
 </ul>
-<h3 id="quid-egi">Quid egi</h3>
+<h3 id="descriptio-proiecti">Descriptio proiecti</h3>
+<p>Pour une plateforme urbaine d&rsquo;information médicale regroupant services, médecins et plannings, j&rsquo;ai ajouté un microservice Agent de triage à un système de rendez-vous Spring Cloud. L&rsquo;Agent s&rsquo;appuie sur les APIs existantes pour comprendre les symptômes, reconnaître l&rsquo;intention de consultation, recommander un service, consulter les créneaux, confirmer une réservation et générer un rapport préalable.</p>
+<h3 id="quid-feci">Quid feci</h3>
 <ul>
-<li>Consilium integrationis Agentis independens constitui, ut dialogus triagii et orchestratio instrumentorum a servitiis principalibus reservationis separarentur.</li>
-<li>Status workflow et slots aedificavi ad colligenda symptomata, commendationem departamenti, quaestionem horariorum, confirmationem reservationis et ducatum visitationis.</li>
-<li>DeepSeek ad extractionem intentionis/slot integravi, cum custodibus confirmationis in backend ad impedendas actiones non permissas.</li>
-<li>Instrumentorum wrappers et observabilitatem pro operationibus hospitalis, departamenti, horarii, patientis et ordinis implementavi.</li>
+<li>Conception d&rsquo;un microservice Agent indépendant découplé des services hôpital, utilisateur et commande; encapsulation d&rsquo;outils autorisés via OpenFeign et boucle Tool Calling avec DeepSeek.</li>
+<li>Conception d&rsquo;une machine d&rsquo;états pour symptômes, recommandation, créneaux, confirmation, commande et guidage; contexte par slots, règles d&rsquo;urgence, symptômes niés et confirmation Human-in-the-loop.</li>
+<li>Construction d&rsquo;un jeu d&rsquo;évaluation couvrant urgences, symptômes niés, routage d&rsquo;outils, complétude des paramètres et protection de commande.</li>
+<li>Conception d&rsquo;un stockage de session courte et mémoire longue avec Redis et recherche vectorielle.</li>
+<li>Ajout d&rsquo;idempotence aux APIs de réservation et de timeouts, retries bornés, circuit breaker et fallback pour OpenFeign.</li>
+<li>Construction d&rsquo;une base RAG pour services, règles de réservation et consignes de visite avec parsing, recherche hybride, traçabilité et mise à jour incrémentale.</li>
 </ul>
-<p><strong>Nexus accessus:</strong> <a href="https://medical.jiangwenrui.com/">https://medical.jiangwenrui.com/</a></p>
+<p><strong>Nexus proiecti:</strong> <a href="https://medical.jiangwenrui.com/">https://medical.jiangwenrui.com/</a></p>
 </div>
     <div class="post__footer">
       

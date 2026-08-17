@@ -1,31 +1,26 @@
 +++
-title = "Prix et Distinctions"
-description = "Prix académiques, distinctions de recherche et expérience d'enseignement à l'université"
+title = "Distinctions et compétences"
+description = "Formation, recherche, anglais et distinctions"
 date = "2022-04-10"
 author = "Jiang Wenrui"
 +++
 
-### Distinctions Académiques
+### Formation
 
-- **Bourse académique de master de première classe (septembre 2024)**  
-  Décernée pour d'excellents résultats académiques au niveau master
+- Beijing Jiaotong University, licence en informatique, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor, bourse académique de troisième classe.
+- Beijing Jiaotong University, master en informatique, 2024.09 - 2027.06, bourse de première classe.
 
-- **Bourse d'admission en master de première classe**  
-  Décernée pour l'excellence académique et la recommandation vers le programme de master
+### Recherche
 
-- **Bourse d'excellence académique de troisième classe**  
-  Obtenue à plusieurs reprises pour de bons résultats académiques
+- Causal Grouping Network for News-driven Stock Forecasting, premier auteur, en revue KDD.
 
-- **Membre et cadre exceptionnel de la Ligue de la jeunesse**  
-  Reconnu pour la contribution à la communauté étudiante et le leadership
+### Anglais
 
-### Concours et Recherche
+- CET-4 : 542.
+- CET-6 : 539.
 
-- **MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention (H Prize)**  
-  Reconnaissance internationale dans un concours de modélisation mathématique
+### Autoévaluation
 
-### Expérience d'Enseignement
-
-- **Assistant d'enseignement - Mathématiques discrètes et réseaux informatiques**  
-  Période : 2022 - 2024  
-  Aide aux cours, correction des devoirs et réponses aux questions des étudiants
+- Responsable, efficace et attentif à la communication et au travail d'équipe.
+- Motivé par l'apprentissage de nouvelles technologies et outils.
+- Capable d'avancer régulièrement dans des tâches complexes sous pression.

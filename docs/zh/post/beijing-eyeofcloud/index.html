@@ -20,7 +20,7 @@
   <meta name="author" content="蒋文睿" />
   <meta
     name="description"
-    content="北京交通大学计算机科学硕士研究生"
+    content="Agent 应用与 Java 后端开发方向"
   />
   
   
@@ -48,8 +48,8 @@
     
     <link
       rel="stylesheet"
-      href="/css/custom.min.3d579c77710b1bcb0bcaf4e64c51525ce65b854fbca4182bb95a4e60a9bf19a9.css"
-      integrity="sha256-PVecd3ELG8sLyvTmTFFSXOZbhU&#43;8pBgruVpOYKm/Gak="
+      href="/css/custom.min.6caf5fa72b4875974ddc0645d197ae693ea2ee5cf2bde90d6b57cd47bd30fc87.css"
+      integrity="sha256-bK9fpytIdZdN3AZF0ZeuaT6i7lzyvekNa1fNR70w/Ic="
       crossorigin="anonymous"
       media="screen"
     />
@@ -217,7 +217,7 @@ Java 开发工程师（实习）
 
     ,
         "url" : "https:\/\/jiangwenrui.com\/zh\/post\/beijing-eyeofcloud\/",
-        "wordCount" : "26",
+        "wordCount" : "27",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -249,7 +249,7 @@ Java 开发工程师（实习）
         </div>
       
       <div class="sidebar__introduction-description">
-        <p>北京交通大学计算机科学硕士研究生</p>
+        <p>Agent 应用与 Java 后端开发方向</p>
       </div>
     </div>
     <ul class="sidebar__list">
@@ -578,18 +578,14 @@ Java 开发工程师（实习）
 <i class="fa-solid fa-briefcase"></i> <strong>Java 开发工程师（实习）</strong></p>
 <h3 id="项目简介">项目简介</h3>
 <p>A/B 测试平台用于对网页或应用的多个版本进行实验分析，根据用户行为数据和算法结果确定更优版本，并动态调整流量分配比例。</p>
-<h3 id="项目架构">项目架构</h3>
+<h3 id="技术栈">技术栈</h3>
 <p>Spring Cloud、MyBatis、MySQL、RabbitMQ、XXL-JOB</p>
 <h3 id="我的工作">我的工作</h3>
 <ul>
-<li>编写 A/B 测试实验启动接口，根据用户配置的实验时间调用 XXL-JOB 定时任务，并回调实验执行接口。</li>
-<li>支持实验参数修改场景下的任务暂停、更新和重启，保证实验配置变更后任务状态正确同步。</li>
-<li>开发实验结果收集接口，将实验数据作为多臂老虎机算法输入，并根据计算结果调整新版本网页流量分配。</li>
-<li>对接网页转 PDF 与邮件发送接口，将实验反馈报告生成后发送至客户邮箱。</li>
-</ul>
-<h3 id="项目介绍">项目介绍</h3>
-<ul>
-<li>项目详情：见 <a href="/zh/portfolio/">项目栏目</a>。</li>
+<li>负责 A/B 实验生命周期与调度模块，设计草稿、待启动、运行中、暂停及已结束等实验状态，基于 XXL-JOB 按实验时间窗口完成定时启停，并通过版本号校验和接口幂等处理重复回调及配置并发修改。</li>
+<li>设计用户稳定分流方案，基于实验编号与用户标识进行哈希分桶，保证同一用户在实验周期内命中固定版本；通过保存实验配置快照隔离不同版本数据，避免中途修改配置污染历史实验结果。</li>
+<li>基于 RabbitMQ 异步接收曝光、点击和转化事件，使用唯一约束实现消费幂等，按实验和版本聚合 UV、CTR、CVR 等指标。</li>
+<li>将聚合结果接入 Epsilon-Greedy、UCB1 等多臂老虎机策略，通过最小样本量、单次最大调流幅度和异常指标回滚机制限制自动调流风险，并生成实验报告发送至客户邮箱。</li>
 </ul>
 </div>
     <div class="post__footer">

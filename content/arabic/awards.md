@@ -1,31 +1,26 @@
 +++
-title = "الجوائز والتكريمات"
-description = "جوائز أكاديمية وتكريمات بحثية وخبرة تدريسية خلال الدراسة الجامعية"
+title = "الإنجازات والقدرات"
+description = "التعليم والبحث واللغة الإنجليزية والجوائز"
 date = "2022-04-10"
 author = "Jiang Wenrui"
 +++
 
-### التكريمات الأكاديمية
+### التعليم
 
-- **منحة الماجستير الأكاديمية من الدرجة الأولى (سبتمبر 2024)**  
-  مُنحت تقديراً للأداء الأكاديمي المتميز في مرحلة الدراسات العليا
+- Beijing Jiaotong University, licence en informatique, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor, bourse académique de troisième classe.
+- Beijing Jiaotong University, master en informatique, 2024.09 - 2027.06, bourse de première classe.
 
-- **منحة قبول الدراسات العليا من الدرجة الأولى**  
-  مُنحت تقديراً للتميز الأكاديمي والترشيح لبرنامج الدراسات العليا
+### البحث
 
-- **منحة التميز الأكاديمي من الدرجة الثالثة**  
-  حصلت عليها عدة مرات نتيجة للأداء الأكاديمي العالي
+- Causal Grouping Network for News-driven Stock Forecasting, premier auteur, en revue KDD.
 
-- **عضو وكادر متميز في رابطة الشباب**  
-  تقدير للمساهمة في مجتمع الطلاب والقيادة
+### الإنجليزية
 
-### المسابقات والبحث
+- CET-4 : 542.
+- CET-6 : 539.
 
-- **MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention (H Prize)**  
-  تقدير دولي في مسابقة النمذجة الرياضية
+### تقييم ذاتي
 
-### الخبرة التدريسية
-
-- **مساعد تدريس - الرياضيات المتقطعة وشبكات الحاسوب**  
-  المدة: 2022 - 2024  
-  المساعدة في المحاضرات وتصحيح الواجبات والإجابة عن أسئلة الطلاب
+- Responsable, efficace et attentif à la communication et au travail d'équipe.
+- Motivé par l'apprentissage de nouvelles technologies et outils.
+- Capable d'avancer régulièrement dans des tâches complexes sous pression.

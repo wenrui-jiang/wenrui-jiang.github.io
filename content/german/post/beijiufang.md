@@ -1,20 +1,25 @@
 +++
-title = "Beijing Beijiufang Railway Traffic Technology Co., Ltd - Backend Project Intern"
+title = "Beijing Beijiufang Railway Traffic Technology Co., Ltd. - Stagiaire projet backend"
 date = "2025-04-01"
 draft = false
 +++
 
 ### Beijing Beijiufang Railway Traffic Technology Co., Ltd.
 
-<i class="fa-solid fa-calendar-days"></i> **Apr. 2025 - Juli 2025**  
-<i class="fa-solid fa-briefcase"></i> **Backend Project Intern**
+<i class="fa-solid fa-calendar-days"></i> **2025.04 - 2025.07**  
+<i class="fa-solid fa-briefcase"></i> **Stagiaire projet backend**
+
+### Projektüberblick
+
+Pour la maintenance de locomotives d'une ligne ferroviaire lourde, le projet a numérisé le ticketing manuel: saisie, recherche, documents, images, retour d'algorithmes, agrégation de données et planification unifiée.
+
+### Technologien
+
+Java, Spring Boot, Spring Security, JWT, RBAC, MyBatis-Plus, MySQL, RabbitMQ, MinIO
 
 ### Meine Arbeit
 
-- Implementierung von Login, Authentifizierung und rollenbasierter Autorisierung mit Spring Security + JWT; Entwurf von Benutzer-/Rechtetabellen und API-Integration.
-- Entwicklung von APIs für Ticketerfassung, Suche und Dokument-/Bildupload mit Spring MVC und MyBatis; Integration algorithmischer Erkennungsergebnisse und Persistenz der Fachdaten.
-
-### Projektvorstellung
-
-- Zusammenfassung: digitales Ticketing- und Wissensbasissystem für Wartungsabläufe von Schienenfahrzeugen.
-- Details: siehe [Projektbereich](/de/portfolio/).
+- Responsable du module principal de tickets; modèles de tickets, pièces jointes, défauts et résultats, avec machine d'états.
+- Authentification et autorisation avec Spring Security, JWT et RBAC, restriction par dépôt, département et poste.
+- Chaîne documents/images avec MinIO, MySQL et RabbitMQ; validation d'état, idempotence, retries et revue manuelle.
+- Optimisation des index MySQL et de la pagination pour recherches multi-critères et statistiques.

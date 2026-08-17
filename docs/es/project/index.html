@@ -48,8 +48,8 @@
     
     <link
       rel="stylesheet"
-      href="/css/custom.min.3d579c77710b1bcb0bcaf4e64c51525ce65b854fbca4182bb95a4e60a9bf19a9.css"
-      integrity="sha256-PVecd3ELG8sLyvTmTFFSXOZbhU&#43;8pBgruVpOYKm/Gak="
+      href="/css/custom.min.6caf5fa72b4875974ddc0645d197ae693ea2ee5cf2bde90d6b57cd47bd30fc87.css"
+      integrity="sha256-bK9fpytIdZdN3AZF0ZeuaT6i7lzyvekNa1fNR70w/Ic="
       crossorigin="anonymous"
       media="screen"
     />
@@ -208,7 +208,7 @@
 
     ,
         "url" : "https:\/\/jiangwenrui.com\/es\/project\/",
-        "wordCount" : "121",
+        "wordCount" : "257",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -240,7 +240,7 @@
         </div>
       
       <div class="sidebar__introduction-description">
-        <p>Estudiante de máster en informática en Beijing Jiaotong University</p>
+        <p>Desarrollador de aplicaciones Agent y backend Java</p>
       </div>
     </div>
     <ul class="sidebar__list">
@@ -548,20 +548,24 @@
       
         <h1>Proyecto</h1>
       
-      <h2 id="integración-de-agent-inteligente-para-plataforma-de-citas-médicas">Integración de Agent inteligente para plataforma de citas médicas</h2>
+      <h2 id="integración-de-agent-de-triaje-en-una-plataforma-de-información-médica">Integración de Agent de triaje en una plataforma de información médica</h2>
 <ul>
 <li><strong>Periodo:</strong> 2026.06 - 2026.07</li>
 <li><strong>Rol:</strong> Desarrollador Backend / Aplicaciones Agent</li>
-<li><strong>Arquitectura:</strong> Spring Cloud, Spring Boot, OpenFeign, Redis, MySQL, MongoDB, JWT, DeepSeek API, máquina de estados de workflow</li>
+<li><strong>Tecnologías:</strong> Java, Spring Boot, Spring Cloud, OpenFeign, DeepSeek API, Function Calling / Tool Calling, Agent Workflow, Session State, Human-in-the-loop, Redis, MySQL, MongoDB, JWT, Nginx, Docker</li>
 </ul>
-<h3 id="lo-que-hice">Lo que hice</h3>
+<h3 id="resumen-del-proyecto">Resumen del proyecto</h3>
+<p>Para una plataforma urbana de información médica que integra departamentos, médicos y horarios de instituciones locales, añadí un microservicio Agent de triaje sobre una arquitectura Spring Cloud de citas médicas. El Agent se conecta a APIs existentes para comprender síntomas, identificar intención de consulta, recomendar departamentos, consultar disponibilidad, confirmar reservas y generar informes previos.</p>
+<h3 id="mi-trabajo">Mi trabajo</h3>
 <ul>
-<li>Diseñé un plan de integración Agent independiente para desacoplar la orquestación de diálogo/herramientas de triaje de los servicios centrales de citas.</li>
-<li>Construí estados de workflow y slots para recopilación de síntomas, recomendación de departamento, consulta de agenda, confirmación de cita y guía de atención.</li>
-<li>Integré DeepSeek para extracción de intención/slots y añadí validaciones de confirmación en backend para evitar pedidos directos no autorizados.</li>
-<li>Implementé wrappers de herramientas y observabilidad para operaciones de hospital, departamento, agenda, paciente y orden.</li>
+<li>Diseñé un microservicio Agent independiente desacoplado de los servicios de hospital, usuario y órdenes; encapsulé herramientas permitidas con OpenFeign y usé DeepSeek Tool Calling para cerrar el ciclo modelo-herramienta-resultado.</li>
+<li>Diseñé una máquina de estados para síntomas, recomendación, consulta de horarios, confirmación, envío de orden y guía de visita; mantuve contexto con slots y añadí reglas de urgencia, reconocimiento de síntomas negados y confirmación Human-in-the-loop.</li>
+<li>Construí un conjunto de evaluación para urgencias, síntomas negados, enrutamiento de herramientas, completitud de parámetros y protección de reservas.</li>
+<li>Diseñé almacenamiento de sesión corta y memoria larga con Redis y recuperación vectorial para compartir sesiones, recuperar tras reinicios y aislar memoria por usuario.</li>
+<li>Añadí idempotencia a las APIs de reserva y timeouts, reintentos limitados, circuit breaker y degradación para llamadas OpenFeign.</li>
+<li>Construí una base RAG para departamentos, reglas de reserva e instrucciones de visita con parsing, recuperación híbrida, trazabilidad de citas y actualización incremental.</li>
 </ul>
-<p><strong>URL de acceso:</strong> <a href="https://medical.jiangwenrui.com/">https://medical.jiangwenrui.com/</a></p>
+<p><strong>URL del proyecto:</strong> <a href="https://medical.jiangwenrui.com/">https://medical.jiangwenrui.com/</a></p>
 </div>
     <div class="post__footer">
       

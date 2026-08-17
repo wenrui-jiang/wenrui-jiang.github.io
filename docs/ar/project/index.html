@@ -48,8 +48,8 @@
     
     <link
       rel="stylesheet"
-      href="/css/custom.min.3d579c77710b1bcb0bcaf4e64c51525ce65b854fbca4182bb95a4e60a9bf19a9.css"
-      integrity="sha256-PVecd3ELG8sLyvTmTFFSXOZbhU&#43;8pBgruVpOYKm/Gak="
+      href="/css/custom.min.6caf5fa72b4875974ddc0645d197ae693ea2ee5cf2bde90d6b57cd47bd30fc87.css"
+      integrity="sha256-bK9fpytIdZdN3AZF0ZeuaT6i7lzyvekNa1fNR70w/Ic="
       crossorigin="anonymous"
       media="screen"
     />
@@ -208,7 +208,7 @@
 
     ,
         "url" : "https:\/\/jiangwenrui.com\/ar\/project\/",
-        "wordCount" : "96",
+        "wordCount" : "218",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -240,7 +240,7 @@
         </div>
       
       <div class="sidebar__introduction-description">
-        <p>طالب ماجستير في علوم الحاسوب في Beijing Jiaotong University</p>
+        <p>مطور تطبيقات Agent و Java Backend</p>
       </div>
     </div>
     <ul class="sidebar__list">
@@ -548,20 +548,24 @@
       
         <h1>المشاريع</h1>
       
-      <h2 id="دمج-agent-ذكي-في-منصة-المواعيد-الطبية">دمج Agent ذكي في منصة المواعيد الطبية</h2>
+      <h2 id="دمج-agent-للفرز-الطبي-في-منصة-معلومات-طبية">دمج Agent للفرز الطبي في منصة معلومات طبية</h2>
 <ul>
 <li><strong>الفترة:</strong> 2026.06 - 2026.07</li>
 <li><strong>الدور:</strong> تطوير Backend / تطبيقات Agent</li>
-<li><strong>البنية:</strong> Spring Cloud, Spring Boot, OpenFeign, Redis, MySQL, MongoDB, JWT, DeepSeek API, آلة حالات workflow</li>
+<li><strong>التقنيات:</strong> Java, Spring Boot, Spring Cloud, OpenFeign, DeepSeek API, Function Calling / Tool Calling, Agent Workflow, Session State, Human-in-the-loop, Redis, MySQL, MongoDB, JWT, Nginx, Docker</li>
 </ul>
-<h3 id="ما-الذي-قمت-به">ما الذي قمت به</h3>
+<h3 id="نظرة-عامة">نظرة عامة</h3>
+<p>Pour une plateforme urbaine d&rsquo;information médicale regroupant services, médecins et plannings, j&rsquo;ai ajouté un microservice Agent de triage à un système de rendez-vous Spring Cloud. L&rsquo;Agent s&rsquo;appuie sur les APIs existantes pour comprendre les symptômes, reconnaître l&rsquo;intention de consultation, recommander un service, consulter les créneaux, confirmer une réservation et générer un rapport préalable.</p>
+<h3 id="عملي">عملي</h3>
 <ul>
-<li>صممت خطة تكامل Agent مستقلة لفصل حوار الفرز الطبي وتنسيق الأدوات عن خدمات الحجز الأساسية.</li>
-<li>بنيت حالات workflow وslots لجمع الأعراض، وتوصية القسم، والاستعلام عن المواعيد، وتأكيد الحجز، وإرشاد المراجعة.</li>
-<li>دمجت DeepSeek لاستخراج النية والslots مع ضوابط تأكيد في backend لمنع التنفيذ المباشر غير المصرح به.</li>
-<li>نفذت أغلفة أدوات ومراقبة تشغيلية لعمليات المستشفى والقسم والجدول والمريض والطلب.</li>
+<li>Conception d&rsquo;un microservice Agent indépendant découplé des services hôpital, utilisateur et commande; encapsulation d&rsquo;outils autorisés via OpenFeign et boucle Tool Calling avec DeepSeek.</li>
+<li>Conception d&rsquo;une machine d&rsquo;états pour symptômes, recommandation, créneaux, confirmation, commande et guidage; contexte par slots, règles d&rsquo;urgence, symptômes niés et confirmation Human-in-the-loop.</li>
+<li>Construction d&rsquo;un jeu d&rsquo;évaluation couvrant urgences, symptômes niés, routage d&rsquo;outils, complétude des paramètres et protection de commande.</li>
+<li>Conception d&rsquo;un stockage de session courte et mémoire longue avec Redis et recherche vectorielle.</li>
+<li>Ajout d&rsquo;idempotence aux APIs de réservation et de timeouts, retries bornés, circuit breaker et fallback pour OpenFeign.</li>
+<li>Construction d&rsquo;une base RAG pour services, règles de réservation et consignes de visite avec parsing, recherche hybride, traçabilité et mise à jour incrémentale.</li>
 </ul>
-<p><strong>رابط الوصول:</strong> <a href="https://medical.jiangwenrui.com/">https://medical.jiangwenrui.com/</a></p>
+<p><strong>رابط المشروع:</strong> <a href="https://medical.jiangwenrui.com/">https://medical.jiangwenrui.com/</a></p>
 </div>
     <div class="post__footer">
       

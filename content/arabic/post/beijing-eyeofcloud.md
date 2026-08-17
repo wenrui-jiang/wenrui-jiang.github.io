@@ -1,29 +1,25 @@
 +++
-title = "Beijing Heyicloud Technology Co., Ltd - متدرب Java"
+title = "Beijing Heyicloud Technology Co., Ltd. - Stagiaire développeur Java"
 date = "2022-12-01"
 draft = false
 +++
 
 ### Beijing Heyicloud Technology Co., Ltd.
 
-<i class="fa-solid fa-calendar-days"></i> **Dec 2022 - Mar 2023**  
-<i class="fa-solid fa-briefcase"></i> **Java Developer Intern**
+<i class="fa-solid fa-calendar-days"></i> **2022.12 - 2023.03**  
+<i class="fa-solid fa-briefcase"></i> **Stagiaire développeur Java**
 
-### نظرة عامة على المشروع
+### نظرة عامة
 
-تقوم منصة اختبارات A/B بتحليل التجارب لعدة نسخ من صفحات الويب/التطبيق، وتحدد النسخ الأفضل اعتمادًا على سلوك المستخدم ونتائج الخوارزميات، ثم تعدل توزيع الزيارات بشكل ديناميكي.
+La plateforme A/B analyse plusieurs versions de pages ou applications et ajuste dynamiquement le trafic selon les données utilisateur et les algorithmes.
 
-### البنية
+### التقنيات
 
 Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
 
 ### عملي
 
-- نفذت واجهات API لبدء التجارب وشغلت مهام XXL-JOB المجدولة وفق توقيتات يحددها المستخدم، ثم استدعاء واجهات تنفيذ التجربة.
-- دعمت إيقاف/تحديث/إعادة تشغيل مهام التجربة بعد تعديل المعلمات، مع ضمان تزامن حالة المهام مع الإعدادات.
-- طورت واجهات جمع النتائج، وزودت مدخلات خوارزمية multi-armed bandit، وعدلت توزيع الزيارات للإصدارات الجديدة وفق مخرجات الخوارزمية.
-- دمجت واجهات تحويل صفحات الويب إلى PDF وإرسال البريد لتوليد تقارير التجارب وإرسالها إلى العملاء.
-
-### مقدمة المشروع
-
-- التفاصيل: راجع [قسم المشاريع](/ar/portfolio/).
+- Cycle de vie et planification des expériences avec états brouillon, attente, exécution, pause et terminé; planification par XXL-JOB et APIs idempotentes.
+- Répartition stable des utilisateurs par hash expérience-utilisateur et snapshots de configuration.
+- Consommation asynchrone d'événements exposition/clic/conversion via RabbitMQ; agrégation UV, CTR et CVR.
+- Connexion aux stratégies Epsilon-Greedy et UCB1 avec garde-fous: échantillon minimal, amplitude maximale et rollback.

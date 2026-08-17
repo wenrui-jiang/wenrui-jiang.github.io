@@ -48,8 +48,8 @@
     
     <link
       rel="stylesheet"
-      href="/css/custom.min.3d579c77710b1bcb0bcaf4e64c51525ce65b854fbca4182bb95a4e60a9bf19a9.css"
-      integrity="sha256-PVecd3ELG8sLyvTmTFFSXOZbhU&#43;8pBgruVpOYKm/Gak="
+      href="/css/custom.min.6caf5fa72b4875974ddc0645d197ae693ea2ee5cf2bde90d6b57cd47bd30fc87.css"
+      integrity="sha256-bK9fpytIdZdN3AZF0ZeuaT6i7lzyvekNa1fNR70w/Ic="
       crossorigin="anonymous"
       media="screen"
     />
@@ -208,7 +208,7 @@
 
     ,
         "url" : "https:\/\/jiangwenrui.com\/de\/project\/",
-        "wordCount" : "85",
+        "wordCount" : "214",
         "genre" : [ ],
         "keywords" : [ ]
     }
@@ -240,7 +240,7 @@
         </div>
       
       <div class="sidebar__introduction-description">
-        <p>Masterstudent der Informatik an der Beijing Jiaotong University</p>
+        <p>Entwickler für Agent-Anwendungen und Java Backend</p>
       </div>
     </div>
     <ul class="sidebar__list">
@@ -548,20 +548,24 @@
       
         <h1>Projekt</h1>
       
-      <h2 id="integration-eines-intelligenten-agenten-in-eine-medizinische-terminplattform">Integration eines intelligenten Agenten in eine medizinische Terminplattform</h2>
+      <h2 id="integration-eines-triage-agenten-in-eine-medizinische-informationsplattform">Integration eines Triage-Agenten in eine medizinische Informationsplattform</h2>
 <ul>
 <li><strong>Zeitraum:</strong> 2026.06 - 2026.07</li>
 <li><strong>Rolle:</strong> Backend / Agent-Anwendungsentwicklung</li>
-<li><strong>Architektur:</strong> Spring Cloud, Spring Boot, OpenFeign, Redis, MySQL, MongoDB, JWT, DeepSeek API, Workflow-Zustandsmaschine</li>
+<li><strong>Technologien:</strong> Java, Spring Boot, Spring Cloud, OpenFeign, DeepSeek API, Function Calling / Tool Calling, Agent Workflow, Session State, Human-in-the-loop, Redis, MySQL, MongoDB, JWT, Nginx, Docker</li>
 </ul>
-<h3 id="was-ich-gemacht-habe">Was ich gemacht habe</h3>
+<h3 id="projektüberblick">Projektüberblick</h3>
+<p>Pour une plateforme urbaine d&rsquo;information médicale regroupant services, médecins et plannings, j&rsquo;ai ajouté un microservice Agent de triage à un système de rendez-vous Spring Cloud. L&rsquo;Agent s&rsquo;appuie sur les APIs existantes pour comprendre les symptômes, reconnaître l&rsquo;intention de consultation, recommander un service, consulter les créneaux, confirmer une réservation et générer un rapport préalable.</p>
+<h3 id="meine-arbeit">Meine Arbeit</h3>
 <ul>
-<li>Entwurf eines eigenständigen Agent-Integrationsplans, um Triage-Dialog und Tool-Orchestrierung von den zentralen Buchungsdiensten zu entkoppeln.</li>
-<li>Aufbau von Workflow-Zuständen und Slots für Symptomerfassung, Abteilungsempfehlung, Terminabfrage, Buchungsbestätigung und Besuchsführung.</li>
-<li>Integration von DeepSeek für Intent-/Slot-Extraktion mit Backend-Bestätigungsschutz, um unautorisierte Direktbestellungen zu verhindern.</li>
-<li>Implementierung von Tool-Wrappern und Observability für Krankenhaus-, Abteilungs-, Termin-, Patienten- und Bestelloperationen.</li>
+<li>Conception d&rsquo;un microservice Agent indépendant découplé des services hôpital, utilisateur et commande; encapsulation d&rsquo;outils autorisés via OpenFeign et boucle Tool Calling avec DeepSeek.</li>
+<li>Conception d&rsquo;une machine d&rsquo;états pour symptômes, recommandation, créneaux, confirmation, commande et guidage; contexte par slots, règles d&rsquo;urgence, symptômes niés et confirmation Human-in-the-loop.</li>
+<li>Construction d&rsquo;un jeu d&rsquo;évaluation couvrant urgences, symptômes niés, routage d&rsquo;outils, complétude des paramètres et protection de commande.</li>
+<li>Conception d&rsquo;un stockage de session courte et mémoire longue avec Redis et recherche vectorielle.</li>
+<li>Ajout d&rsquo;idempotence aux APIs de réservation et de timeouts, retries bornés, circuit breaker et fallback pour OpenFeign.</li>
+<li>Construction d&rsquo;une base RAG pour services, règles de réservation et consignes de visite avec parsing, recherche hybride, traçabilité et mise à jour incrémentale.</li>
 </ul>
-<p><strong>Zugriffslink:</strong> <a href="https://medical.jiangwenrui.com/">https://medical.jiangwenrui.com/</a></p>
+<p><strong>Projekt-URL:</strong> <a href="https://medical.jiangwenrui.com/">https://medical.jiangwenrui.com/</a></p>
 </div>
     <div class="post__footer">
       

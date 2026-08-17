@@ -1,31 +1,26 @@
 +++
-title = "Praemia et Honores"
-description = "Praemia academica, honores investigationis et experientia docendi in universitate"
+title = "Honores et facultates"
+description = "Educatio, investigatio, lingua Anglica et honores"
 date = "2022-04-10"
 author = "Jiang Wenrui"
 +++
 
-### Honores Academici
+### Educatio
 
-- **Bursa academica magistralis primae classis (Septembris 2024)**  
-  Data ob excellentem operam academicam in studiis magistralibus
+- Beijing Jiaotong University, licence en informatique, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor, bourse académique de troisième classe.
+- Beijing Jiaotong University, master en informatique, 2024.09 - 2027.06, bourse de première classe.
 
-- **Bursa admissionis graduatae primae classis**  
-  Data ob excellentiam academicam et commendationem ad studia graduata
+### Investigatio
 
-- **Bursa excellentiae academicae tertiae classis**  
-  Saepius accepta ob altam disciplinarum performance
+- Causal Grouping Network for News-driven Stock Forecasting, premier auteur, en revue KDD.
 
-- **Sodalis et dux iuvenum excellens**  
-  Agnitio ob operam in communitate studentium et ductu
+### Lingua Anglica
 
-### Certamina et Investigatio
+- CET-4 : 542.
+- CET-6 : 539.
 
-- **MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention (H Prize)**  
-  Agnitio internationalis in certamine mathematicae modulationis
+### Aestimatio propria
 
-### Experientia Docendi
-
-- **Adiutor docendi - Mathematica discreta et retia computatoria**  
-  Tempus: 2022 - 2024  
-  Lectiones, correctionem exercitationum et responsa studentibus adiuvit
+- Responsable, efficace et attentif à la communication et au travail d'équipe.
+- Motivé par l'apprentissage de nouvelles technologies et outils.
+- Capable d'avancer régulièrement dans des tâches complexes sous pression.

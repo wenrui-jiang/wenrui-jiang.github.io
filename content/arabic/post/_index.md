@@ -4,4 +4,4 @@ author = "Jiang Wenrui"
 tags = ["experience"]
 +++
 
-خبرات العمل والتدريب والمشاريع.
+خبرات تدريبية ومشاريع Backend وتطوير تطبيقات Agent.

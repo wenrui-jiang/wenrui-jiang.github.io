@@ -9,7 +9,7 @@ languageCode = "en"
 [params]
 title = "Jiang Wenrui"
 author = "Jiang Wenrui"
-description = "Computer science master's student at Beijing Jiaotong University"
+description = "Agent application and Java backend developer"
 profilePicture = "images/live.jpg"
 
 [markup]

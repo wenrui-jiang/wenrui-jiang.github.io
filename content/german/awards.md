@@ -1,31 +1,26 @@
 +++
-title = "Auszeichnungen und Ehrungen"
-description = "Akademische Auszeichnungen, Forschungsehrungen und Lehrerfahrung während des Studiums"
+title = "Auszeichnungen und Fähigkeiten"
+description = "Ausbildung, Forschung, Englisch und Auszeichnungen"
 date = "2022-04-10"
 author = "Jiang Wenrui"
 +++
 
-### Akademische Ehrungen
+### Ausbildung
 
-- **Master-Stipendium erster Klasse (September 2024)**  
-  Verliehen für herausragende akademische Leistungen im Masterstudium
+- Beijing Jiaotong University, licence en informatique, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor, bourse académique de troisième classe.
+- Beijing Jiaotong University, master en informatique, 2024.09 - 2027.06, bourse de première classe.
 
-- **Aufnahmestipendium erster Klasse für das Graduiertenstudium**  
-  Verliehen für akademische Exzellenz und Empfehlung zum Graduiertenprogramm
+### Forschung
 
-- **Akademisches Exzellenzstipendium dritter Klasse**  
-  Mehrfach für hohe Studienleistungen erhalten
+- Causal Grouping Network for News-driven Stock Forecasting, premier auteur, en revue KDD.
 
-- **Ausgezeichnetes Mitglied und Kader der Jugendliga**  
-  Anerkennung für Beiträge zur Studierendengemeinschaft und Führungsarbeit
+### Englischkenntnisse
 
-### Wettbewerbe und Forschung
+- CET-4 : 542.
+- CET-6 : 539.
 
-- **MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention (H Prize)**  
-  Internationale Anerkennung in einem mathematischen Modellierungswettbewerb
+### Selbsteinschätzung
 
-### Lehrerfahrung
-
-- **Lehrassistent - Diskrete Mathematik und Computernetzwerke**  
-  Zeitraum: 2022 - 2024  
-  Unterstützung bei Lehrveranstaltungen, Korrektur von Aufgaben und Fragen der Studierenden
+- Responsable, efficace et attentif à la communication et au travail d'équipe.
+- Motivé par l'apprentissage de nouvelles technologies et outils.
+- Capable d'avancer régulièrement dans des tâches complexes sous pression.

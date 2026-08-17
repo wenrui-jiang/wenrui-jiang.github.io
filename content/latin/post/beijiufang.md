@@ -1,20 +1,25 @@
 +++
-title = "Beijing Beijiufang Railway Traffic Technology Co., Ltd - Tiro Backend"
+title = "Beijing Beijiufang Railway Traffic Technology Co., Ltd. - Stagiaire projet backend"
 date = "2025-04-01"
 draft = false
 +++
 
 ### Beijing Beijiufang Railway Traffic Technology Co., Ltd.
 
-<i class="fa-solid fa-calendar-days"></i> **Apr 2025 - Jul 2025**  
-<i class="fa-solid fa-briefcase"></i> **Tiro Backend**
+<i class="fa-solid fa-calendar-days"></i> **2025.04 - 2025.07**  
+<i class="fa-solid fa-briefcase"></i> **Stagiaire projet backend**
 
-### Opus meum
+### Descriptio proiecti
 
-- Login, authenticatio et auctoritas secundum munera per Spring Security + JWT implementata sunt; tabulae usorum et permissionum designatae sunt, et integratio API perfecta est.
-- API pro inscriptione/quaesitione tesserarum et oneratione documentorum/imaginum per Spring MVC et MyBatis aedificatae sunt; effectus algorithmici integrati et data negotialia servata sunt.
+Pour la maintenance de locomotives d'une ligne ferroviaire lourde, le projet a numérisé le ticketing manuel: saisie, recherche, documents, images, retour d'algorithmes, agrégation de données et planification unifiée.
 
-### Introductio projecti
+### Technologiae
 
-- Summarium: systema digitale tesserarum et basis cognitionis pro processibus sustentationis vehiculorum ferriviariorum.
-- Singula: vide [sectionem projectorum](/la/portfolio/).
+Java, Spring Boot, Spring Security, JWT, RBAC, MyBatis-Plus, MySQL, RabbitMQ, MinIO
+
+### Quid feci
+
+- Responsable du module principal de tickets; modèles de tickets, pièces jointes, défauts et résultats, avec machine d'états.
+- Authentification et autorisation avec Spring Security, JWT et RBAC, restriction par dépôt, département et poste.
+- Chaîne documents/images avec MinIO, MySQL et RabbitMQ; validation d'état, idempotence, retries et revue manuelle.
+- Optimisation des index MySQL et de la pagination pour recherches multi-critères et statistiques.

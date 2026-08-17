@@ -1,31 +1,26 @@
 +++
-title = "Premios y Honores"
-description = "Premios académicos, reconocimientos de investigación y experiencia docente durante la universidad"
+title = "Honores y capacidades"
+description = "Educación, investigación, inglés y premios"
 date = "2022-04-10"
 author = "Jiang Wenrui"
 +++
 
-### Honores Académicos
+### Educación
 
-- **Beca académica de primera clase de máster (septiembre de 2024)**  
-  Otorgada por un rendimiento académico destacado en el posgrado
+- Beijing Jiaotong University, grado en Informática, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor y beca académica de tercera clase.
+- Beijing Jiaotong University, máster en Informática, 2024.09 - 2027.06, beca de posgrado de primera clase.
 
-- **Beca de admisión de posgrado de primera clase**  
-  Otorgada por excelencia académica y recomendación para estudios de posgrado
+### Investigación
 
-- **Beca de excelencia académica de tercera clase**  
-  Recibida varias veces por alto rendimiento académico
+- Causal Grouping Network for News-driven Stock Forecasting, primer autor, en revisión para KDD.
 
-- **Miembro y cuadro destacado de la Liga Juvenil**  
-  Reconocimiento por contribuciones a la comunidad estudiantil y liderazgo
+### Nivel de inglés
 
-### Competencias e Investigación
+- CET-4: 542.
+- CET-6: 539.
 
-- **MCM/ICM Mathematical Contest in Modeling (2022) - Honorable Mention (H Prize)**  
-  Reconocimiento internacional en una competencia de modelado matemático
+### Autoevaluación
 
-### Experiencia Docente
-
-- **Asistente docente - Matemática Discreta y Redes de Computadoras**  
-  Periodo: 2022 - 2024  
-  Apoyo en clases, corrección de tareas y resolución de dudas de estudiantes de pregrado
+- Responsable, orientado a la ejecución y atento a la comunicación y el trabajo en equipo.
+- Motivado para aprender nuevas tecnologías y herramientas.
+- Capaz de avanzar de forma estable en tareas complejas y bajo presión.

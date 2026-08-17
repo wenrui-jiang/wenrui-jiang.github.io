@@ -1,29 +1,25 @@
 +++
-title = "Beijing Heyicloud Technology Co., Ltd - Prácticas como desarrollador Java"
+title = "Beijing Heyicloud Technology Co., Ltd. - Becario desarrollador Java"
 date = "2022-12-01"
 draft = false
 +++
 
 ### Beijing Heyicloud Technology Co., Ltd.
 
-<i class="fa-solid fa-calendar-days"></i> **Dic 2022 - Mar 2023**  
-<i class="fa-solid fa-briefcase"></i> **Prácticas como desarrollador Java**
+<i class="fa-solid fa-calendar-days"></i> **2022.12 - 2023.03**  
+<i class="fa-solid fa-briefcase"></i> **Becario desarrollador Java**
 
 ### Resumen del proyecto
 
-La plataforma de pruebas A/B ejecuta análisis de experimentos para múltiples variantes web/app, determina versiones mejores con base en comportamiento de usuario y resultados algorítmicos, y ajusta dinámicamente la asignación de tráfico.
+La plataforma A/B analiza versiones de páginas o aplicaciones, determina la mejor versión con datos de usuario y algoritmos, y ajusta dinámicamente la distribución de tráfico.
 
-### Arquitectura
+### Tecnologías
 
 Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
 
 ### Mi trabajo
 
-- Implementé APIs de inicio de experimento y activé tareas programadas de XXL-JOB según el tiempo definido por el usuario, con callback de ejecución.
-- Soporté pausa/actualización/reinicio de tareas tras cambios de parámetros, asegurando sincronización entre estado de tarea y configuración.
-- Desarrollé APIs de recopilación de resultados, alimenté entradas para bandido de múltiples brazos y ajusté la asignación de tráfico para nuevas versiones según la salida del algoritmo.
-- Integré APIs de web-a-PDF y correo para generar y enviar reportes de experimento a clientes.
-
-### Introducción del proyecto
-
-- Detalles: ver la [sección de proyectos](/es/portfolio/).
+- Responsable del ciclo de vida y planificación de experimentos, con estados de borrador, pendiente, ejecución, pausa y finalización; usé XXL-JOB e idempotencia para callbacks y cambios concurrentes.
+- Diseñé división estable de usuarios con hash por experimento y usuario, y snapshots de configuración para aislar resultados históricos.
+- Consumí eventos de exposición, clic y conversión con RabbitMQ, usando restricciones únicas para consumo idempotente y agregando UV, CTR y CVR.
+- Conecté resultados a estrategias Epsilon-Greedy y UCB1, limitando riesgos con muestra mínima, ajuste máximo por paso y rollback de anomalías.
