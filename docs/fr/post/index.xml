@@ -2,34 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expérience on Site web de Jiang Wenrui</title>
-    <link>https://jiangwenrui.com/fr/post/</link>
+    <link>/fr/post/</link>
     <description>Recent content in Expérience on Site web de Jiang Wenrui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/fr/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="/fr/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yonyou Network Technology Co., Ltd. - Ingénieur développement backend</title>
+      <link>/fr/post/yonyou-yprinter/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/yonyou-yprinter/</guid>
+      
+        <description>Yonyou Network Technology Co., Ltd. - Département développement installateur 2026.07 - Aujourd&amp;rsquo;hui
+Ingénieur développement backend
+Nom du projet Installateur dédié YonBIP/iuap (YPRInstaller)
+Présentation du projet Plateforme backend d&amp;rsquo;orchestration d&amp;rsquo;installation pour les scénarios de déploiement privé et de cloud dédié YonBIP. Construite en Go, elle abstrait les packages produit, middlewares, microservices, Nginx, l&amp;rsquo;initialisation de bases de données et la publication vers le centre de configuration en processus automatisés configurables, orchestrables et traçables, adaptés au bare metal, au cloud conteneurisé et aux environnements multi-pools de ressources.</description>
+      
+    </item>
+    
     <item>
       <title>Beijing Beijiufang Railway Traffic Technology Co., Ltd. - Stagiaire projet backend</title>
-      <link>https://jiangwenrui.com/fr/post/beijiufang/</link>
+      <link>/fr/post/beijiufang/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/fr/post/beijiufang/</guid>
+      <guid>/fr/post/beijiufang/</guid>
       
-        <description>&lt;h3 id=&#34;beijing-beijiufang-railway-traffic-technology-co-ltd&#34;&gt;Beijing Beijiufang Railway Traffic Technology Co., Ltd.&lt;/h3&gt;
-&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2025.04 - 2025.07&lt;/strong&gt;&lt;br&gt;
-&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Stagiaire projet backend&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>Beijing Beijiufang Railway Traffic Technology Co., Ltd. 2025.04 - 2025.07
+Stagiaire projet backend
+Présentation du projet Pour la maintenance de locomotives d&amp;rsquo;une ligne ferroviaire lourde, le projet a numérisé le ticketing manuel: saisie, recherche, documents, images, retour d&amp;rsquo;algorithmes, agrégation de données et planification unifiée.
+Stack technique Java, Spring Boot, Spring Security, JWT, RBAC, MyBatis-Plus, MySQL, RabbitMQ, MinIO
+Mon travail  Responsable du module principal de tickets; modèles de tickets, pièces jointes, défauts et résultats, avec machine d&amp;rsquo;états.</description>
+      
+    </item>
+    
+    <item>
+      <title>Beijing Jiaotong University - Étudiant en master</title>
+      <link>/fr/post/bjtu-master/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/bjtu-master/</guid>
+      
+        <description>Beijing Jiaotong University 2024.09 - 2027.06 (prévu)
+Master en informatique
+Présentation Pendant le master, je poursuis mon travail en informatique, avec un intérêt pour les applications Agent, le RAG, le tool calling, les microservices backend et l&amp;rsquo;intégration des LLM dans des processus métier réels.</description>
       
     </item>
     
     <item>
       <title>Beijing Heyicloud Technology Co., Ltd. - Stagiaire développeur Java</title>
-      <link>https://jiangwenrui.com/fr/post/beijing-eyeofcloud/</link>
+      <link>/fr/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/fr/post/beijing-eyeofcloud/</guid>
+      <guid>/fr/post/beijing-eyeofcloud/</guid>
       
-        <description>&lt;h3 id=&#34;beijing-heyicloud-technology-co-ltd&#34;&gt;Beijing Heyicloud Technology Co., Ltd.&lt;/h3&gt;
-&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2022.12 - 2023.03&lt;/strong&gt;&lt;br&gt;
-&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Stagiaire développeur Java&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>Beijing Heyicloud Technology Co., Ltd. 2022.12 - 2023.03
+Stagiaire développeur Java
+Présentation du projet La plateforme A/B analyse plusieurs versions de pages ou applications et ajuste dynamiquement le trafic selon les données utilisateur et les algorithmes.
+Stack technique Spring Cloud, MyBatis, MySQL, RabbitMQ, XXL-JOB
+Mon travail  Cycle de vie et planification des expériences avec états brouillon, attente, exécution, pause et terminé; planification par XXL-JOB et APIs idempotentes. Répartition stable des utilisateurs par hash expérience-utilisateur et snapshots de configuration.</description>
+      
+    </item>
+    
+    <item>
+      <title>Beijing Jiaotong University (Weihai) - Licence</title>
+      <link>/fr/post/bjtu-weihai-bachelor/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/bjtu-weihai-bachelor/</guid>
+      
+        <description>Beijing Jiaotong University (Weihai) 2020.09 - 2024.06
+Licence en informatique
+Présentation Pendant la licence, j&amp;rsquo;ai construit une base en informatique à travers les cours et projets en génie logiciel, bases de données, développement backend, algorithmes et pratique d&amp;rsquo;ingénierie.</description>
+      
+    </item>
+    
+    <item>
+      <title>Nanning No.2 High School - Lycée</title>
+      <link>/fr/post/nanning-no2-high-school/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/nanning-no2-high-school/</guid>
+      
+        <description>Nanning No.2 High School 2017.09 - 2020.06
+Lycée
+Présentation Études secondaires et préparation à l&amp;rsquo;entrée à l&amp;rsquo;université à Nanning No.2 High School.</description>
+      
+    </item>
+    
+    <item>
+      <title>Nanning Xinmin Middle School - Collège</title>
+      <link>/fr/post/nanning-xinmin-middle-school/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/nanning-xinmin-middle-school/</guid>
+      
+        <description>Nanning Xinmin Middle School 2014.09 - 2017.06
+Collège
+Présentation Études à Nanning Xinmin Middle School.</description>
+      
+    </item>
+    
+    <item>
+      <title>Nanning Xinghu Primary School - École primaire</title>
+      <link>/fr/post/nanning-xinghu-primary-school/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/nanning-xinghu-primary-school/</guid>
+      
+        <description>Nanning Xinghu Primary School 2012.09 - 2014.06
+École primaire
+Présentation Études à Nanning Xinghu Primary School pendant l&amp;rsquo;école primaire.</description>
+      
+    </item>
+    
+    <item>
+      <title>Yulin Dongcheng Primary School - École primaire</title>
+      <link>/fr/post/yulin-dongcheng-primary-school/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/post/yulin-dongcheng-primary-school/</guid>
+      
+        <description>Yulin Dongcheng Primary School 2008.09 - 2012.06
+École primaire
+Présentation Études à Yulin Dongcheng Primary School pendant l&amp;rsquo;école primaire.</description>
       
     </item>
     

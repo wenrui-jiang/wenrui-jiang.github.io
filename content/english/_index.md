@@ -2,6 +2,8 @@
 author = "Jiang Wenrui"
 +++
 
+<!-- Home content hidden
+
 I am a computer science master's student at Beijing Jiaotong University, seeking Agent application development and Java backend development roles. My work focuses on healthcare information systems, agent workflows, tool calling, RAG, and distributed backend engineering, with an emphasis on integrating LLM capabilities into reliable business workflows.
 
 <p class="resume-download">
@@ -23,3 +25,5 @@ I am a computer science master's student at Beijing Jiaotong University, seeking
 - Continuing research on news-driven stock forecasting; first-author manuscript Causal Grouping Network for News-driven Stock Forecasting is under KDD review.
 
 See [Experience](/post/) for internships, [Project](/project/) for Agent and backend work, [Articles](/portfolio/) for research, or [Contact](/contact/) to reach me.
+
+-->

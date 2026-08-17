@@ -4,4 +4,4 @@ author = "Jiang Wenrui"
 tags = ["experience"]
 +++
 
-Praktika, Backend-Projekte und Agent-Anwendungsentwicklung.
+Zeitachse von Ausbildung, Praktika, Backend-Projekten und Agent-Anwendungsentwicklung.

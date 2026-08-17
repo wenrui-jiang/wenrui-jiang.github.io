@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experience on Site web de Jiang Wenrui</title>
-    <link>https://jiangwenrui.com/fr/tags/experience/</link>
-    <description>Recent content in Experience on Site web de Jiang Wenrui</description>
+    <title>experience on Site web de Jiang Wenrui</title>
+    <link>/fr/tags/experience/</link>
+    <description>Recent content in experience on Site web de Jiang Wenrui</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/fr/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="/fr/tags/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expérience</title>
-      <link>https://jiangwenrui.com/fr/post/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <link>/fr/post/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/fr/post/</guid>
+      <guid>/fr/post/</guid>
       
-        <description>&lt;p&gt;Stages, projets backend et développement d&amp;rsquo;applications Agent.&lt;/p&gt;</description>
+        <description>Chronologie des études, stages, projets backend et développement d&amp;rsquo;applications Agent.</description>
       
     </item>
     

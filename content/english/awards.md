@@ -1,14 +1,9 @@
 +++
 title = "Honors and Capabilities"
-description = "Education, research, English proficiency, and awards"
+description = "Research, English proficiency, and awards"
 date = "2022-04-10"
 author = "Jiang Wenrui"
 +++
-
-### Education
-
-- Beijing Jiaotong University, B.Eng. in Computer Science and Technology, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor, academic third-class scholarship.
-- Beijing Jiaotong University, M.Sc. student in Computer Science and Technology, 2024.09 - 2027.06, first-class postgraduate scholarship.
 
 ### Research
 
@@ -18,6 +13,10 @@ author = "Jiang Wenrui"
 
 - CET-4: 542.
 - CET-6: 539.
+
+### Awards
+
+- Honorable Mention, Mathematical Contest in Modeling, 2023.
 
 ### Self-Assessment
 

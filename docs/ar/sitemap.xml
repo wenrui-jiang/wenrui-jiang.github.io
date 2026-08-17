@@ -2,457 +2,684 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jiangwenrui.com/ar/</loc>
+    <loc>/ar/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/"
+                />
+  </url><url>
+    <loc>/ar/post/yonyou-yprinter/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/yonyou-yprinter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/yonyou-yprinter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/yonyou-yprinter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/yonyou-yprinter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/post/yonyou-yprinter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/post/yonyou-yprinter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/post/yonyou-yprinter/"
+                />
+  </url><url>
+    <loc>/ar/post/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/post/"
+                />
+  </url><url>
+    <loc>/ar/contact/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/"
+                href="/zh/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/"
+                href="/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/"
+                href="/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/"
+                href="/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/"
+                href="/la/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/"
+                href="/ar/contact/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/contact/</loc>
+    <loc>/ar/project/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/contact/"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/contact/"
+                href="/zh/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/contact/"
+                href="/es/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/contact/"
+                href="/fr/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/contact/"
+                href="/de/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/contact/"
+                href="/la/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/contact/"
+                href="/ar/project/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/project/</loc>
-    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jiangwenrui.com/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jiangwenrui.com/zh/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jiangwenrui.com/es/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jiangwenrui.com/fr/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://jiangwenrui.com/de/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="la"
-                href="https://jiangwenrui.com/la/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://jiangwenrui.com/ar/project/"
-                />
-  </url><url>
-    <loc>https://jiangwenrui.com/ar/post/beijiufang/</loc>
+    <loc>/ar/post/beijiufang/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/post/beijiufang/"
+                href="/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/post/beijiufang/"
+                href="/zh/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/post/beijiufang/"
+                href="/es/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/post/beijiufang/"
+                href="/fr/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/post/beijiufang/"
+                href="/de/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/post/beijiufang/"
+                href="/la/post/beijiufang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/post/beijiufang/"
+                href="/ar/post/beijiufang/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/tags/experience/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <loc>/ar/post/bjtu-master/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/tags/experience/"
+                href="/post/bjtu-master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/tags/experience/"
+                href="/zh/post/bjtu-master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/tags/experience/"
+                href="/es/post/bjtu-master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/tags/experience/"
+                href="/fr/post/bjtu-master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/tags/experience/"
+                href="/de/post/bjtu-master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/tags/experience/"
+                href="/la/post/bjtu-master/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/tags/experience/"
+                href="/ar/post/bjtu-master/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/tags/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jiangwenrui.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jiangwenrui.com/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jiangwenrui.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jiangwenrui.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://jiangwenrui.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="la"
-                href="https://jiangwenrui.com/la/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://jiangwenrui.com/ar/tags/"
-                />
-  </url><url>
-    <loc>https://jiangwenrui.com/ar/post/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jiangwenrui.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jiangwenrui.com/zh/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jiangwenrui.com/es/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://jiangwenrui.com/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://jiangwenrui.com/de/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="la"
-                href="https://jiangwenrui.com/la/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://jiangwenrui.com/ar/post/"
-                />
-  </url><url>
-    <loc>https://jiangwenrui.com/ar/post/beijing-eyeofcloud/</loc>
+    <loc>/ar/post/beijing-eyeofcloud/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/post/beijing-eyeofcloud/"
+                href="/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/post/beijing-eyeofcloud/"
+                href="/zh/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/post/beijing-eyeofcloud/"
+                href="/es/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/post/beijing-eyeofcloud/"
+                href="/fr/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/post/beijing-eyeofcloud/"
+                href="/de/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/post/beijing-eyeofcloud/"
+                href="/la/post/beijing-eyeofcloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/post/beijing-eyeofcloud/"
+                href="/ar/post/beijing-eyeofcloud/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/awards/</loc>
+    <loc>/ar/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/awards/"
+                href="/awards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/awards/"
+                href="/zh/awards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/awards/"
+                href="/es/awards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/awards/"
+                href="/fr/awards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/awards/"
+                href="/de/awards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/awards/"
+                href="/la/awards/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/awards/"
+                href="/ar/awards/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/categories/</loc>
+    <loc>/ar/post/bjtu-weihai-bachelor/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/categories/"
+                href="/post/bjtu-weihai-bachelor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/categories/"
+                href="/zh/post/bjtu-weihai-bachelor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/categories/"
+                href="/es/post/bjtu-weihai-bachelor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/categories/"
+                href="/fr/post/bjtu-weihai-bachelor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/categories/"
+                href="/de/post/bjtu-weihai-bachelor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/categories/"
+                href="/la/post/bjtu-weihai-bachelor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/categories/"
+                href="/ar/post/bjtu-weihai-bachelor/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/series/</loc>
+    <loc>/ar/post/nanning-no2-high-school/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/series/"
+                href="/post/nanning-no2-high-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/series/"
+                href="/zh/post/nanning-no2-high-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/series/"
+                href="/es/post/nanning-no2-high-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/series/"
+                href="/fr/post/nanning-no2-high-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/series/"
+                href="/de/post/nanning-no2-high-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/series/"
+                href="/la/post/nanning-no2-high-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/series/"
+                href="/ar/post/nanning-no2-high-school/"
                 />
   </url><url>
-    <loc>https://jiangwenrui.com/ar/portfolio/</loc>
+    <loc>/ar/post/nanning-xinmin-middle-school/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jiangwenrui.com/portfolio/"
+                href="/post/nanning-xinmin-middle-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jiangwenrui.com/zh/portfolio/"
+                href="/zh/post/nanning-xinmin-middle-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://jiangwenrui.com/es/portfolio/"
+                href="/es/post/nanning-xinmin-middle-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jiangwenrui.com/fr/portfolio/"
+                href="/fr/post/nanning-xinmin-middle-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://jiangwenrui.com/de/portfolio/"
+                href="/de/post/nanning-xinmin-middle-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="la"
-                href="https://jiangwenrui.com/la/portfolio/"
+                href="/la/post/nanning-xinmin-middle-school/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://jiangwenrui.com/ar/portfolio/"
+                href="/ar/post/nanning-xinmin-middle-school/"
+                />
+  </url><url>
+    <loc>/ar/post/nanning-xinghu-primary-school/</loc>
+    <lastmod>2012-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/nanning-xinghu-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/nanning-xinghu-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/nanning-xinghu-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/nanning-xinghu-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/post/nanning-xinghu-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/post/nanning-xinghu-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/post/nanning-xinghu-primary-school/"
+                />
+  </url><url>
+    <loc>/ar/post/yulin-dongcheng-primary-school/</loc>
+    <lastmod>2008-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/yulin-dongcheng-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/yulin-dongcheng-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/yulin-dongcheng-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/yulin-dongcheng-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/post/yulin-dongcheng-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/post/yulin-dongcheng-primary-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/post/yulin-dongcheng-primary-school/"
+                />
+  </url><url>
+    <loc>/ar/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/categories/"
+                />
+  </url><url>
+    <loc>/ar/tags/experience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/tags/experience/"
+                />
+  </url><url>
+    <loc>/ar/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/tags/"
+                />
+  </url><url>
+    <loc>/ar/portfolio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="la"
+                href="/la/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="/ar/portfolio/"
                 />
   </url>
 </urlset>

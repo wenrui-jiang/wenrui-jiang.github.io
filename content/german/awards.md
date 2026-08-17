@@ -1,14 +1,9 @@
 +++
 title = "Auszeichnungen und Fähigkeiten"
-description = "Ausbildung, Forschung, Englisch und Auszeichnungen"
+description = "Forschung, Englisch und Auszeichnungen"
 date = "2022-04-10"
 author = "Jiang Wenrui"
 +++
-
-### Ausbildung
-
-- Beijing Jiaotong University, licence en informatique, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor, bourse académique de troisième classe.
-- Beijing Jiaotong University, master en informatique, 2024.09 - 2027.06, bourse de première classe.
 
 ### Forschung
 
@@ -18,6 +13,10 @@ author = "Jiang Wenrui"
 
 - CET-4 : 542.
 - CET-6 : 539.
+
+### Auszeichnungen
+
+- Honorable Mention, Mathematical Contest in Modeling, 2023.
 
 ### Selbsteinschätzung
 

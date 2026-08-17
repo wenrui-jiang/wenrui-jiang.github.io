@@ -2,6 +2,8 @@
 author = "Jiang Wenrui"
 +++
 
+<!-- Home content hidden
+
 Soy estudiante de máster en Informática en Beijing Jiaotong University y busco puestos de desarrollo de aplicaciones Agent y backend Java. Me centro en sistemas de información médica, flujos de trabajo de agentes, tool calling, RAG e ingeniería backend distribuida, con énfasis en integrar capacidades de modelos grandes en procesos de negocio fiables.
 
 <p class="resume-download">
@@ -23,3 +25,5 @@ Soy estudiante de máster en Informática en Beijing Jiaotong University y busco
 - Continuar la investigación en predicción bursátil basada en noticias; el manuscrito como primer autor está en revisión para KDD.
 
 Consulta [Experiencia](/es/post/), [Proyecto](/es/project/), [Artículos](/es/portfolio/) o [Contacto](/es/contact/).
+
+-->

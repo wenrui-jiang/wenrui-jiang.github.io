@@ -1,6 +1,7 @@
 +++
 title = "Beijing Heyicloud Technology Co., Ltd. - Stagiaire développeur Java"
 date = "2022-12-01"
+period = "2022.12 - 2023.03"
 draft = false
 +++
 

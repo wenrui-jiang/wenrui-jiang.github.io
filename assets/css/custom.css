@@ -2,8 +2,8 @@
 .post a,
 .page a,
 .archive__list-title {
-  color: #1d5fd0;
-  text-decoration-color: rgba(29, 95, 208, 0.45);
+  color: #2454d6;
+  text-decoration-color: rgba(36, 84, 214, 0.55);
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.16em;
 }
@@ -12,7 +12,7 @@
 .post a:visited,
 .page a:visited,
 .archive__list-title:visited {
-  color: #5a46b8;
+  color: #2454d6;
 }
 
 .content a:hover,
@@ -23,8 +23,24 @@
 .page a:focus,
 .archive__list-title:hover,
 .archive__list-title:focus {
-  color: #0b4ab3;
+  color: #123fb0;
   text-decoration-color: currentColor;
+}
+
+.archive__list-title {
+  font-weight: 500;
+}
+
+.archive__list-date {
+  align-items: center;
+  color: #5f6673;
+  display: inline-flex;
+  gap: 0.45rem;
+}
+
+.archive__list-date-icon {
+  color: #3f4652;
+  font-size: 0.9em;
 }
 
 .resume-download {

@@ -2,17 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>蒋文睿的网站</title>
-    <link>https://jiangwenrui.com/zh/</link>
+    <link>/zh/</link>
     <description>Recent content on 蒋文睿的网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用友网络科技股份有限公司 - 后端开发工程师</title>
+      <link>/zh/post/yonyou-yprinter/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/yonyou-yprinter/</guid>
+      
+        <description>用友网络科技股份有限公司 - 安装器开发部 2026.07 - 至今
+后端开发工程师
+项目名称 YonBIP/iuap 专属化安装器（YPRInstaller）
+项目简介 面向 YonBIP 私有化与专属云交付场景的后端安装编排平台，基于 Go 构建，将产品包、中间件、微服务、Nginx、数据库初始化与配置中心发布抽象为可配置、可编排、可追踪的自动化安装流程，适配裸金属、容器云及多资源池部署环境。
+技术栈 Go、Beego、DDD/CommandBus、YAML DSL、LevelDB、K8s client-go、SSH/SFTP、MySQL、国产数据库适配
+我的工作  参与负责安装任务建模与 DSL 生成链路，梳理产品包、中间件、主机、资源池、云原生参数到可执行安装计划的转换过程，支撑安装、升级、迁移、补丁等多类交付场景。 参与产品安装主流程与插件执行闭环，跟通填参建模、安装计划生成、Actuator 分阶段执行、依赖编排、product / app 插件部署等核心链路，理解 CommandBus 分层下命令分发、领域编排与插件扩展机制。 参与 YMS 配置发布与安装状态回写链路，梳理配置 Build / Check / Publish 流程，以及本地 LevelDB 过程态与远程 CMDB 状态同步机制，协助定位安装状态不一致、配置未发布等问题。 参与裸金属与容器云部署通道适配，在统一阶段模型下区分主机初始化、K8s 资源、Nginx、数据库初始化等执行路径，梳理多环境参数差异、执行分支与插件扩展点。  </description>
+      
+    </item>
+    
     <item>
       <title>联系方式</title>
-      <link>https://jiangwenrui.com/zh/contact/</link>
+      <link>/zh/contact/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/zh/contact/</guid>
+      <guid>/zh/contact/</guid>
       
         <description>联系方式页面</description>
       
@@ -20,10 +36,10 @@
     
     <item>
       <title>项目</title>
-      <link>https://jiangwenrui.com/zh/project/</link>
+      <link>/zh/project/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/zh/project/</guid>
+      <guid>/zh/project/</guid>
       
         <description>项目与技术工作</description>
       
@@ -31,42 +47,120 @@
     
     <item>
       <title>北京北九方轨道交通科技有限公司 - 后端项目实习生</title>
-      <link>https://jiangwenrui.com/zh/post/beijiufang/</link>
+      <link>/zh/post/beijiufang/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/zh/post/beijiufang/</guid>
+      <guid>/zh/post/beijiufang/</guid>
       
-        <description>&lt;h3 id=&#34;北京北九方轨道交通科技有限公司&#34;&gt;北京北九方轨道交通科技有限公司&lt;/h3&gt;
-&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2025.04 - 2025.07&lt;/strong&gt;&lt;br&gt;
-&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;后端项目实习生&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;项目简介&#34;&gt;项目简介&lt;/h3&gt;
-&lt;p&gt;面向大型重载铁路专线车辆段的机车检修场景，对传统人工提票流程进行数字化改造，覆盖提票录入与检索、检修文档及图片上传、算法识别结果回写、业务数据汇总与统一调度检修，支撑行车修理全生命周期数字化转型。&lt;/p&gt;</description>
+        <description>北京北九方轨道交通科技有限公司 2025.04 - 2025.07
+后端项目实习生
+项目简介 面向大型重载铁路专线车辆段的机车检修场景，对传统人工提票流程进行数字化改造，覆盖提票录入与检索、检修文档及图片上传、算法识别结果回写、业务数据汇总与统一调度检修，支撑行车修理全生命周期数字化转型。
+技术栈 Java, Spring Boot, Spring Security, JWT, RBAC, MyBatis-Plus, MySQL, RabbitMQ, MinIO
+我的工作  负责机车检修提票核心模块，设计提票、附件、故障信息及识别结果等数据模型，并通过状态机管理待提交、待识别、待复核和已完成等业务状态。 基于 Spring Security、JWT 和 RBAC 实现统一认证鉴权，设计用户、角色、权限关联模型，并结合车辆段、部门和岗位限制数据访问范围。 设计检修文档与图片处理链路，使用 MinIO 存储文件、MySQL 保存附件元数据，通过 RabbitMQ 异步触发算法识别；对结果回调增加业务编号、状态校验和幂等控制，支持失败重试及人工复核。 针对多条件组合检索和故障统计场景优化 MySQL 索引与分页查询，支持按车型、部件、故障类型及时间范围汇总检修数据。  </description>
+      
+    </item>
+    
+    <item>
+      <title>北京交通大学 - 硕士研究生</title>
+      <link>/zh/post/bjtu-master/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/bjtu-master/</guid>
+      
+        <description>北京交通大学 2024.09 - 2027.06（预计）
+计算机科学与技术 硕士研究生
+简介 研究生阶段继续围绕计算机科学与技术方向学习与研究，重点关注 Agent 应用开发、RAG、工具调用、后端微服务与面向真实业务流程的大模型工程化落地。</description>
       
     </item>
     
     <item>
       <title>北京合力云通科技有限公司 - Java 开发工程师（实习）</title>
-      <link>https://jiangwenrui.com/zh/post/beijing-eyeofcloud/</link>
+      <link>/zh/post/beijing-eyeofcloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/zh/post/beijing-eyeofcloud/</guid>
+      <guid>/zh/post/beijing-eyeofcloud/</guid>
       
-        <description>&lt;h3 id=&#34;北京合力云通科技有限公司&#34;&gt;北京合力云通科技有限公司&lt;/h3&gt;
-&lt;p&gt;&lt;i class=&#34;fa-solid fa-calendar-days&#34;&gt;&lt;/i&gt; &lt;strong&gt;2022.12 - 2023.03&lt;/strong&gt;&lt;br&gt;
-&lt;i class=&#34;fa-solid fa-briefcase&#34;&gt;&lt;/i&gt; &lt;strong&gt;Java 开发工程师（实习）&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;项目简介&#34;&gt;项目简介&lt;/h3&gt;
-&lt;p&gt;A/B 测试平台用于对网页或应用的多个版本进行实验分析，根据用户行为数据和算法结果确定更优版本，并动态调整流量分配比例。&lt;/p&gt;</description>
+        <description>北京合力云通科技有限公司 2022.12 - 2023.03
+Java 开发工程师（实习）
+项目简介 A/B 测试平台用于对网页或应用的多个版本进行实验分析，根据用户行为数据和算法结果确定更优版本，并动态调整流量分配比例。
+技术栈 Spring Cloud、MyBatis、MySQL、RabbitMQ、XXL-JOB
+我的工作  负责 A/B 实验生命周期与调度模块，设计草稿、待启动、运行中、暂停及已结束等实验状态，基于 XXL-JOB 按实验时间窗口完成定时启停，并通过版本号校验和接口幂等处理重复回调及配置并发修改。 设计用户稳定分流方案，基于实验编号与用户标识进行哈希分桶，保证同一用户在实验周期内命中固定版本；通过保存实验配置快照隔离不同版本数据，避免中途修改配置污染历史实验结果。 基于 RabbitMQ 异步接收曝光、点击和转化事件，使用唯一约束实现消费幂等，按实验和版本聚合 UV、CTR、CVR 等指标。 将聚合结果接入 Epsilon-Greedy、UCB1 等多臂老虎机策略，通过最小样本量、单次最大调流幅度和异常指标回滚机制限制自动调流风险，并生成实验报告发送至客户邮箱。  </description>
       
     </item>
     
     <item>
       <title>荣誉与能力</title>
-      <link>https://jiangwenrui.com/zh/awards/</link>
+      <link>/zh/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/zh/awards/</guid>
+      <guid>/zh/awards/</guid>
       
-        <description>教育背景、科研成果、英语能力与奖项</description>
+        <description>科研成果、英语能力与奖项</description>
+      
+    </item>
+    
+    <item>
+      <title>北京交通大学（威海） - 本科</title>
+      <link>/zh/post/bjtu-weihai-bachelor/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/bjtu-weihai-bachelor/</guid>
+      
+        <description>北京交通大学（威海） 2020.09 - 2024.06
+计算机科学与技术 本科
+简介 本科阶段系统学习计算机科学与技术基础课程，完成软件工程、数据库、后端开发、算法与工程实践相关训练，为后续研究生学习与工程项目实践打下基础。</description>
+      
+    </item>
+    
+    <item>
+      <title>南宁市第二中学 - 高中</title>
+      <link>/zh/post/nanning-no2-high-school/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/nanning-no2-high-school/</guid>
+      
+        <description>南宁市第二中学 2017.09 - 2020.06
+高中
+简介 高中阶段在南宁市第二中学学习，完成高中课程学习与升学准备。</description>
+      
+    </item>
+    
+    <item>
+      <title>南宁市新民中学 - 初中</title>
+      <link>/zh/post/nanning-xinmin-middle-school/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/nanning-xinmin-middle-school/</guid>
+      
+        <description>南宁市新民中学 2014.09 - 2017.06
+初中
+简介 初中阶段在南宁市新民中学学习。</description>
+      
+    </item>
+    
+    <item>
+      <title>南宁市星湖小学 - 小学</title>
+      <link>/zh/post/nanning-xinghu-primary-school/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/nanning-xinghu-primary-school/</guid>
+      
+        <description>南宁市星湖小学 2012.09 - 2014.06
+小学
+简介 小学阶段曾在南宁市星湖小学学习。</description>
+      
+    </item>
+    
+    <item>
+      <title>玉林市东成小学 - 小学</title>
+      <link>/zh/post/yulin-dongcheng-primary-school/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/post/yulin-dongcheng-primary-school/</guid>
+      
+        <description>玉林市东成小学 2008.09 - 2012.06
+小学
+简介 小学阶段曾在玉林市东成小学学习。</description>
       
     </item>
     

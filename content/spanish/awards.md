@@ -1,14 +1,9 @@
 +++
 title = "Honores y capacidades"
-description = "Educación, investigación, inglés y premios"
+description = "Investigación, inglés y premios"
 date = "2022-04-10"
 author = "Jiang Wenrui"
 +++
-
-### Educación
-
-- Beijing Jiaotong University, grado en Informática, 2020.09 - 2024.06, GPA 3.73/4.00, First class honor y beca académica de tercera clase.
-- Beijing Jiaotong University, máster en Informática, 2024.09 - 2027.06, beca de posgrado de primera clase.
 
 ### Investigación
 
@@ -18,6 +13,10 @@ author = "Jiang Wenrui"
 
 - CET-4: 542.
 - CET-6: 539.
+
+### Premios
+
+- Mención honorífica, Mathematical Contest in Modeling, 2023.
 
 ### Autoevaluación
 

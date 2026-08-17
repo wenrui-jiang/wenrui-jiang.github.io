@@ -2,17 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jiang Wenruis Website</title>
-    <link>https://jiangwenrui.com/de/tags/</link>
+    <link>/de/tags/</link>
     <description>Recent content in Tags on Jiang Wenruis Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jiangwenrui.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Experience</title>
-      <link>https://jiangwenrui.com/de/tags/experience/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <title>experience</title>
+      <link>/de/tags/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangwenrui.com/de/tags/experience/</guid>
+      <guid>/de/tags/experience/</guid>
       
         <description></description>
       

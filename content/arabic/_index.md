@@ -2,6 +2,8 @@
 author = "Jiang Wenrui"
 +++
 
+<!-- Home content hidden
+
 أنا طالب ماجستير في علوم الحاسوب في Beijing Jiaotong University، وأبحث عن أدوار في تطوير تطبيقات Agent وتطوير Java Backend. أركز على أنظمة المعلومات الطبية، وسير عمل الوكلاء، واستدعاء الأدوات، وRAG، وهندسة backend الموزعة.
 
 <p class="resume-download">
@@ -23,3 +25,5 @@ author = "Jiang Wenrui"
 - مواصلة البحث في التنبؤ بالأسهم اعتمادا على الأخبار؛ البحث كمؤلف أول قيد مراجعة KDD.
 
 راجع [الخبرات](/ar/post/) و[المشروع](/ar/project/) و[المقالات](/ar/portfolio/) أو [التواصل](/ar/contact/).
+
+-->

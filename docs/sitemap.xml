@@ -2,51 +2,51 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://jiangwenrui.com/en/sitemap.xml</loc>
+    <loc>en/sitemap.xml</loc>
     
-      <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jiangwenrui.com/zh/sitemap.xml</loc>
-    
-      <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+      <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://jiangwenrui.com/es/sitemap.xml</loc>
+    <loc>zh/sitemap.xml</loc>
     
-      <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jiangwenrui.com/fr/sitemap.xml</loc>
-    
-      <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+      <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://jiangwenrui.com/de/sitemap.xml</loc>
+    <loc>es/sitemap.xml</loc>
     
-      <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jiangwenrui.com/ar/sitemap.xml</loc>
-    
-      <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+      <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://jiangwenrui.com/la/sitemap.xml</loc>
+    <loc>fr/sitemap.xml</loc>
     
-      <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+      <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>de/sitemap.xml</loc>
+    
+      <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>ar/sitemap.xml</loc>
+    
+      <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>la/sitemap.xml</loc>
+    
+      <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     
   </sitemap>
   

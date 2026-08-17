@@ -1,6 +1,7 @@
 +++
 title = "Beijing Beijiufang Railway Traffic Technology Co., Ltd. - Becario de proyecto backend"
 date = "2025-04-01"
+period = "2025.04 - 2025.07"
 draft = false
 +++
 

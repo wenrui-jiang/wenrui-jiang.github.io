@@ -4,4 +4,4 @@ author = "Jiang Wenrui"
 tags = ["experience"]
 +++
 
-Tirocinia, opera backend, et progressio applicationum Agent.
+Linea temporis studiorum, tirociniorum, operum backend, et progressionis applicationum Agent.

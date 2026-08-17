@@ -4,4 +4,4 @@ author = "Jiang Wenrui"
 tags = ["experience"]
 +++
 
-Prácticas, proyectos backend y desarrollo de aplicaciones Agent.
+Línea de tiempo de educación, prácticas, proyectos backend y desarrollo de aplicaciones Agent.
