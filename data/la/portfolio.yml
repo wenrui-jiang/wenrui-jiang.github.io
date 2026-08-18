@@ -1,0 +1,14 @@
+portfolioitems:
+  - title: Articuli investigationis
+    description: Manuscripta et directiones investigationis nunc sub recensione.
+    portfolioitem:
+      - name: Causal Grouping Network for News-driven Stock Forecasting
+        image: '/images/paper1/model%20sturcture.svg'
+        description: 'Manuscriptum de methodis congregationis causalis ad praedictionem mercatus ex nuntiis. Status: sub recensione KDD.'
+        tags:
+          - Praedictio mercatus
+          - Modellatio causalis
+          - Praedictio ex nuntiis
+        status: 'Sub recensione KDD'
+        authors:
+          - Jiang Wenrui

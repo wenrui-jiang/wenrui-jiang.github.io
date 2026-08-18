@@ -1,0 +1,14 @@
+portfolioitems:
+  - title: Artículos de investigación
+    description: Manuscritos y líneas de investigación actualmente en revisión.
+    portfolioitem:
+      - name: Causal Grouping Network for News-driven Stock Forecasting
+        image: '/images/paper1/model%20sturcture.svg'
+        description: 'Manuscrito sobre métodos de agrupación causal para la predicción bursátil basada en noticias. Estado: en revisión para KDD.'
+        tags:
+          - Predicción bursátil
+          - Modelado causal
+          - Predicción basada en noticias
+        status: 'En revisión para KDD'
+        authors:
+          - Jiang Wenrui

@@ -1,0 +1,14 @@
+portfolioitems:
+  - title: Research Articles
+    description: Manuscripts and research directions currently under review.
+    portfolioitem:
+      - name: Causal Grouping Network for News-driven Stock Forecasting
+        image: '/images/paper1/model%20sturcture.svg'
+        description: 'A manuscript on causal grouping methods for news-driven stock forecasting. Status: KDD under review.'
+        tags:
+          - Stock Forecasting
+          - Causal Modeling
+          - News-driven Prediction
+        status: 'KDD under review'
+        authors:
+          - Jiang Wenrui

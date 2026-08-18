@@ -1,0 +1,14 @@
+portfolioitems:
+  - title: مقالات بحثية
+    description: مخطوطات واتجاهات بحثية قيد المراجعة حاليا.
+    portfolioitem:
+      - name: Causal Grouping Network for News-driven Stock Forecasting
+        image: '/images/paper1/model%20sturcture.svg'
+        description: 'مخطوطة حول أساليب التجميع السببي للتنبؤ بالأسهم اعتمادا على الأخبار. الحالة: قيد مراجعة KDD.'
+        tags:
+          - التنبؤ بالأسهم
+          - النمذجة السببية
+          - التنبؤ اعتمادا على الأخبار
+        status: 'قيد مراجعة KDD'
+        authors:
+          - Jiang Wenrui

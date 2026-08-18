@@ -1,0 +1,14 @@
+portfolioitems:
+  - title: Articles de recherche
+    description: Manuscrits et axes de recherche actuellement en revue.
+    portfolioitem:
+      - name: Causal Grouping Network for News-driven Stock Forecasting
+        image: '/images/paper1/model%20sturcture.svg'
+        description: 'Manuscrit sur les méthodes de regroupement causal pour la prévision boursière guidée par l’actualité. Statut : en revue KDD.'
+        tags:
+          - Prévision boursière
+          - Modélisation causale
+          - Prévision guidée par l’actualité
+        status: 'En revue KDD'
+        authors:
+          - Jiang Wenrui

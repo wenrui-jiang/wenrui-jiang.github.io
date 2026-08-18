@@ -1,0 +1,14 @@
+portfolioitems:
+  - title: 研究论文与文章
+    description: 当前在审论文与研究方向。
+    portfolioitem:
+      - name: Causal Grouping Network for News-driven Stock Forecasting
+        image: '/images/paper1/model%20sturcture.svg'
+        description: '围绕新闻驱动股票预测任务，研究基于因果分组的建模方法。当前状态：KDD 在审。'
+        tags:
+          - 股票预测
+          - 因果建模
+          - 新闻驱动预测
+        status: 'KDD 在审'
+        authors:
+          - 蒋文睿

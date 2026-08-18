@@ -1,0 +1,14 @@
+portfolioitems:
+  - title: Forschungsartikel
+    description: Manuskripte und Forschungsthemen, die derzeit begutachtet werden.
+    portfolioitem:
+      - name: Causal Grouping Network for News-driven Stock Forecasting
+        image: '/images/paper1/model%20sturcture.svg'
+        description: 'Manuskript zu kausalen Gruppierungsmethoden fuer newsgetriebene Aktienprognosen. Status: KDD-Review.'
+        tags:
+          - Aktienprognose
+          - Kausale Modellierung
+          - Newsgetriebene Prognose
+        status: 'KDD-Review'
+        authors:
+          - Jiang Wenrui
