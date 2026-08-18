@@ -9,7 +9,7 @@ favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = ["css/custom.css"]
 # example ["js/custom.js"]
-customJs = [] 
+customJs = ["js/experience-timeline.js"]
 # mainSections = ["post"]
 mainSections = []
 images = ["images/site-feature-image.png"]

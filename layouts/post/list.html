@@ -1,66 +1,92 @@
 {{ define "main" }}
   {{ $readMoreLabels := dict "zh" "查看详情" "en" "Read more" "es" "Ver detalles" "fr" "Voir le détail" "de" "Details ansehen" "ar" "عرض التفاصيل" "la" "Plura lege" }}
+  {{ $activeLabels := dict "zh" "当前时间段" "en" "Active period" "es" "Periodo activo" "fr" "Période active" "de" "Aktiver Zeitraum" "ar" "الفترة النشطة" "la" "Tempus activum" }}
+  {{ $emptyLabels := dict "zh" "滚动时间轴，查看此时正在进行的经历。" "en" "Scroll the timeline to see active experiences." "es" "Desplaza la línea de tiempo para ver experiencias activas." "fr" "Faites défiler la chronologie pour voir les expériences actives." "de" "Scrolle durch die Zeitleiste, um aktive Erfahrungen zu sehen." "ar" "مرر الخط الزمني لعرض الخبرات النشطة." "la" "Lineam temporis move ut experientias activas videas." }}
   {{ $readMore := index $readMoreLabels .Site.Language.Lang | default "Read more" }}
+  {{ $activeLabel := index $activeLabels .Site.Language.Lang | default "Active period" }}
+  {{ $emptyLabel := index $emptyLabels .Site.Language.Lang | default "Scroll the timeline to see active experiences." }}
+
   <section
-    class="experience-timeline {{ with .Site.Params.doNotLoadAnimations }}
+    class="experience-interval {{ with .Site.Params.doNotLoadAnimations }}
       .
     {{ else }}
       animated fadeInDown
     {{ end }}"
+    data-experience-interval
   >
-    <header class="experience-timeline__header">
-      <h1 class="experience-timeline__title">{{ .Title }}</h1>
+    <header class="experience-interval__header">
+      <h1 class="experience-interval__title">{{ .Title }}</h1>
       {{ with .Content }}
-        <div class="experience-timeline__intro">{{ . }}</div>
+        <div class="experience-interval__intro">{{ . }}</div>
       {{ end }}
     </header>
 
-    <ol class="experience-timeline__list">
-      {{ range .Pages.ByDate.Reverse }}
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
+    <div class="experience-interval__viewport">
+      <div class="experience-interval__stage" data-experience-stage>
+        <aside class="experience-interval__axis" aria-hidden="true">
+          <span class="experience-interval__year experience-interval__year--top" data-axis-start>2027</span>
+          <span class="experience-interval__year experience-interval__year--middle" data-axis-middle>2018</span>
+          <span class="experience-interval__year experience-interval__year--bottom" data-axis-end>2008</span>
+          <span class="experience-interval__axis-line"></span>
+        </aside>
+
+        <div class="experience-interval__track" data-experience-track>
+          <div class="experience-interval__cursor" data-experience-cursor>
+            <span data-current-date>2025.05</span>
           </div>
 
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              {{ with .Params.period }}
-                {{ . }}
-              {{ else }}
-                {{ if isset .Site.Params "listdateformat" }}
-                  {{ if .Site.Params.localizedDates }}
-                    {{ time.Format .Site.Params.listDateFormat .Date }}
-                  {{ else }}
-                    {{ .Date.Format .Site.Params.listDateFormat }}
-                  {{ end }}
-                {{ else }}
-                  {{ if .Site.Params.localizedDates }}
-                    {{ time.Format "Jan 2, 2006" .Date }}
-                  {{ else }}
-                    {{ .Date.Format "Jan 2, 2006" }}
-                  {{ end }}
-                {{ end }}
-              {{ end }}
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
-            </h2>
-            {{ with .Description }}
-              <p class="experience-timeline__summary">
-                {{ . }}
-              </p>
-            {{ end }}
-            <a class="experience-timeline__more" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-              <span>{{ $readMore }}</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+          {{ range $index, $page := .Pages.ByDate.Reverse }}
+            <a
+              class="experience-interval__event experience-interval__event--{{ mod $index 5 }}"
+              href="{{ .RelPermalink }}"
+              data-experience-event
+              data-title="{{ .Title }}"
+              data-period="{{ .Params.period }}"
+              data-start="{{ .Date.Format "2006-01" }}"
+              data-summary="{{ .Description }}"
+              data-url="{{ .RelPermalink }}"
+              style="--lane: {{ mod $index 4 }};"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
+                {{ with .Params.period }}{{ . }}{{ else }}{{ .Date.Format "2006-01" }}{{ end }}
+              </span>
+              <span class="experience-interval__event-title">{{ .Title }}</span>
             </a>
-          </article>
-        </li>
-      {{ end }}
-    </ol>
+          {{ end }}
+        </div>
+      </div>
+
+      <aside class="experience-interval__active" data-active-panel>
+        <div class="experience-interval__active-kicker">{{ $activeLabel }}</div>
+        <div class="experience-interval__active-date" data-active-date>2025.05</div>
+        <div class="experience-interval__active-list" data-active-list data-empty="{{ $emptyLabel }}">
+          <p class="experience-interval__empty">{{ $emptyLabel }}</p>
+        </div>
+      </aside>
+    </div>
+
+    <noscript>
+      <ol class="experience-interval__fallback">
+        {{ range .Pages.ByDate.Reverse }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <span>{{ with .Params.period }}{{ . }}{{ else }}{{ .Date.Format "2006-01" }}{{ end }}</span>
+          </li>
+        {{ end }}
+      </ol>
+    </noscript>
+
+    <template data-active-card-template>
+      <article class="experience-interval__active-card">
+        <div class="experience-interval__active-card-period"></div>
+        <h2><a></a></h2>
+        <p></p>
+        <a class="experience-interval__active-card-more">
+          <span>{{ $readMore }}</span>
+          <em class="fas fa-arrow-right" aria-hidden="true"></em>
+        </a>
+      </article>
+    </template>
   </section>
 {{ end }}

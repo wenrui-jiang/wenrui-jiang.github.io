@@ -48,8 +48,8 @@
     
     <link
       rel="stylesheet"
-      href="/css/custom.min.fc9bebf4e5fcdd4e8696ec37a438be2bc8dfd072d7071579bff166a0c9521785.css"
-      integrity="sha256-/Jvr9OX83U6Gluw3pDi&#43;K8jf0HLXBxV5v/FmoMlSF4U="
+      href="/css/custom.min.f5c06e4bad9a143540f5cce8f30522c48419fddd2f35a69845fad66443634b29.css"
+      integrity="sha256-9cBuS62aFDVA9czo8wUixIQZ/d0vNaaYRfrWZENjSyk="
       crossorigin="anonymous"
       media="screen"
     />
@@ -115,7 +115,12 @@
       integrity="sha256-TDHzz36OYJyJfbqIrsrA6Nseu05chB0/n/sB1GOXNng="
       crossorigin="anonymous"
     ></script>
-  
+  <script
+      type="text/javascript"
+      src="/js/experience-timeline.min.54a179b32533cd5d59363feb551f54714f5bd7a1eebaab1af2724c95005e9928.js"
+      integrity="sha256-VKF5syUzzV1ZNj/rVR9UcU9b16Huuqsa8nJMlQBemSg="
+      crossorigin="anonymous"
+    ></script>
 
   
 
@@ -460,292 +465,276 @@
 </header>
   
   
+  
+  
+  
+  
+
   <section
-    class="experience-timeline 
+    class="experience-interval 
       animated fadeInDown
     "
+    data-experience-interval
   >
-    <header class="experience-timeline__header">
-      <h1 class="experience-timeline__title">经历</h1>
+    <header class="experience-interval__header">
+      <h1 class="experience-interval__title">经历</h1>
       
-        <div class="experience-timeline__intro"><p>按时间线整理的学习经历、实习经历、后端项目实践与 Agent 应用开发经历。</p>
+        <div class="experience-interval__intro"><p>按时间线整理的学习经历、实习经历、后端项目实践与 Agent 应用开发经历。</p>
 </div>
       
     </header>
 
-    <ol class="experience-timeline__list">
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
+    <div class="experience-interval__viewport">
+      <div class="experience-interval__stage" data-experience-stage>
+        <aside class="experience-interval__axis" aria-hidden="true">
+          <span class="experience-interval__year experience-interval__year--top" data-axis-start>2027</span>
+          <span class="experience-interval__year experience-interval__year--middle" data-axis-middle>2018</span>
+          <span class="experience-interval__year experience-interval__year--bottom" data-axis-end>2008</span>
+          <span class="experience-interval__axis-line"></span>
+        </aside>
+
+        <div class="experience-interval__track" data-experience-track>
+          <div class="experience-interval__cursor" data-experience-cursor>
+            <span data-current-date>2025.05</span>
           </div>
 
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--0"
+              href="/zh/post/yonyou-yprinter/"
+              data-experience-event
+              data-title="用友网络科技股份有限公司 - 后端开发工程师"
+              data-period="2026.07 - 至今"
+              data-start="2026-07"
+              data-summary="参与 YonBIP/iuap 专属化安装器后端安装编排平台建设，围绕安装任务建模、DSL 生成、插件执行、配置发布与多环境部署适配展开工作。"
+              data-url="/zh/post/yonyou-yprinter/"
+              style="--lane: 0;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2026.07 - 至今
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/yonyou-yprinter/" title="用友网络科技股份有限公司 - 后端开发工程师">用友网络科技股份有限公司 - 后端开发工程师</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                参与 YonBIP/iuap 专属化安装器后端安装编排平台建设，围绕安装任务建模、DSL 生成、插件执行、配置发布与多环境部署适配展开工作。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/yonyou-yprinter/" aria-label="用友网络科技股份有限公司 - 后端开发工程师">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">用友网络科技股份有限公司 - 后端开发工程师</span>
             </a>
-          </article>
-        </li>
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
-          </div>
-
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--1"
+              href="/zh/post/beijiufang/"
+              data-experience-event
+              data-title="北京北九方轨道交通科技有限公司 - 后端项目实习生"
+              data-period="2025.04 - 2025.07"
+              data-start="2025-04"
+              data-summary="参与机车检修数字化系统建设，负责提票核心模块、认证鉴权、文件处理、算法回调与检修数据检索统计等后端能力。"
+              data-url="/zh/post/beijiufang/"
+              style="--lane: 1;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2025.04 - 2025.07
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/beijiufang/" title="北京北九方轨道交通科技有限公司 - 后端项目实习生">北京北九方轨道交通科技有限公司 - 后端项目实习生</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                参与机车检修数字化系统建设，负责提票核心模块、认证鉴权、文件处理、算法回调与检修数据检索统计等后端能力。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/beijiufang/" aria-label="北京北九方轨道交通科技有限公司 - 后端项目实习生">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">北京北九方轨道交通科技有限公司 - 后端项目实习生</span>
             </a>
-          </article>
-        </li>
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
-          </div>
-
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--2"
+              href="/zh/post/bjtu-master/"
+              data-experience-event
+              data-title="北京交通大学 - 硕士研究生"
+              data-period="2024.09 - 2027.06（预计）"
+              data-start="2024-09"
+              data-summary="研究生阶段聚焦 Agent 应用、RAG、工具调用、后端微服务与大模型工程化落地。"
+              data-url="/zh/post/bjtu-master/"
+              style="--lane: 2;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2024.09 - 2027.06（预计）
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/bjtu-master/" title="北京交通大学 - 硕士研究生">北京交通大学 - 硕士研究生</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                研究生阶段聚焦 Agent 应用、RAG、工具调用、后端微服务与大模型工程化落地。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/bjtu-master/" aria-label="北京交通大学 - 硕士研究生">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">北京交通大学 - 硕士研究生</span>
             </a>
-          </article>
-        </li>
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
-          </div>
-
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--3"
+              href="/zh/post/beijing-eyeofcloud/"
+              data-experience-event
+              data-title="北京合力云通科技有限公司 - Java 开发工程师（实习）"
+              data-period="2022.12 - 2023.03"
+              data-start="2022-12"
+              data-summary="参与 A/B 测试平台后端开发，围绕实验生命周期、稳定分流、异步指标聚合与自动调流策略完成工程实现。"
+              data-url="/zh/post/beijing-eyeofcloud/"
+              style="--lane: 3;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2022.12 - 2023.03
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/beijing-eyeofcloud/" title="北京合力云通科技有限公司 - Java 开发工程师（实习）">北京合力云通科技有限公司 - Java 开发工程师（实习）</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                参与 A/B 测试平台后端开发，围绕实验生命周期、稳定分流、异步指标聚合与自动调流策略完成工程实现。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/beijing-eyeofcloud/" aria-label="北京合力云通科技有限公司 - Java 开发工程师（实习）">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">北京合力云通科技有限公司 - Java 开发工程师（实习）</span>
             </a>
-          </article>
-        </li>
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
-          </div>
-
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--4"
+              href="/zh/post/bjtu-weihai-bachelor/"
+              data-experience-event
+              data-title="北京交通大学（威海） - 本科"
+              data-period="2020.09 - 2024.06"
+              data-start="2020-09"
+              data-summary="本科阶段系统学习计算机科学与技术基础课程，完成软件工程、数据库、后端开发、算法与工程实践训练。"
+              data-url="/zh/post/bjtu-weihai-bachelor/"
+              style="--lane: 0;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2020.09 - 2024.06
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/bjtu-weihai-bachelor/" title="北京交通大学（威海） - 本科">北京交通大学（威海） - 本科</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                本科阶段系统学习计算机科学与技术基础课程，完成软件工程、数据库、后端开发、算法与工程实践训练。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/bjtu-weihai-bachelor/" aria-label="北京交通大学（威海） - 本科">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">北京交通大学（威海） - 本科</span>
             </a>
-          </article>
-        </li>
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
-          </div>
-
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--0"
+              href="/zh/post/nanning-no2-high-school/"
+              data-experience-event
+              data-title="南宁市第二中学 - 高中"
+              data-period="2017.09 - 2020.06"
+              data-start="2017-09"
+              data-summary="高中阶段在南宁市第二中学完成课程学习与升学准备。"
+              data-url="/zh/post/nanning-no2-high-school/"
+              style="--lane: 1;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2017.09 - 2020.06
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/nanning-no2-high-school/" title="南宁市第二中学 - 高中">南宁市第二中学 - 高中</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                高中阶段在南宁市第二中学完成课程学习与升学准备。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/nanning-no2-high-school/" aria-label="南宁市第二中学 - 高中">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">南宁市第二中学 - 高中</span>
             </a>
-          </article>
-        </li>
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
-          </div>
-
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--1"
+              href="/zh/post/nanning-xinmin-middle-school/"
+              data-experience-event
+              data-title="南宁市新民中学 - 初中"
+              data-period="2014.09 - 2017.06"
+              data-start="2014-09"
+              data-summary="初中阶段在南宁市新民中学学习。"
+              data-url="/zh/post/nanning-xinmin-middle-school/"
+              style="--lane: 2;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2014.09 - 2017.06
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/nanning-xinmin-middle-school/" title="南宁市新民中学 - 初中">南宁市新民中学 - 初中</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                初中阶段在南宁市新民中学学习。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/nanning-xinmin-middle-school/" aria-label="南宁市新民中学 - 初中">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">南宁市新民中学 - 初中</span>
             </a>
-          </article>
-        </li>
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
-          </div>
-
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--2"
+              href="/zh/post/nanning-xinghu-primary-school/"
+              data-experience-event
+              data-title="南宁市星湖小学 - 小学"
+              data-period="2012.09 - 2014.06"
+              data-start="2012-09"
+              data-summary="小学阶段曾在南宁市星湖小学学习。"
+              data-url="/zh/post/nanning-xinghu-primary-school/"
+              style="--lane: 3;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2012.09 - 2014.06
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/nanning-xinghu-primary-school/" title="南宁市星湖小学 - 小学">南宁市星湖小学 - 小学</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                小学阶段曾在南宁市星湖小学学习。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/nanning-xinghu-primary-school/" aria-label="南宁市星湖小学 - 小学">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">南宁市星湖小学 - 小学</span>
             </a>
-          </article>
-        </li>
-      
-        <li class="experience-timeline__item">
-          <div class="experience-timeline__marker" aria-hidden="true">
-            <span class="experience-timeline__dot"></span>
-          </div>
-
-          <div class="experience-timeline__period">
-            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
-            <span>
-              
+          
+            <a
+              class="experience-interval__event experience-interval__event--3"
+              href="/zh/post/yulin-dongcheng-primary-school/"
+              data-experience-event
+              data-title="玉林市东成小学 - 小学"
+              data-period="2008.09 - 2012.06"
+              data-start="2008-09"
+              data-summary="小学阶段曾在玉林市东成小学学习。"
+              data-url="/zh/post/yulin-dongcheng-primary-school/"
+              style="--lane: 0;"
+            >
+              <span class="experience-interval__event-period">
+                <em class="fas fa-calendar-day" aria-hidden="true"></em>
                 2008.09 - 2012.06
-              
-            </span>
-          </div>
-
-          <article class="experience-timeline__card">
-            <h2 class="experience-timeline__entry-title">
-              <a href="/zh/post/yulin-dongcheng-primary-school/" title="玉林市东成小学 - 小学">玉林市东成小学 - 小学</a>
-            </h2>
-            
-              <p class="experience-timeline__summary">
-                小学阶段曾在玉林市东成小学学习。
-              </p>
-            
-            <a class="experience-timeline__more" href="/zh/post/yulin-dongcheng-primary-school/" aria-label="玉林市东成小学 - 小学">
-              <span>查看详情</span>
-              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+              </span>
+              <span class="experience-interval__event-title">玉林市东成小学 - 小学</span>
             </a>
-          </article>
-        </li>
-      
-    </ol>
+          
+        </div>
+      </div>
+
+      <aside class="experience-interval__active" data-active-panel>
+        <div class="experience-interval__active-kicker">当前时间段</div>
+        <div class="experience-interval__active-date" data-active-date>2025.05</div>
+        <div class="experience-interval__active-list" data-active-list data-empty="滚动时间轴，查看此时正在进行的经历。">
+          <p class="experience-interval__empty">滚动时间轴，查看此时正在进行的经历。</p>
+        </div>
+      </aside>
+    </div>
+
+    <noscript>
+      <ol class="experience-interval__fallback">
+        
+          <li>
+            <a href="/zh/post/yonyou-yprinter/">用友网络科技股份有限公司 - 后端开发工程师</a>
+            <span>2026.07 - 至今</span>
+          </li>
+        
+          <li>
+            <a href="/zh/post/beijiufang/">北京北九方轨道交通科技有限公司 - 后端项目实习生</a>
+            <span>2025.04 - 2025.07</span>
+          </li>
+        
+          <li>
+            <a href="/zh/post/bjtu-master/">北京交通大学 - 硕士研究生</a>
+            <span>2024.09 - 2027.06（预计）</span>
+          </li>
+        
+          <li>
+            <a href="/zh/post/beijing-eyeofcloud/">北京合力云通科技有限公司 - Java 开发工程师（实习）</a>
+            <span>2022.12 - 2023.03</span>
+          </li>
+        
+          <li>
+            <a href="/zh/post/bjtu-weihai-bachelor/">北京交通大学（威海） - 本科</a>
+            <span>2020.09 - 2024.06</span>
+          </li>
+        
+          <li>
+            <a href="/zh/post/nanning-no2-high-school/">南宁市第二中学 - 高中</a>
+            <span>2017.09 - 2020.06</span>
+          </li>
+        
+          <li>
+            <a href="/zh/post/nanning-xinmin-middle-school/">南宁市新民中学 - 初中</a>
+            <span>2014.09 - 2017.06</span>
+          </li>
+        
+          <li>
+            <a href="/zh/post/nanning-xinghu-primary-school/">南宁市星湖小学 - 小学</a>
+            <span>2012.09 - 2014.06</span>
+          </li>
+        
+          <li>
+            <a href="/zh/post/yulin-dongcheng-primary-school/">玉林市东成小学 - 小学</a>
+            <span>2008.09 - 2012.06</span>
+          </li>
+        
+      </ol>
+    </noscript>
+
+    <template data-active-card-template>
+      <article class="experience-interval__active-card">
+        <div class="experience-interval__active-card-period"></div>
+        <h2><a></a></h2>
+        <p></p>
+        <a class="experience-interval__active-card-more">
+          <span>查看详情</span>
+          <em class="fas fa-arrow-right" aria-hidden="true"></em>
+        </a>
+      </article>
+    </template>
   </section>
 
       </main>

@@ -74,185 +74,368 @@
   transform: translateY(-1px);
 }
 
-.experience-timeline {
+.experience-interval {
   color: #34383f;
   margin: 0 auto;
-  max-width: 980px;
-  padding: 3rem 1.25rem 3.5rem;
+  max-width: 1120px;
+  padding: 3.25rem 1.25rem 4rem;
   scroll-margin-top: 5rem;
 }
 
-.experience-timeline__header {
+.experience-interval__header {
   border-bottom: 1px solid #e7e9ee;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.75rem;
   padding-bottom: 1rem;
 }
 
-.experience-timeline__title {
+.experience-interval__title {
   color: #30343a;
   font-size: 2.35rem;
   line-height: 1.12;
   margin: 0 0 0.75rem;
 }
 
-.experience-timeline__intro {
+.experience-interval__intro {
   color: #626976;
   font-size: 1rem;
   line-height: 1.8;
 }
 
-.experience-timeline__intro p {
+.experience-interval__intro p {
   margin: 0;
 }
 
-.experience-timeline__list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.experience-timeline__item {
+.experience-interval__viewport {
+  align-items: start;
   display: grid;
-  grid-template-columns: 2rem minmax(8.5rem, 13rem) minmax(0, 1fr);
-  min-height: 8rem;
+  gap: 1.25rem;
+  grid-template-columns: minmax(0, 1.35fr) minmax(17rem, 0.65fr);
+}
+
+.experience-interval__stage {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: 4.4rem minmax(0, 1fr);
+  min-width: 0;
+}
+
+.experience-interval__axis {
+  color: #6d7480;
+  min-height: 1180px;
   position: relative;
 }
 
-.experience-timeline__item::before {
-  background: #d8dde7;
+.experience-interval__axis-line {
+  background: linear-gradient(180deg, #2454d6, #5b8f63 54%, #bd5d34);
+  border-radius: 999px;
   bottom: 0;
-  content: "";
-  left: 0.72rem;
+  left: 3.2rem;
   position: absolute;
   top: 0;
-  width: 2px;
+  width: 3px;
 }
 
-.experience-timeline__item:first-child::before {
-  top: 0.95rem;
-}
-
-.experience-timeline__item:last-child::before {
-  bottom: auto;
-  height: 1rem;
-}
-
-.experience-timeline__marker {
-  position: relative;
+.experience-interval__year {
+  background: #fff;
+  border: 1px solid #d8dde7;
+  border-radius: 999px;
+  font-size: 0.86rem;
+  font-weight: 700;
+  left: 0;
+  line-height: 1;
+  min-width: 3.2rem;
+  padding: 0.38rem 0.45rem;
+  position: absolute;
+  text-align: center;
   z-index: 1;
 }
 
-.experience-timeline__dot {
-  background: #fff;
-  border: 3px solid #2454d6;
-  border-radius: 50%;
-  box-shadow: 0 0 0 5px #eef3ff;
-  display: block;
-  height: 0.86rem;
-  margin-top: 0.55rem;
-  width: 0.86rem;
+.experience-interval__year--top {
+  top: 0;
 }
 
-.experience-timeline__period {
-  align-items: flex-start;
-  color: #4d5665;
+.experience-interval__year--middle {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.experience-interval__year--bottom {
+  bottom: 0;
+}
+
+.experience-interval__track {
+  --lane-width: clamp(5.2rem, 12vw, 8rem);
+  min-height: 1180px;
+  min-width: calc(var(--lanes, 4) * var(--lane-width) + 2rem);
+  overflow: visible;
+  position: relative;
+}
+
+.experience-interval__track::before {
+  background-image: linear-gradient(180deg, rgba(36, 84, 214, 0.09) 1px, transparent 1px);
+  background-size: 100% 6.25%;
+  bottom: 0;
+  content: "";
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.experience-interval__cursor {
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  top: var(--cursor, 0%);
+  transform: translateY(-50%);
+  z-index: 4;
+}
+
+.experience-interval__cursor::before {
+  background: rgba(31, 88, 197, 0.34);
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+
+.experience-interval__cursor span {
+  background: #123fb0;
+  border-radius: 999px;
+  color: #fff;
+  display: inline-flex;
+  font-size: 0.82rem;
+  font-weight: 800;
+  line-height: 1;
+  padding: 0.45rem 0.6rem;
+  position: relative;
+}
+
+.experience-interval__event {
+  --event-color: #2454d6;
+  background: color-mix(in srgb, var(--event-color), white 88%);
+  border: 1px solid color-mix(in srgb, var(--event-color), white 45%);
+  border-radius: 8px;
+  box-shadow: inset 0.32rem 0 0 var(--event-color);
+  color: #30343a;
   display: flex;
-  font-weight: 700;
+  flex-direction: column;
   gap: 0.45rem;
-  line-height: 1.5;
-  padding: 0.25rem 1.25rem 1.75rem 0;
+  height: var(--duration, 6rem);
+  left: calc(var(--lane) * var(--lane-width));
+  min-height: 4.75rem;
+  overflow: hidden;
+  padding: 0.7rem 0.72rem 0.72rem 1rem;
+  position: absolute;
+  text-decoration: none;
+  top: var(--start, 0%);
+  transform: translateX(0);
+  transition: background-color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+  width: calc(var(--lane-width) - 0.55rem);
+  z-index: 2;
 }
 
-.experience-timeline__period-icon {
-  color: #2454d6;
-  flex: 0 0 auto;
-  line-height: 1.5;
-  margin-top: 0.1rem;
+.experience-interval__event::after {
+  background: linear-gradient(180deg, var(--event-color), color-mix(in srgb, var(--event-color), #000 16%));
+  border-radius: 999px;
+  bottom: 0.6rem;
+  content: "";
+  left: 0.42rem;
+  opacity: 0.32;
+  position: absolute;
+  top: 0.6rem;
+  width: 3px;
 }
 
-.experience-timeline__card {
-  border-bottom: 1px solid #e8ebf0;
-  padding: 0 0 1.75rem;
+.experience-interval__event--0 {
+  --event-color: #2454d6;
 }
 
-.experience-timeline__entry-title {
-  font-size: 1.35rem;
+.experience-interval__event--1 {
+  --event-color: #5b8f63;
+}
+
+.experience-interval__event--2 {
+  --event-color: #bd5d34;
+}
+
+.experience-interval__event--3 {
+  --event-color: #8b5fbf;
+}
+
+.experience-interval__event--4 {
+  --event-color: #267d8c;
+}
+
+.experience-interval__event.is-ongoing {
+  border-style: dashed;
+}
+
+.experience-interval__event.is-active {
+  background: color-mix(in srgb, var(--event-color), white 78%);
+  border-color: var(--event-color);
+  box-shadow: inset 0.32rem 0 0 var(--event-color), 0 14px 28px rgba(20, 36, 64, 0.16);
+  transform: translateX(0.32rem);
+  z-index: 5;
+}
+
+.experience-interval__event:visited {
+  color: #30343a;
+}
+
+.experience-interval__event:hover,
+.experience-interval__event:focus {
+  border-color: var(--event-color);
+  color: #30343a;
+  text-decoration: none;
+  transform: translateX(0.32rem);
+}
+
+.experience-interval__event-period {
+  align-items: center;
+  color: #4c5665;
+  display: inline-flex;
+  font-size: 0.76rem;
+  font-weight: 800;
+  gap: 0.35rem;
+  line-height: 1.25;
+}
+
+.experience-interval__event-title {
+  color: #252a32;
+  font-size: 0.88rem;
+  font-weight: 800;
   line-height: 1.35;
-  margin: 0 0 0.65rem;
 }
 
-.experience-timeline__entry-title a {
+.experience-interval__active {
+  border-left: 1px solid #e4e8ef;
+  padding-left: 1.15rem;
+  position: sticky;
+  top: 5.25rem;
+  z-index: 0;
+}
+
+.experience-interval__active-kicker {
+  color: #687180;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.experience-interval__active-date {
+  color: #30343a;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1;
+  margin: 0.4rem 0 1rem;
+}
+
+.experience-interval__active-list {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.experience-interval__active-card {
+  background: #fff;
+  border: 1px solid #e1e6ef;
+  border-radius: 8px;
+  box-shadow: 0 12px 26px rgba(20, 36, 64, 0.08);
+  padding: 0.95rem;
+}
+
+.experience-interval__active-card-period {
   color: #2454d6;
-  text-decoration-color: rgba(36, 84, 214, 0.45);
-  text-decoration-thickness: 0.08em;
-  text-underline-offset: 0.16em;
+  font-size: 0.82rem;
+  font-weight: 800;
+  margin-bottom: 0.45rem;
 }
 
-.experience-timeline__entry-title a:visited {
+.experience-interval__active-card h2 {
+  font-size: 1rem;
+  line-height: 1.4;
+  margin: 0 0 0.55rem;
+}
+
+.experience-interval__active-card h2 a {
   color: #2454d6;
 }
 
-.experience-timeline__entry-title a:hover,
-.experience-timeline__entry-title a:focus {
-  color: #123fb0;
-  text-decoration-color: currentColor;
-}
-
-.experience-timeline__summary {
+.experience-interval__active-card p,
+.experience-interval__empty {
   color: #626976;
-  font-size: 0.98rem;
-  line-height: 1.75;
-  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  line-height: 1.65;
+  margin: 0;
 }
 
-.experience-timeline__more {
+.experience-interval__active-card-more {
   align-items: center;
   color: #2454d6;
   display: inline-flex;
-  font-size: 0.94rem;
-  font-weight: 700;
-  gap: 0.45rem;
+  font-size: 0.86rem;
+  font-weight: 800;
+  gap: 0.35rem;
+  margin-top: 0.65rem;
   text-decoration: none;
 }
 
-.experience-timeline__more:visited {
-  color: #2454d6;
+.experience-interval__fallback {
+  display: none;
 }
 
-.experience-timeline__more:hover,
-.experience-timeline__more:focus {
-  color: #123fb0;
-  text-decoration: underline;
-  text-underline-offset: 0.16em;
+@media (max-width: 960px) {
+  .experience-interval__viewport {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .experience-interval__active {
+    background: rgba(255, 255, 255, 0.94);
+    border: 1px solid #e4e8ef;
+    border-radius: 8px;
+    box-shadow: 0 10px 24px rgba(20, 36, 64, 0.08);
+    padding: 0.9rem;
+    top: 4.75rem;
+  }
+
+  .experience-interval__stage {
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+  }
 }
 
 @media (max-width: 760px) {
-  .experience-timeline {
-    padding: 4.5rem 1rem 3rem;
+  .experience-interval {
+    padding: 4.75rem 1rem 3rem;
   }
 
-  .experience-timeline__title {
+  .experience-interval__title {
     font-size: 2rem;
   }
 
-  .experience-timeline__item {
-    grid-template-columns: 1.75rem minmax(0, 1fr);
+  .experience-interval__stage {
+    grid-template-columns: 3.7rem minmax(22rem, 1fr);
   }
 
-  .experience-timeline__marker {
-    grid-row: 1 / span 2;
+  .experience-interval__axis,
+  .experience-interval__track {
+    min-height: 1040px;
   }
 
-  .experience-timeline__period {
-    padding: 0.1rem 0 0.5rem;
+  .experience-interval__axis-line {
+    left: 2.8rem;
   }
 
-  .experience-timeline__card {
-    grid-column: 2;
-    padding-bottom: 1.5rem;
+  .experience-interval__year {
+    min-width: 2.8rem;
   }
 
-  .experience-timeline__entry-title {
-    font-size: 1.18rem;
+  .experience-interval__active {
+    top: 4.5rem;
   }
 }
