@@ -98,10 +98,12 @@ function initExperienceTimeline() {
 
   var min = Math.min.apply(null, items.map(function (item) { return item.start; }));
   var max = Math.max.apply(null, items.map(function (item) { return item.end; }));
-  var span = Math.max(1, max - min);
+  var earliestDataYear = Math.floor(min / 12);
+  var latestDataYear = Math.floor(max / 12);
+  var earliest = monthIndex(earliestDataYear, 1);
+  var latest = monthIndex(Math.max(latestDataYear + 1, 2028), 1);
+  var span = Math.max(1, latest - earliest);
   var lanes = layoutLanes(items);
-  var latest = max;
-  var earliest = min;
 
   function positionFor(month) {
     return ((latest - month) / span) * 100;
@@ -125,7 +127,7 @@ function initExperienceTimeline() {
       var node = document.createElement("span");
       node.className = "experience-interval__year";
       node.textContent = year;
-      node.style.top = positionFor(monthIndex(year, 7)).toFixed(3) + "%";
+      node.style.top = positionFor(monthIndex(year, 1)).toFixed(3) + "%";
       axisYears.appendChild(node);
     }
   }
