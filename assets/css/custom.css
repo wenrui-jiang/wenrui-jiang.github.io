@@ -78,7 +78,8 @@
   color: #34383f;
   margin: 0 auto;
   max-width: 980px;
-  padding: 1.5rem 0 3rem;
+  padding: 3rem 1.25rem 3.5rem;
+  scroll-margin-top: 5rem;
 }
 
 .experience-timeline__header {
@@ -227,7 +228,7 @@
 
 @media (max-width: 760px) {
   .experience-timeline {
-    padding-top: 1rem;
+    padding: 4.5rem 1rem 3rem;
   }
 
   .experience-timeline__title {
