@@ -2,13 +2,12 @@
 author = "Jiang Wenrui"
 +++
 
-<!-- Home content hidden
-
 Sum discipulus magistralis scientiae computatoriae apud Beijing Jiaotong University, quaerens munera in applicationibus Agent et backend Java. Studium meum est systemata informationis medicae, workflow agentium, tool calling, RAG et architectura backend distributa.
 
 <p class="resume-download">
   <a class="resume-download-button" href="/files/resume/Jiang-Wenrui-Resume.pdf" download>Curriculum recens depone</a>
 </p>
+
 
 ## Artes professionales
 
@@ -24,6 +23,6 @@ Sum discipulus magistralis scientiae computatoriae apud Beijing Jiaotong Univers
 - Workflow cum Human-in-the-loop et machina status pro reservatione medica, triagio et relationibus prae-consultationis excolere.
 - Investigationem de praedictione mercatus ex nuntiis continuare; manuscriptum auctore primo sub recensione KDD est.
 
-Vide [Experientiam](/la/post/), [Proiectum](/la/project/), [Articulos](/la/portfolio/) vel [Contactum](/la/contact/).
 
--->
+
+Vide [Experientiam](/la/post/), [Proiectum](/la/project/), [Articulos](/la/portfolio/) vel [Contactum](/la/contact/).

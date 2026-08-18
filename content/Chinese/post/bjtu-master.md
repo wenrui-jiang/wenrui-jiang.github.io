@@ -2,6 +2,7 @@
 title = "北京交通大学 - 硕士研究生"
 date = "2024-09-01"
 period = "2024.09 - 2027.06（预计）"
+description = "研究生阶段聚焦 Agent 应用、RAG、工具调用、后端微服务与大模型工程化落地。"
 draft = false
 +++
 

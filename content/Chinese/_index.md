@@ -2,13 +2,12 @@
 author = "蒋文睿"
 +++
 
-<!-- Home content hidden
-
 我是北京交通大学计算机科学与技术专业硕士研究生，求职方向为 Agent 应用开发与 Java 后端开发。我关注医疗信息系统、智能体工作流、工具调用、RAG 与分布式后端工程，重视把大模型能力稳定接入真实业务流程。
 
 <p class="resume-download">
   <a class="resume-download-button" href="/files/resume/Jiang-Wenrui-Resume.pdf" download>下载最新版简历</a>
 </p>
+
 
 ## 专业技能
 
@@ -25,5 +24,3 @@ author = "蒋文睿"
 - 持续推进新闻驱动股票预测方向研究，论文 Causal Grouping Network for News-driven Stock Forecasting 以一作身份投稿 KDD 在审。
 
 可以查看 [经历](/zh/post/) 了解我的实习经历，查看 [项目](/zh/project/) 了解 Agent 与后端项目，查看 [文章](/zh/portfolio/) 了解研究成果，或通过 [联系方式](/zh/contact/) 与我联系。
-
--->

@@ -73,3 +73,185 @@
   text-decoration: none;
   transform: translateY(-1px);
 }
+
+.experience-timeline {
+  color: #34383f;
+  margin: 0 auto;
+  max-width: 980px;
+  padding: 1.5rem 0 3rem;
+}
+
+.experience-timeline__header {
+  border-bottom: 1px solid #e7e9ee;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+.experience-timeline__title {
+  color: #30343a;
+  font-size: 2.35rem;
+  line-height: 1.12;
+  margin: 0 0 0.75rem;
+}
+
+.experience-timeline__intro {
+  color: #626976;
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.experience-timeline__intro p {
+  margin: 0;
+}
+
+.experience-timeline__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.experience-timeline__item {
+  display: grid;
+  grid-template-columns: 2rem minmax(8.5rem, 13rem) minmax(0, 1fr);
+  min-height: 8rem;
+  position: relative;
+}
+
+.experience-timeline__item::before {
+  background: #d8dde7;
+  bottom: 0;
+  content: "";
+  left: 0.72rem;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.experience-timeline__item:first-child::before {
+  top: 0.95rem;
+}
+
+.experience-timeline__item:last-child::before {
+  bottom: auto;
+  height: 1rem;
+}
+
+.experience-timeline__marker {
+  position: relative;
+  z-index: 1;
+}
+
+.experience-timeline__dot {
+  background: #fff;
+  border: 3px solid #2454d6;
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px #eef3ff;
+  display: block;
+  height: 0.86rem;
+  margin-top: 0.55rem;
+  width: 0.86rem;
+}
+
+.experience-timeline__period {
+  align-items: flex-start;
+  color: #4d5665;
+  display: flex;
+  font-weight: 700;
+  gap: 0.45rem;
+  line-height: 1.5;
+  padding: 0.25rem 1.25rem 1.75rem 0;
+}
+
+.experience-timeline__period-icon {
+  color: #2454d6;
+  flex: 0 0 auto;
+  line-height: 1.5;
+  margin-top: 0.1rem;
+}
+
+.experience-timeline__card {
+  border-bottom: 1px solid #e8ebf0;
+  padding: 0 0 1.75rem;
+}
+
+.experience-timeline__entry-title {
+  font-size: 1.35rem;
+  line-height: 1.35;
+  margin: 0 0 0.65rem;
+}
+
+.experience-timeline__entry-title a {
+  color: #2454d6;
+  text-decoration-color: rgba(36, 84, 214, 0.45);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+.experience-timeline__entry-title a:visited {
+  color: #2454d6;
+}
+
+.experience-timeline__entry-title a:hover,
+.experience-timeline__entry-title a:focus {
+  color: #123fb0;
+  text-decoration-color: currentColor;
+}
+
+.experience-timeline__summary {
+  color: #626976;
+  font-size: 0.98rem;
+  line-height: 1.75;
+  margin: 0 0 0.75rem;
+}
+
+.experience-timeline__more {
+  align-items: center;
+  color: #2454d6;
+  display: inline-flex;
+  font-size: 0.94rem;
+  font-weight: 700;
+  gap: 0.45rem;
+  text-decoration: none;
+}
+
+.experience-timeline__more:visited {
+  color: #2454d6;
+}
+
+.experience-timeline__more:hover,
+.experience-timeline__more:focus {
+  color: #123fb0;
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+@media (max-width: 760px) {
+  .experience-timeline {
+    padding-top: 1rem;
+  }
+
+  .experience-timeline__title {
+    font-size: 2rem;
+  }
+
+  .experience-timeline__item {
+    grid-template-columns: 1.75rem minmax(0, 1fr);
+  }
+
+  .experience-timeline__marker {
+    grid-row: 1 / span 2;
+  }
+
+  .experience-timeline__period {
+    padding: 0.1rem 0 0.5rem;
+  }
+
+  .experience-timeline__card {
+    grid-column: 2;
+    padding-bottom: 1.5rem;
+  }
+
+  .experience-timeline__entry-title {
+    font-size: 1.18rem;
+  }
+}

@@ -1,0 +1,66 @@
+{{ define "main" }}
+  {{ $readMoreLabels := dict "zh" "查看详情" "en" "Read more" "es" "Ver detalles" "fr" "Voir le détail" "de" "Details ansehen" "ar" "عرض التفاصيل" "la" "Plura lege" }}
+  {{ $readMore := index $readMoreLabels .Site.Language.Lang | default "Read more" }}
+  <section
+    class="experience-timeline {{ with .Site.Params.doNotLoadAnimations }}
+      .
+    {{ else }}
+      animated fadeInDown
+    {{ end }}"
+  >
+    <header class="experience-timeline__header">
+      <h1 class="experience-timeline__title">{{ .Title }}</h1>
+      {{ with .Content }}
+        <div class="experience-timeline__intro">{{ . }}</div>
+      {{ end }}
+    </header>
+
+    <ol class="experience-timeline__list">
+      {{ range .Pages.ByDate.Reverse }}
+        <li class="experience-timeline__item">
+          <div class="experience-timeline__marker" aria-hidden="true">
+            <span class="experience-timeline__dot"></span>
+          </div>
+
+          <div class="experience-timeline__period">
+            <em class="fas fa-calendar-day experience-timeline__period-icon" aria-hidden="true"></em>
+            <span>
+              {{ with .Params.period }}
+                {{ . }}
+              {{ else }}
+                {{ if isset .Site.Params "listdateformat" }}
+                  {{ if .Site.Params.localizedDates }}
+                    {{ time.Format .Site.Params.listDateFormat .Date }}
+                  {{ else }}
+                    {{ .Date.Format .Site.Params.listDateFormat }}
+                  {{ end }}
+                {{ else }}
+                  {{ if .Site.Params.localizedDates }}
+                    {{ time.Format "Jan 2, 2006" .Date }}
+                  {{ else }}
+                    {{ .Date.Format "Jan 2, 2006" }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            </span>
+          </div>
+
+          <article class="experience-timeline__card">
+            <h2 class="experience-timeline__entry-title">
+              <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+            </h2>
+            {{ with .Description }}
+              <p class="experience-timeline__summary">
+                {{ . }}
+              </p>
+            {{ end }}
+            <a class="experience-timeline__more" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+              <span>{{ $readMore }}</span>
+              <em class="fas fa-arrow-right" aria-hidden="true"></em>
+            </a>
+          </article>
+        </li>
+      {{ end }}
+    </ol>
+  </section>
+{{ end }}

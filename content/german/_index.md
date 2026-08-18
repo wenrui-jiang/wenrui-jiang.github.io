@@ -2,13 +2,12 @@
 author = "Jiang Wenrui"
 +++
 
-<!-- Home content hidden
-
 Ich bin Masterstudent der Informatik an der Beijing Jiaotong University und suche Rollen in Agent-Anwendungsentwicklung und Java-Backend-Entwicklung. Mein Fokus liegt auf medizinischen Informationssystemen, Agent-Workflows, Tool Calling, RAG und verteilter Backend-Entwicklung.
 
 <p class="resume-download">
   <a class="resume-download-button" href="/files/resume/Jiang-Wenrui-Resume.pdf" download>Aktuellen Lebenslauf herunterladen</a>
 </p>
+
 
 ## Fachliche Fähigkeiten
 
@@ -24,6 +23,5 @@ Ich bin Masterstudent der Informatik an der Beijing Jiaotong University und such
 - Human-in-the-loop- und Zustandsmaschinen-Workflows für medizinische Terminbuchung, Triage und Vorberichte verbessern.
 - Forschung zu newsgetriebener Aktienprognose fortsetzen; Erstautor-Manuskript unter KDD-Review.
 
-Siehe [Erfahrung](/de/post/), [Projekt](/de/project/), [Artikel](/de/portfolio/) oder [Kontakt](/de/contact/).
 
--->
+Siehe [Erfahrung](/de/post/), [Projekt](/de/project/), [Artikel](/de/portfolio/) oder [Kontakt](/de/contact/).

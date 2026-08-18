@@ -2,6 +2,7 @@
 title = "玉林市东成小学 - 小学"
 date = "2008-09-01"
 period = "2008.09 - 2012.06"
+description = "小学阶段曾在玉林市东成小学学习。"
 draft = false
 +++
 

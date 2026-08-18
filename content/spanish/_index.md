@@ -2,13 +2,12 @@
 author = "Jiang Wenrui"
 +++
 
-<!-- Home content hidden
-
 Soy estudiante de máster en Informática en Beijing Jiaotong University y busco puestos de desarrollo de aplicaciones Agent y backend Java. Me centro en sistemas de información médica, flujos de trabajo de agentes, tool calling, RAG e ingeniería backend distribuida, con énfasis en integrar capacidades de modelos grandes en procesos de negocio fiables.
 
 <p class="resume-download">
   <a class="resume-download-button" href="/files/resume/Jiang-Wenrui-Resume.pdf" download>Descargar CV actualizado</a>
 </p>
+
 
 ## Competencias profesionales
 
@@ -24,6 +23,5 @@ Soy estudiante de máster en Informática en Beijing Jiaotong University y busco
 - Refinar workflows con Human-in-the-loop y máquina de estados para citas médicas, triaje y generación de informes previos.
 - Continuar la investigación en predicción bursátil basada en noticias; el manuscrito como primer autor está en revisión para KDD.
 
-Consulta [Experiencia](/es/post/), [Proyecto](/es/project/), [Artículos](/es/portfolio/) o [Contacto](/es/contact/).
 
--->
+Consulta [Experiencia](/es/post/), [Proyecto](/es/project/), [Artículos](/es/portfolio/) o [Contacto](/es/contact/).
