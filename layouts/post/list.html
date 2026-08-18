@@ -32,7 +32,7 @@
 
         <div class="experience-interval__track" data-experience-track>
           <div class="experience-interval__cursor" data-experience-cursor>
-            <span data-current-date>2025.05</span>
+            <span data-current-date></span>
           </div>
 
           {{ range $index, $page := .Pages.ByDate.Reverse }}
@@ -59,7 +59,7 @@
 
       <aside class="experience-interval__active" data-active-panel>
         <div class="experience-interval__active-kicker">{{ $activeLabel }}</div>
-        <div class="experience-interval__active-date" data-active-date>2025.05</div>
+        <div class="experience-interval__active-date" data-active-date></div>
         <div class="experience-interval__active-list" data-active-list data-empty="{{ $emptyLabel }}">
           <p class="experience-interval__empty">{{ $emptyLabel }}</p>
         </div>

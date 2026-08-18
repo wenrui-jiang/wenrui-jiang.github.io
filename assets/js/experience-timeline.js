@@ -1,4 +1,4 @@
-(function () {
+function initExperienceTimeline() {
   var root = document.querySelector("[data-experience-interval]");
   if (!root) {
     return;
@@ -162,16 +162,15 @@
       });
   }
 
-  function update() {
-    var rect = track.getBoundingClientRect();
-    var safeTop = window.matchMedia("(max-width: 760px)").matches ? 96 : 72;
-    var probe = safeTop + Math.min(160, window.innerHeight * 0.22);
-    var progress = (probe - rect.top) / Math.max(1, rect.height);
-    progress = Math.max(0, Math.min(1, progress));
-    var currentMonth = Math.round(latest - progress * span);
-    var label = formatMonth(currentMonth);
+  var currentSystemMonth = monthIndex(today.getFullYear(), today.getMonth() + 1);
+  var currentProgress = (latest - currentSystemMonth) / span;
+  currentProgress = Math.max(0, Math.min(1, currentProgress));
 
-    cursor.style.setProperty("--cursor", (progress * 100).toFixed(3) + "%");
+  function update() {
+    var currentMonth = currentSystemMonth;
+    var label = formatMonth(currentSystemMonth);
+
+    cursor.style.setProperty("--cursor", (currentProgress * 100).toFixed(3) + "%");
     if (currentDateLabel) currentDateLabel.textContent = label;
     if (activeDate) activeDate.textContent = label;
     renderActive(currentMonth);
@@ -192,4 +191,10 @@
   update();
   window.addEventListener("scroll", requestUpdate, { passive: true });
   window.addEventListener("resize", requestUpdate);
-})();
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initExperienceTimeline);
+} else {
+  initExperienceTimeline();
+}

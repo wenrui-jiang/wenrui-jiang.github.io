@@ -164,9 +164,9 @@
 }
 
 .experience-interval__track {
-  --lane-width: clamp(5.2rem, 12vw, 8rem);
+  --lane-width: calc((100% - 1rem) / var(--lanes, 4));
   min-height: 1180px;
-  min-width: calc(var(--lanes, 4) * var(--lane-width) + 2rem);
+  min-width: 0;
   overflow: visible;
   position: relative;
 }
@@ -404,7 +404,6 @@
   }
 
   .experience-interval__stage {
-    overflow-x: auto;
     padding-bottom: 0.5rem;
   }
 }
@@ -419,7 +418,7 @@
   }
 
   .experience-interval__stage {
-    grid-template-columns: 3.7rem minmax(22rem, 1fr);
+    grid-template-columns: 3.7rem minmax(0, 1fr);
   }
 
   .experience-interval__axis,
