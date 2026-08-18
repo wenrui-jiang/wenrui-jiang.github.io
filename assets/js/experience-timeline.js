@@ -10,9 +10,7 @@ function initExperienceTimeline() {
   var activeDate = root.querySelector("[data-active-date]");
   var activeList = root.querySelector("[data-active-list]");
   var template = root.querySelector("[data-active-card-template]");
-  var axisStart = root.querySelector("[data-axis-start]");
-  var axisMiddle = root.querySelector("[data-axis-middle]");
-  var axisEnd = root.querySelector("[data-axis-end]");
+  var axisYears = root.querySelector("[data-axis-years]");
   var events = Array.prototype.slice.call(root.querySelectorAll("[data-experience-event]"));
 
   if (!track || !cursor || !activeList || !template || !events.length) {
@@ -119,9 +117,18 @@ function initExperienceTimeline() {
   });
 
   track.style.setProperty("--lanes", lanes);
-  if (axisStart) axisStart.textContent = Math.floor(latest / 12);
-  if (axisEnd) axisEnd.textContent = Math.floor(earliest / 12);
-  if (axisMiddle) axisMiddle.textContent = Math.floor(((latest + earliest) / 2) / 12);
+  if (axisYears) {
+    var latestYear = Math.floor(latest / 12);
+    var earliestYear = Math.floor(earliest / 12);
+    axisYears.innerHTML = "";
+    for (var year = latestYear; year >= earliestYear; year -= 1) {
+      var node = document.createElement("span");
+      node.className = "experience-interval__year";
+      node.textContent = year;
+      node.style.top = positionFor(monthIndex(year, 7)).toFixed(3) + "%";
+      axisYears.appendChild(node);
+    }
+  }
 
   function renderActive(currentMonth) {
     var active = items.filter(function (item) {
